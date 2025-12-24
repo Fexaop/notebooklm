@@ -1,0 +1,28 @@
+{
+  "content": "This is not so for a toroid or even for a straight infinite conductor.\n\n(d) Try to bring different ends of the bars closer.\n\nA repulsive force in some situation establishes that both are magnetised.\n\nIf it is always attractive, then one of them is not magnetised.\n\nIn a bar magnet the intensity of the magnetic field is the strongest at the two ends (poles) and weakest at the central region.\n\nThis fact may be used to determine whether A or B is the magnet.\n\nIn this case, to see which one of the two bars is a magnet, pick up one, (say, A) and lower one of its ends; first on one of the ends of the other (say, B), and then on the middle of B.\n\nIf you notice that in the middle of B, A experiences no force, then B is magnetised.\n\nIf you do not notice any change from the end to the middle of B, then A is magnetised.",
+  "header_path": "Solution",
+  "line_ranges": [
+    [
+      115,
+      116
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 14,
+  "total_chunks_in_file": 76,
+  "summary": "A ruling in physics dictates that a bar magnet has the strongest magnetic force at each end and the weakest at the central region.",
+  "hypothetical_questions": [
+    "Can the magnetic field strength at a bar magnet be primarily observed at its ends?",
+    "Indeed, does increasing the magnetization of a bar magnet increase the magnetic field strength at its ends?",
+    "What would happen if a bar magnet's ends were demagnetised?",
+    "What causes the difference in magnetic field strength between the end and middle of a bar magnet?"
+  ],
+  "keywords": [
+    "bar magnet",
+    "poles",
+    "magnetic field",
+    "repulsive force",
+    "magnetised"
+  ],
+  "global_chunk_index": 14
+}

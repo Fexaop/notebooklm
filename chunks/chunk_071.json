@@ -1,0 +1,32 @@
+{
+  "content": "3. A consequence of the fact that magnetic monopoles do not exist is that the magnetic field lines are continuous and form closed loops. In contrast, the electrostatic lines of force begin on a positive charge and terminate on the negative charge (or fade out at infinity).\n\n4. A miniscule difference in the value of χ, the magnetic susceptibility, yields radically different behaviour: diamagnetic versus paramagnetic. For diamagnetic materials χ = -10⁻⁵ whereas χ = +10⁻⁵ for paramagnetic materials.",
+  "header_path": "POINTS TO PONDER",
+  "line_ranges": [
+    [
+      504,
+      504
+    ],
+    [
+      506,
+      506
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 70,
+  "total_chunks_in_file": 76,
+  "summary": "The magnetic field lines are continuous and form closed loops in the absence of magnetic monopoles, forcing the magnetic field to form closed loops. Magnetic susceptibility (χ) differentiates diamagnetic and paramagnetic materials in terms of the difference in their magnetic behavior. ",
+  "hypothetical_questions": [
+    "Can magnetic monopoles be detected?",
+    "What forces determine the phenomenon of diamagnetism?",
+    "What are the conditions for ideal paramagnetism?",
+    "How do the values of χ differentiate diamagnetic from paramagnetic materials?"
+  ],
+  "keywords": [
+    "continuous and closed magnetic field lines",
+    "magnetic field components",
+    "magnetic field loops",
+    "electrostatic lines of force",
+    "charge interactions"
+  ],
+  "global_chunk_index": 70
+}

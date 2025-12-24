@@ -1,0 +1,55 @@
+{
+  "content": "![img-3.jpeg](images/image_2_3.jpeg)\n(c)\n\n![img-4.jpeg](images/image_2_4.jpeg)\nFIGURE 5.2 The field lines of (a) a bar magnet, (b) a current-carrying finite solenoid and (c) electric dipole. At large distances, the field lines are very similar. The curves labelled ① and ⑪ are closed Gaussian surfaces.\n\n![img-5.jpeg](images/image_2_5.jpeg)\nFIGURE 5.3 Calculation of (a) The axial field of a finite solenoid in order to demonstrate its similarity to that of a bar magnet. (b) A magnetic needle in a uniform magnetic field B. The arrangement may be used to determine either B or the magnetic moment m of the needle.\n\n(ii) The tangent to the field line at a given point represents the direction of the net magnetic field B at that point.\n(iii) The larger the number of field lines crossing per unit area, the stronger is the magnitude of the magnetic field B. In Fig. 5.2(a), B is larger around region ii than in region ①.\n(iv) The magnetic field lines do not intersect, for if they did, the direction of the magnetic field would not be unique at the point of intersection.\n\nOne can plot the magnetic field lines in a variety of ways. One way is to place a small magnetic compass needle at various positions and note its orientation. This gives us an idea of the magnetic field direction at various points in space.\n\n# 5.2.2 Bar magnet as an equivalent solenoid\n\nIn the previous chapter, we have explained how a current loop acts as a magnetic dipole (Section 4.9). We mentioned Ampere's hypothesis that all magnetic phenomena can be explained in terms of circulating currents.\n\nThe resemblance of magnetic field lines for a bar magnet and a solenoid suggest that a bar magnet may be thought of as a large number of circulating currents in analogy with a solenoid.\n\nCutting a bar magnet in half is like cutting a solenoid.\n\nWe get two smaller solenoids with weaker magnetic properties.\n\nThe field lines remain continuous, emerging from one face of the solenoid and entering into the other face.",
+  "header_path": "5.2.1 The magnetic field lines",
+  "line_ranges": [
+    [
+      46,
+      47
+    ],
+    [
+      49,
+      50
+    ],
+    [
+      52,
+      53
+    ],
+    [
+      55,
+      57
+    ],
+    [
+      59,
+      59
+    ],
+    [
+      61,
+      61
+    ],
+    [
+      63,
+      63
+    ],
+    [
+      66,
+      66
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 5,
+  "total_chunks_in_file": 76,
+  "summary": "The magnetic field lines have a direction that matches the net magnetic field at any given point and the magnitude of the magnetic field is larger around region ii than in region ① in Fig. 5.2(a).",
+  "hypothetical_questions": [
+    "Why do the magnetic field lines not intersect?",
+    "What is an equivalent solenoid?",
+    "What is the strength of the magnetic field around region ii in comparison to region ① in Fig. 5.2(a)?"
+  ],
+  "keywords": [
+    "magnetic field lines",
+    "net magnetic field",
+    "tangent",
+    "magnetic solenoid",
+    "magnetic field strength"
+  ],
+  "global_chunk_index": 5
+}

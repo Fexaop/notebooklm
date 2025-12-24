@@ -1,0 +1,28 @@
+{
+  "content": "Typical domain size is  $1\\mathrm{mm}$  and the domain contains about  $10^{11}$  atoms.\n\nIn the first instant, the magnetisation varies randomly from domain to domain and there is no bulk magnetisation.\n\nThis is shown in Fig.\n\n5.8(a).\n\nWhen we apply an external magnetic field  $\\mathbf{B}_0$ , the domains orient themselves in the direction of  $\\mathbf{B}_0$  and simultaneously the domain oriented in the direction of  $\\mathbf{B}_0$  grow in size.\n\nThis existence of domains and their motion in  $\\mathbf{B}_0$  are not speculations.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      415,
+      415
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 54,
+  "total_chunks_in_file": 76,
+  "summary": "This text describes the initial state of a ferromagnet where magnetization varies randomly among domains, and the bulk magnetization is non-existent. When an external magnetic field is applied, domains orient in that direction, and larger domains form.",
+  "hypothetical_questions": [
+    "What is a domain in ferromagnets?",
+    "How does the magnetization of domains behave initially in a ferromagnet?",
+    "What happens to the domain size in the presence of the external magnetic field B₀?",
+    "How does the orientation of domains relate to the external magnetic field B₀?"
+  ],
+  "keywords": [
+    "Ferromagnetism",
+    "Domain",
+    "Magnetization",
+    "External Magnetic Field B₀",
+    "Bulk Magnetization"
+  ],
+  "global_chunk_index": 54
+}

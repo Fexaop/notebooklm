@@ -1,0 +1,42 @@
+{
+  "content": "where  $\\mathbf{m}_{\\mathrm{P}}$  is the magnetic moment of the dipole P.\n\nEquilibrium is stable when  $\\mathbf{m}_{\\mathrm{Q}}$  is parallel to  $\\mathbf{B}_{\\mathrm{P}}$ , and unstable when it is anti-parallel to  $\\mathbf{B}_{\\mathrm{P}}$ .\n\n# EXAMPLE 5.2\n\nFor instance for the configuration  $\\mathbf{Q}_3$  for which  $\\mathbf{Q}$  is along the perpendicular bisector of the dipole  $\\mathbf{P}$ , the magnetic moment of  $\\mathbf{Q}$  is parallel to the magnetic field at the position 3. Hence  $\\mathbf{Q}_3$  is stable. Thus,\n\n(a)  $\\mathrm{PQ}_1$  and  $\\mathrm{PQ}_2$\n(b) (i)  $\\mathrm{PQ}_3$ ,  $\\mathrm{PQ}_6$  (stable); (ii)  $\\mathrm{PQ}_5$ ,  $\\mathrm{PQ}_4$  (unstable)\n(c)  $\\mathrm{PQ}_6$",
+  "header_path": "Solution",
+  "line_ranges": [
+    [
+      173,
+      173
+    ],
+    [
+      175,
+      175
+    ],
+    [
+      178,
+      178
+    ],
+    [
+      180,
+      180
+    ],
+    [
+      182,
+      184
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 21,
+  "total_chunks_in_file": 76,
+  "summary": "Explanation of the magnetic stability and equilibrium of configurations involving dipole moment and magnetic field at different positions.",
+  "hypothetical_questions": [
+    "Could you describe the magnetic stability and equilibrium at different positions?",
+    "What are the stable and unstable configurations involving a dipole moment and magnetic field?"
+  ],
+  "keywords": [
+    "dipole moment",
+    "magnetic field",
+    "position",
+    "stability",
+    "equilibrium"
+  ],
+  "global_chunk_index": 21
+}

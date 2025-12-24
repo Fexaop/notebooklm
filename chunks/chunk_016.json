@@ -1,0 +1,38 @@
+{
+  "content": "If you do not notice any change from the end to the middle of B, then A is magnetised.\n\n# 5.2.4 The electrostatic analog\n\nComparison of Eqs. (5.1), (5.2) and (5.3) with the corresponding equations for electric dipole (Chapter 1), suggests that magnetic field at large distances due to a bar magnet of magnetic moment  $\\mathbf{m}$  can be obtained from the equation for electric field due to an electric dipole of dipole moment  $\\mathbf{p}$ , by making the following replacements:\n\n$$\n\\mathbf {E} \\rightarrow \\mathbf {B}, \\mathbf {p} \\rightarrow \\mathbf {m}, \\frac {1}{4 \\pi \\varepsilon_ {0}} \\rightarrow \\frac {\\mu_ {0}}{4 \\pi}\n$$",
+  "header_path": "Solution",
+  "line_ranges": [
+    [
+      116,
+      116
+    ],
+    [
+      118,
+      118
+    ],
+    [
+      120,
+      120
+    ],
+    [
+      122,
+      124
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 15,
+  "total_chunks_in_file": 76,
+  "summary": "The suggestion is that magnetic field at large distances due to a bar magnet of magnetic moment m can be obtained from the equation for electric field due to an electric dipole of dipole moment p , by making the replacements: E→B, p→m, 1/4πε₀→μ₀/4π.",
+  "hypothetical_questions": [
+    "How does magnetic field due to a bar magnet at large distances compare with the electric field due to a dipole?",
+    "What are the substitutions made to obtain the magnetic field equation from the electric field equation?"
+  ],
+  "keywords": [
+    "comparison",
+    "electric field",
+    "magnetic field",
+    "dipole",
+    "substitutions"
+  ],
+  "global_chunk_index": 15
+}

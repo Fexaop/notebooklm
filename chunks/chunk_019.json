@@ -1,0 +1,30 @@
+{
+  "content": "Example 5.2 Figure 5.4 shows a small magnetised needle P placed at a point O. The arrow shows the direction of its magnetic moment. The other arrows show different positions (and orientations of the magnetic moment) of another identical magnetised needle Q.\n\n(a) In which configuration the system is not in equilibrium?\n(b) In which configuration is the system in (i) stable, and (ii) unstable equilibrium?\n(c) Which configuration corresponds to the lowest potential energy among all the configurations shown?",
+  "header_path": "5.2.4 The electrostatic analog",
+  "line_ranges": [
+    [
+      152,
+      152
+    ],
+    [
+      154,
+      156
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 18,
+  "total_chunks_in_file": 76,
+  "summary": "This chunk defines the conditions for equilibrium and potential energy of two magnetised needles P and Q in different configurations.",
+  "hypothetical_questions": [
+    "How would the addition of heat affect the equilibrium and potential energy of the magnets in this system?",
+    "What factors would contribute to increasing the potential energy of the magnets in this system?"
+  ],
+  "keywords": [
+    "equilibrium",
+    "magnetised needles",
+    "configuration",
+    "potential energy",
+    "heat"
+  ],
+  "global_chunk_index": 18
+}

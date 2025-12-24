@@ -1,0 +1,31 @@
+{
+  "content": "5.8(b) shows the situation when the domains have aligned and amalgamated to form a single 'giant' domain.\n\nThus, in a ferromagnetic material the field lines are highly concentrated.\n\nIn non-uniform magnetic field, the sample tends to move towards the region of high field.\n\nWe may wonder as to what happens when the external field is removed.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      415,
+      415
+    ],
+    [
+      417,
+      417
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 56,
+  "total_chunks_in_file": 76,
+  "summary": "In a ferromagnetic material, the domains with aligned and amalgamated magnetic poles form a single 'giant' domain when magnetic field lines are highly concentrated, resulting in movement towards the region of high field. Removal of external field can cause the sample to move towards the region of high field.",
+  "hypothetical_questions": [
+    "What happens to magnetic domains when an external field is removed?",
+    "how is ferromagnetism related to magnetic domains?",
+    "How does a material's response to an external magnetic field affect its movement?"
+  ],
+  "keywords": [
+    "ferromagnetism",
+    "magnetic domains",
+    "giant domain",
+    "external field removal",
+    "high field"
+  ],
+  "global_chunk_index": 56
+}

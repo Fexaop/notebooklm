@@ -1,0 +1,46 @@
+{
+  "content": "A glance at Table 5.2 gives one a better feeling for these materials. Here  $\\varepsilon$  is a small positive number introduced to quantify paramagnetic materials. Next, we describe these materials in some detail.\n\nTABLE 5.2\n\n|  Diamagnetic | Paramagnetic | Ferromagnetic  |\n| --- | --- | --- |\n|  -1 ≤ χ < 0 | 0 < χ < ε | χ >> 1  |\n|  0 ≤ μr < 1 | 1 < μr < 1 + ε | μr >> 1  |\n|  μ < μ0 | μ > μ0 | μ >> μ0  |\n\n# 5.5.1 Diamagnetism\n\nDiamagnetic substances are those which have tendency to move from stronger to the weaker part of the external magnetic field. In other words, unlike the way a magnet attracts metals like iron, it would repel a diamagnetic substance.\n\nFigure 5.7(a) shows a bar of diamagnetic material placed in an external magnetic field. The field lines are repelled or expelled and the field inside the material is reduced. In most cases, this reduction is slight, being one part in  $10^{5}$ . When placed in a non-uniform magnetic field, the bar will tend to move from high to low field.",
+  "header_path": "5.5 MAGNETIC PROPERTIES OF MATERIALS",
+  "line_ranges": [
+    [
+      369,
+      369
+    ],
+    [
+      371,
+      371
+    ],
+    [
+      373,
+      377
+    ],
+    [
+      379,
+      379
+    ],
+    [
+      381,
+      381
+    ],
+    [
+      383,
+      383
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 44,
+  "total_chunks_in_file": 76,
+  "summary": "Table 5.2 gives a concise 1-sentence summary of the text.\nParamagnetic materials have a small positive susceptibility χ with 0 < χ < ε, and a magnetic permeability μr between 1 and 1 + ε. Ferromagnetic materials have a significantly higher susceptibility χ with χ >> 1, a magnetic permeability μr greater than 1, and a magnetic permeability μr much greater than 1.\nDiamagnetic substances pushed from stronger to the weaker part of the external magnetic field.",
+  "hypothetical_questions": [
+    "What is diamagnetism?",
+    "Can magnesium push items towards it?",
+    "What can magnet repel and where can ferromagnetic deteriorate?"
+  ],
+  "keywords": [
+    "magnetic properties of materials",
+    "diamagnetic materials",
+    "paramagnetic materials",
+    "ferromagnetic materials"
+  ],
+  "global_chunk_index": 44
+}

@@ -1,0 +1,28 @@
+{
+  "content": "When magnetic field is applied, those electrons having orbital magnetic moment in the same direction slow down and those in the opposite direction speed up.\n\nThis happens due to induced current in accordance with Lenz's law which you will study in Chapter 6.\n\nThus, the substance develops a net magnetic moment in direction opposite to that of the applied field and hence repulsion.",
+  "header_path": "5.5.1 Diamagnetism",
+  "line_ranges": [
+    [
+      396,
+      396
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 48,
+  "total_chunks_in_file": 76,
+  "summary": "When a magnetic field is applied to a diamagnetic substance, the electrons with orbital magnetic moments in the same direction slow down while those with the opposite direction speed up. This induces a current according to Lenz's law, causing the substance to develop a net magnetic moment in the opposite direction of the applied field, resulting in repulsion.",
+  "hypothetical_questions": [
+    "How does diamagnetism occur?",
+    "What is the basis for the repulsion between the applied magnetic field and diamagnetic substance?",
+    "Can you explain Lenz's law in relation to diamagnetism?",
+    "What role does the induced current play in diamagnetism?"
+  ],
+  "keywords": [
+    "diamagnetism",
+    "magnetic field",
+    "electrons",
+    "orbital magnetic moments",
+    "Lenz's law"
+  ],
+  "global_chunk_index": 48
+}

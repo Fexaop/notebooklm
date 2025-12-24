@@ -1,0 +1,68 @@
+{
+  "content": "where $\\mu_0$ is the same constant (permittivity of vacuum) that appears in Biot-Savart's law.\n\nIt is convenient to introduce another vector field $\\mathbf{H}$, called the magnetic intensity, which is defined by\n\n$$\n\\mathbf {H} = \\frac {\\mathbf {B}}{\\mu_ {0}} - \\mathbf {M} \\tag {5.11}\n$$\n\nwhere $\\mathbf{H}$ has the same dimensions as $\\mathbf{M}$ and is measured in units of $\\mathrm{A~m}^{-1}$. Thus, the total magnetic field $\\mathbf{B}$ is written as\n\n$$\n\\mathbf {B} = \\mu_ {0} (\\mathbf {H} + \\mathbf {M}) \\tag {5.12}\n$$\n\nWe repeat our defining procedure. We have partitioned the contribution to the total magnetic field inside the sample into two parts: one, due to external factors such as the current in the solenoid. This is represented by $\\mathbf{H}$. The other is due to the specific nature of the magnetic material, namely $\\mathbf{M}$. The latter quantity can be influenced by external factors. This influence is mathematically expressed as\n\n$$\n\\mathbf {M} = \\chi \\mathbf {H} \\tag {5.13}\n$$\n\nwhere $\\chi$, a dimensionless quantity, is appropriately called the magnetic susceptibility. It is a measure of how a magnetic material responds to an external field. $\\chi$ is small and positive for materials, which are called paramagnetic. It is small and negative for materials, which are termed diamagnetic. In the latter case $\\mathbf{M}$ and $\\mathbf{H}$ are opposite in direction. From Eqs. (5.12) and (5.13) we obtain,\n\n$$\n\\begin{array}{l} \\mathbf {B} = \\mu_ {0} (1 + \\chi) \\mathbf {H} \\tag {5.14} \\\\ = \\mu_ {0} \\mu_ {\\mathrm {r}} \\mathbf {H} \\\\ = \\mu \\mathbf {H} \\tag {5.15} \\\\ \\end{array}\n$$\n\nwhere $\\mu_{\\mathrm{r}} = 1 + \\chi$, is a dimensionless quantity called the relative magnetic permeability of the substance. It is the analog of the dielectric constant in electrostatics. The magnetic permeability of the substance is $\\mu$ and it has the same dimensions and units as $\\mu_0$:\n\n$$\n\\mu = \\mu_ {0} \\mu_ {r} = \\mu_ {0} (1 + \\chi).\n$$",
+  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
+  "line_ranges": [
+    [
+      313,
+      313
+    ],
+    [
+      315,
+      315
+    ],
+    [
+      317,
+      319
+    ],
+    [
+      321,
+      321
+    ],
+    [
+      323,
+      325
+    ],
+    [
+      327,
+      327
+    ],
+    [
+      329,
+      331
+    ],
+    [
+      333,
+      333
+    ],
+    [
+      335,
+      337
+    ],
+    [
+      339,
+      339
+    ],
+    [
+      341,
+      343
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 41,
+  "total_chunks_in_file": 76,
+  "summary": "The text introduces the concept of magnetic intensity ($\bm{H}$) and discusses how the total magnetic field ($\bm{B}$) can be expressed as $\bm{B} = \bm{H} + \bm{M}$, where $\bm{M}$ represents the potential. It explains that magnetic susceptibility ($\bm{\rho}$) measures a magnetic material's response to an external field and presents a procedure to express the total magnetic field as $\bm{B} = \bm{H} + \bm{M}$ using Eqs. (5.11) and (5.13). It concludes by stating that these mathematical expressions are analogous to those in electrostatics.",
+  "hypothetical_questions": [
+    "How is the total magnetic field within a substance represented?",
+    "What quantities are included in the expression of the total magnetic field?",
+    "What do magnetic susceptibility and relative magnetic permeability represent in a magnetic material?",
+    "How is the total magnetic field expressed in terms of magnetic susceptibility?"
+  ],
+  "keywords": [
+    "Magnetic intensity",
+    "Magnetic field",
+    "Magnetic susceptibility",
+    "Relative magnetic permeability",
+    "Electrostatics"
+  ],
+  "global_chunk_index": 41
+}

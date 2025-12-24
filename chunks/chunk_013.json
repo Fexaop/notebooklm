@@ -1,0 +1,27 @@
+{
+  "content": "(a) In either case, one gets two magnets, each with a north and south pole.\n\n(b) No force if the field is uniform.\n\nThe iron nail experiences a non-uniform field due to the bar magnet.\n\nThere is induced magnetic moment in the nail, therefore, it experiences both force and torque.\n\nThe net force is attractive because the induced south pole (say) in the nail is closer to the north pole of magnet than induced north pole.",
+  "header_path": "Solution",
+  "line_ranges": [
+    [
+      113,
+      114
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 12,
+  "total_chunks_in_file": 76,
+  "summary": "Discusses the iron nail being attracted to the magnet due to a non-uniform field and an induced magnetic moment.",
+  "hypothetical_questions": [
+    "What factors contribute to the iron nail experiencing both force and torque?",
+    "Why is the net force attractive in the iron nail?",
+    "How does the induced magnetic moment in the iron nail create the attractive force?"
+  ],
+  "keywords": [
+    "iron nail",
+    "magnet",
+    "non-uniform field",
+    "induced magnetic moment",
+    "force"
+  ],
+  "global_chunk_index": 12
+}

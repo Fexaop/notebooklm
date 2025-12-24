@@ -1,0 +1,39 @@
+{
+  "content": "(d) The magnetising current  $I_{M}$  is the additional current that needs to be passed through the windings of the solenoid in the absence of the core which would give a  $B$  value as in the presence of the core. Thus  $B = \\mu_r n (I + I_M)$ . Using  $I = 2\\mathrm{A}$ ,  $B = 1\\mathrm{T}$ , we get  $I_{M} = 794\\mathrm{A}$ .\n\n# 5.5 MAGNETIC PROPERTIES OF MATERIALS\n\nThe discussion in the previous section helps us to classify materials as diamagnetic, paramagnetic or ferromagnetic. In terms of the susceptibility  $\\chi$ , a material is diamagnetic if  $\\chi$  is negative, para- if  $\\chi$  is positive and small, and ferro- if  $\\chi$  is large and positive.\n\nA glance at Table 5.2 gives one a better feeling for these materials. Here  $\\varepsilon$  is a small positive number introduced to quantify paramagnetic materials. Next, we describe these materials in some detail.",
+  "header_path": "Solution",
+  "line_ranges": [
+    [
+      363,
+      363
+    ],
+    [
+      365,
+      365
+    ],
+    [
+      367,
+      367
+    ],
+    [
+      369,
+      369
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 43,
+  "total_chunks_in_file": 76,
+  "summary": "Magnetising current is the additional current that needs to be passed through the windings of a solenoid in the absence of a magnetic core to achieve a certain magnetic field value B.",
+  "hypothetical_questions": [
+    "Can you explain the concept of magnetising current and its significance in magnetic properties?",
+    "How does the susceptibility of material affect its magnetic behavior?",
+    "What are the different types of magnetic materials (diamagnetic, paramagnetic, ferromagnetic) and how can they be distinguished?"
+  ],
+  "keywords": [
+    "magnetising current",
+    "solenoid",
+    "magnetic field",
+    "solenoid",
+    "magnetic field"
+  ],
+  "global_chunk_index": 43
+}

@@ -1,0 +1,36 @@
+{
+  "content": "![img-15.jpeg](images/image_7_15.jpeg)\nFIGURE 5.6\n\n# Solution\n\n(a) Wrong. Magnetic field lines can never emanate from a point, as shown in figure. Over any closed surface, the net flux of B must always be zero, i.e., pictorially as many field lines should seem to enter the surface as the number of lines leaving it. The field lines shown, in fact, represent electric field of a long positively charged wire. The correct magnetic field lines are circling the straight conductor, as described in Chapter 4.",
+  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
+  "line_ranges": [
+    [
+      241,
+      242
+    ],
+    [
+      245,
+      245
+    ],
+    [
+      247,
+      247
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 28,
+  "total_chunks_in_file": 76,
+  "summary": "Over any closed surface, the net flux of the magnetic field must always be zero.",
+  "hypothetical_questions": [
+    "What will be the magnetic field of a straight conductor on a closed surface?",
+    "<|fim_suffix|>ent loop is the same as that inside a closed loop if B is perpendicular to the loop is 3FT (Fig. 34-39).",
+    "In Fig. P34.58, determine the net magnetic flux through the circular surface about which the wire in a= loop l1 is a diameter at the instant l. 2=c 32 = 300 loops turn at the angular speed o = 12 Buber/o directed out of the page.",
+    "In Fig. P33.58, find the magnitude of the constant B field (not B magnetic field) directed into the page that produces = Buber/d2 = 24 FT required through the loop containing five windings."
+  ],
+  "keywords": [
+    "B is zero through any surface",
+    "Set of parallel superposition",
+    "Perpendicular",
+    "Net flux of B",
+    "Wire concerns"
+  ],
+  "global_chunk_index": 28
+}

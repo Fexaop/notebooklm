@@ -1,0 +1,60 @@
+{
+  "content": "Unlike electric charges, isolated magnetic north and south poles known as magnetic monopoles do not exist.\n\n(v) It is possible to make magnets out of iron and its alloys.\n\nWe begin with a description of a bar magnet and its behaviour in an external magnetic field. We describe Gauss's law of magnetism. We next describe how materials can be classified on the basis of their magnetic properties. We describe para-, dia-, and ferromagnetism.\n\n# 5.2 THE BAR MAGNET\n\nWe begin our study by examining iron filings sprinkled on a sheet of glass placed over a short bar magnet. The arrangement of iron filings is shown in Fig. 5.1.\n\nThe pattern of iron filings suggests that the magnet has two poles similar to the positive and negative charge of an electric dipole. As mentioned in the introductory section, one pole is designated the North pole and the other, the South pole. When suspended freely, these poles point approximately towards the geographic north and south poles, respectively. A similar pattern of iron filings is observed around a current carrying solenoid.\n\n# 5.2.1 The magnetic field lines\n\nThe pattern of iron fillings permits us to plot the magnetic field lines*. This is shown both for the bar-magnet and the current-carrying solenoid in Fig. 5.2. For\n\ncomparison refer to the Chapter 1, Figure 1.14(d). Electric field lines of an electric dipole are also displayed in Fig. 5.2(c). The magnetic field lines are a visual and intuitive realisation of the magnetic field. Their properties are:\n\n(i) The magnetic field lines of a magnet (or a solenoid) form continuous closed loops. This is unlike the electric dipole where these field lines begin from a positive charge and end on the negative charge or escape to infinity.\n\n![img-0.jpeg](images/image_1_0.jpeg)\nFIGURE 5.1 The arrangement of iron filings surrounding a bar magnet. The pattern mimics magnetic field lines. The pattern suggests that the bar magnet is a magnetic dipole.",
+  "header_path": "5.1 INTRODUCTION",
+  "line_ranges": [
+    [
+      17,
+      18
+    ],
+    [
+      20,
+      20
+    ],
+    [
+      22,
+      22
+    ],
+    [
+      24,
+      24
+    ],
+    [
+      26,
+      26
+    ],
+    [
+      28,
+      28
+    ],
+    [
+      30,
+      30
+    ],
+    [
+      32,
+      32
+    ],
+    [
+      34,
+      34
+    ],
+    [
+      36,
+      37
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 3,
+  "total_chunks_in_file": 76,
+  "summary": "The Magnetic Field lines are a visual and intuitive realisation of magnetic field. This is unlike the electric dipole where these electric field lines begin from a positive charge and end on the negative charge or escape to infinity",
+  "hypothetical_questions": [
+    "what are the primary differences between electric and magnetic fields?",
+    "why do inside a magnetic field curl of the magnetic field vector is equal to zero?"
+  ],
+  "keywords": [
+    "bar magnet",
+    "electric field lines",
+    "electric dipole"
+  ],
+  "global_chunk_index": 3
+}

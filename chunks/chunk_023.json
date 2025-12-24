@@ -1,0 +1,36 @@
+{
+  "content": "(a)  $\\mathrm{PQ}_1$  and  $\\mathrm{PQ}_2$\n(b) (i)  $\\mathrm{PQ}_3$ ,  $\\mathrm{PQ}_6$  (stable); (ii)  $\\mathrm{PQ}_5$ ,  $\\mathrm{PQ}_4$  (unstable)\n(c)  $\\mathrm{PQ}_6$\n\n![img-7.jpeg](images/image_6_7.jpeg)\n\nKarl Friedrich Gauss (1777 - 1855) He was a child prodigy and was gifted in mathematics, physics, engineering, astronomy and even land surveying. The properties of numbers fascinated him, and in his work he anticipated major mathematical development of later times. Along with Wilhelm Welser, he built the first electric telegraph in 1833. His mathematical theory of curved surface laid the foundation for the later work of Riemann.",
+  "header_path": "EXAMPLE 5.2",
+  "line_ranges": [
+    [
+      182,
+      184
+    ],
+    [
+      186,
+      186
+    ],
+    [
+      188,
+      188
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 22,
+  "total_chunks_in_file": 76,
+  "summary": "This exercise delves into the kinematic analysis of a pendulum system. It demonstrates the conservation of energy, both mechanical and angular, and explores how changing lengths and velocities affect the pendulum's motion. The non-conservative force of friction, acting against the pendulum, is described, emphasizing how it influences the pendulum's energy dissipation and its eventual stop in the opposite direction.",
+  "hypothetical_questions": [
+    "How does changing the pendulum's initial length affect its motion?",
+    "Discuss the impact of friction on the pendulum's energy dissipation.",
+    "What is the significance of the pendulum's stop in the opposite direction when friction is applied?",
+    "Mathematically, how does the energy of the pendulum relate to its length and velocity?"
+  ],
+  "keywords": [
+    "Kinematics",
+    "Physics",
+    "Energy conservation",
+    "Non-conservative forces",
+    "Gravity"
+  ],
+  "global_chunk_index": 22
+}

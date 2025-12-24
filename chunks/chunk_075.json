@@ -1,0 +1,60 @@
+{
+  "content": "7. We have classified materials as diamagnetic, paramagnetic, and ferromagnetic. However, there exist additional types of magnetic material such as ferrimagnetic, anti-ferromagnetic, spin glass, etc. with properties which are exotic and mysterious.\n\n# EXERCISES\n\n5.1 A short bar magnet placed with its axis at $30^{\\circ}$ with a uniform external magnetic field of 0.25 T experiences a torque of magnitude equal to $4.5 \\times 10^{-2} \\mathrm{~J}$. What is the magnitude of magnetic moment of the magnet?\n\n5.2 A short bar magnet of magnetic moment $m = 0.32 \\, \\mathrm{JT}^{-1}$ is placed in a uniform magnetic field of 0.15 T. If the bar is free to rotate in the plane of the field, which orientation would correspond to its (a) stable, and (b) unstable equilibrium? What is the potential energy of the magnet in each case?\n\n5.3 A closely wound solenoid of 800 turns and area of cross section $2.5 \\times 10^{-4} \\, \\mathrm{m}^2$ carries a current of 3.0 A. Explain the sense in which the solenoid acts like a bar magnet. What is its associated magnetic moment?\n\n5.4 If the solenoid in Exercise 5.5 is free to turn about the vertical direction and a uniform horizontal magnetic field of $0.25\\mathrm{T}$ is applied, what is the magnitude of torque on the solenoid when its axis makes an angle of $30^{\\circ}$ with the direction of applied field?\n\n5.5 A bar magnet of magnetic moment $1.5 \\, \\mathrm{J} \\, \\mathrm{T}^{-1}$ lies aligned with the direction of a uniform magnetic field of 0.22 T.\n\n(a) What is the amount of work required by an external torque to turn the magnet so as to align its magnetic moment: (i) normal to the field direction, (ii) opposite to the field direction?\n\n(b) What is the torque on the magnet in cases (i) and (ii)?",
+  "header_path": "POINTS TO PONDER",
+  "line_ranges": [
+    [
+      513,
+      513
+    ],
+    [
+      515,
+      515
+    ],
+    [
+      517,
+      517
+    ],
+    [
+      519,
+      519
+    ],
+    [
+      521,
+      521
+    ],
+    [
+      523,
+      523
+    ],
+    [
+      525,
+      525
+    ],
+    [
+      527,
+      527
+    ],
+    [
+      529,
+      529
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 74,
+  "total_chunks_in_file": 76,
+  "summary": "The text discusses additional types of magnetic materials such as ferrimagnetic, anti-ferromagnetic, and spin glass, which possess properties that are exotic and mysterious. The text also predicts the magnetization of ferrite magnets at low temperatures and the magnetic properties of Mn - Al single crystals.",
+  "hypothetical_questions": [
+    "How do spin glasses merit the name \" glasses \"?",
+    "How does spin glass differ from other types of glass?",
+    "How do dipymuth-like arrangements affect the magnetic properties of spin glasses?",
+    "How does low temperature annealing lead to favorable magnetic properties in Mn - Al crystals?"
+  ],
+  "keywords": [
+    "magnetic",
+    "materials",
+    "solvated electron",
+    "spin glass",
+    "Bacillus megaterium"
+  ],
+  "global_chunk_index": 74
+}

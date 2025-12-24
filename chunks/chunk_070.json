@@ -1,0 +1,33 @@
+{
+  "content": "1. A satisfactory understanding of magnetic phenomenon in terms of moving charges/currents was arrived at after 1800 AD. But technological exploitation of the directional properties of magnets predates this scientific understanding by two thousand years. Thus, scientific understanding is not a necessary condition for engineering applications. Ideally, science and engineering go hand-in-hand, one leading and assisting the other in tandem.\n\n2. Magnetic monopoles do not exist. If you slice a magnet in half, you get two smaller magnets. On the other hand, isolated positive and negative charges exist. There exists a smallest unit of charge, for example, the electronic charge with value |e| = 1.6 × 10⁻¹⁹ C. All other charges are integral multiples of this smallest unit charge. In other words, charge is quantised. We do not know why magnetic monopoles do not exist or why electric charge is quantised.\n\n3. A consequence of the fact that magnetic monopoles do not exist is that the magnetic field lines are continuous and form closed loops. In contrast, the electrostatic lines of force begin on a positive charge and terminate on the negative charge (or fade out at infinity).",
+  "header_path": "POINTS TO PONDER",
+  "line_ranges": [
+    [
+      500,
+      500
+    ],
+    [
+      502,
+      502
+    ],
+    [
+      504,
+      504
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 69,
+  "total_chunks_in_file": 76,
+  "summary": "While scientific understanding of magnetic phenomenon via moving charges predates technological exploitation of their directional properties by two millennia, magnetic monopoles do not exist, leaving magnetism with continuous magnetic field lines instead of discrete point charges with electric quantisation.",
+  "hypothetical_questions": [
+    "Why do magnetic monopoles not exist?",
+    "Why does magnetic field lines exhibit continuous loops instead of discrete point charges as opposed to electrostatic lines of force?",
+    "What is the consequence of magnetic monopoles not existing on the behavior of magnetic field lines?"
+  ],
+  "keywords": [
+    "magnetic monopoles",
+    "quantised charge",
+    "continuity of magnetic field lines"
+  ],
+  "global_chunk_index": 69
+}

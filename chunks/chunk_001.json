@@ -1,0 +1,34 @@
+{
+  "content": "# 5.1 INTRODUCTION\n\nMagnetic phenomena are universal in nature. Vast, distant galaxies, the tiny invisible atoms, humans and beasts all are permeated through and through with a host of magnetic fields from a variety of sources. The earth's magnetism predates human evolution. The word magnet is derived from the name of an island in Greece called magnesia where magnetic ore deposits were found, as early as 600 BC.\n\nIn the previous chapter we have learned that moving charges or electric currents produce magnetic fields. This discovery, which was made in the early part of the nineteenth century is credited to Oersted, Ampere, Biot and Savart, among others.",
+  "header_path": "5.1 INTRODUCTION",
+  "line_ranges": [
+    [
+      1,
+      1
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      5,
+      5
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 0,
+  "total_chunks_in_file": 76,
+  "summary": "The chapter discusses the history of magnetic phenomena and their relation to moving charges and electric currents, providing a brief overview of scientists like Oersted, Ampere, Biot, and Savart, whose works led to these discoveries, and mentioning the Greek island of Magnesia, where magnetic ore deposits were discovered in ancient times.",
+  "hypothetical_questions": [
+    "How did the discovery of magnetic fields connect to early Greek civilization?",
+    "Who were the key scientists known for their work on magnetic phenomena during the early nineteenth century?"
+  ],
+  "keywords": [
+    "magnetic fields",
+    "moving charges",
+    "electric currents",
+    "Oersted",
+    "Ampere"
+  ],
+  "global_chunk_index": 0
+}

@@ -1,0 +1,31 @@
+{
+  "content": "(a) In which configuration the system is not in equilibrium?\n(b) In which configuration is the system in (i) stable, and (ii) unstable equilibrium?\n(c) Which configuration corresponds to the lowest potential energy among all the configurations shown?\n\n![img-6.jpeg](images/image_5_6.jpeg)\nFIGURE 5.4",
+  "header_path": "5.2.4 The electrostatic analog",
+  "line_ranges": [
+    [
+      154,
+      156
+    ],
+    [
+      158,
+      159
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 19,
+  "total_chunks_in_file": 76,
+  "summary": "There are four configuration images and questions posed 'In what configuration is the system in equilibrium? In which configuration is the system in stable equilibrium? In which configurations the system is unstable? and Which configuration corresponds to the lowest potential energy among all the configuration is shown?''",
+  "hypothetical_questions": [
+    "Which configuration is not in equilibrium?",
+    "In which configuration is the system in stable equilibrium?",
+    "In which configurations is the system in unstable equilibrium?",
+    "Which configuration has the lowest potential energy?"
+  ],
+  "keywords": [
+    "equilibrium",
+    "stable and unstable equilibrium",
+    "potential energy",
+    "configuration"
+  ],
+  "global_chunk_index": 19
+}

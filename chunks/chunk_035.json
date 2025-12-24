@@ -1,0 +1,36 @@
+{
+  "content": "(b) If magnetic monopoles existed, how would the Gauss's law of magnetism be modified?\n\n(c) Does a bar magnet exert a torque on itself due to its own field? Does one element of a current-carrying wire exert a force on another element of the same wire?\n\n(d) Magnetic field arises due to charges in motion. Can a system have magnetic moments even though its net charge is zero?",
+  "header_path": "Example 5.4",
+  "line_ranges": [
+    [
+      265,
+      265
+    ],
+    [
+      267,
+      267
+    ],
+    [
+      270,
+      270
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 34,
+  "total_chunks_in_file": 76,
+  "summary": "The question is about understanding the existence or non-existence of magnetic monopoles and how it would modify Gauss's law of magnetism, and whether a bar magnet or a current-carrying wire exerts a torque or force on itself.",
+  "hypothetical_questions": [
+    "If magnetic monopoles did not exist, would it still be possible to have net magnetic charge?",
+    "How would the law of conservation of magnetic charge be modified in the absence of magnetic monopoles?",
+    "Are magnetic field lines real or imaginary?",
+    "Is a magnetic monopole predicted by Maxwell's equations?"
+  ],
+  "keywords": [
+    "magnetic monopole",
+    "Gauss's law of magnetism",
+    "torque",
+    "force",
+    "magnetic moment"
+  ],
+  "global_chunk_index": 34
+}

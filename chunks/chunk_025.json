@@ -1,0 +1,30 @@
+{
+  "content": "The situation is radically different for magnetic fields which are continuous and form closed loops. Examine the Gaussian surfaces represented by ① or ① in Fig 5.2(a) or Fig. 5.2(b). Both cases visually demonstrate that the number of magnetic field lines leaving the surface is balanced by the number of lines entering it. The net magnetic flux is zero for both the surfaces. This is true for any closed surface.\n\n![img-8.jpeg](images/image_6_8.jpeg)\nFIGURE 5.5",
+  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
+  "line_ranges": [
+    [
+      194,
+      194
+    ],
+    [
+      196,
+      197
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 24,
+  "total_chunks_in_file": 76,
+  "summary": "The net magnetic flux through any closed surface is zero, meaning the number of magnetic field lines entering equals the number of lines leaving the surface.",
+  "hypothetical_questions": [
+    "Why is the net magnetic flux zero for a closed surface?",
+    "Explain the relationship between the number of magnetic field lines entering and leaving a closed surface."
+  ],
+  "keywords": [
+    "magnetic fields",
+    "closed loop",
+    "Gaussian surfaces",
+    "Net magnetic flux",
+    "Magnetic field lines"
+  ],
+  "global_chunk_index": 24
+}

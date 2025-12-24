@@ -1,0 +1,47 @@
+{
+  "content": "We will come across such examples in connection with paramagnetic material where atoms have net dipole moment through their net charge is zero.\n\n## 5.4 MAGNETISATION AND MAGNETIC INTENSITY\n\nThe earth abounds with a bewildering variety of elements and compounds. In addition, we have been synthesising new alloys, compounds and even elements. One would like to classify the magnetic properties of these substances. In the present section, we define and explain certain terms which will help us to carry out this exercise.\n\nWe have seen that a circulating electron in an atom has a magnetic moment. In a bulk material, these moments add up vectorially and they can give a net magnetic moment which is non-zero. We define magnetisation $\\mathbf{M}$ of a sample to be equal to its net magnetic moment per unit volume:\n\n$$\n\\mathbf{M} = \\frac{\\mathbf{m}_{\\text{net}}}{V} \\tag{5.7}\n$$\n\n$\\mathbf{M}$ is a vector with dimensions $\\mathrm{L}^{-1}$ A and is measured in a units of $\\mathrm{A} \\, \\mathrm{m}^{-1}$.",
+  "header_path": "Example 5.4 > Solution",
+  "line_ranges": [
+    [
+      280,
+      280
+    ],
+    [
+      282,
+      282
+    ],
+    [
+      284,
+      284
+    ],
+    [
+      286,
+      286
+    ],
+    [
+      288,
+      290
+    ],
+    [
+      292,
+      292
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 38,
+  "total_chunks_in_file": 76,
+  "summary": "Magnetisation is a vector equal to a sample's net magnetic moment divided by its volume, with dimensions L⁻¹ A measured in A m⁻¹.",
+  "hypothetical_questions": [
+    "What is the significance of magnetisation in classifying magnetic properties?",
+    "How is magnetisation calculated in bulk materials?",
+    "What are the dimensions and units used to measure magnetisation?"
+  ],
+  "keywords": [
+    "magnetisation",
+    "net magnetic moment",
+    "bulk material",
+    "volume",
+    "dimensions"
+  ],
+  "global_chunk_index": 38
+}

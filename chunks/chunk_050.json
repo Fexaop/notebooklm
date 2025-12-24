@@ -1,0 +1,36 @@
+{
+  "content": "Thus, the substance develops a net magnetic moment in direction opposite to that of the applied field and hence repulsion.\n\nSome diamagnetic materials are bismuth, copper, lead, silicon, nitrogen (at STP), water and sodium chloride. Diamagnetism is present in all the substances. However, the effect is so weak in most cases that it gets shifted by other effects like paramagnetism, ferromagnetism, etc.\n\nThe most exotic diamagnetic materials are superconductors.\n\nThese are metals, cooled to very low temperatures which exhibits both perfect conductivity and perfect diamagnetism.",
+  "header_path": "5.5.1 Diamagnetism",
+  "line_ranges": [
+    [
+      396,
+      396
+    ],
+    [
+      398,
+      398
+    ],
+    [
+      400,
+      400
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 49,
+  "total_chunks_in_file": 76,
+  "summary": "Diamagnetism is a phenomenon where a substance develops a net magnetic moment opposite to the applied magnetic field.",
+  "hypothetical_questions": [
+    "What causes diamagnetism?",
+    "Why is diamagnetism present in all substances?",
+    "Which materials exhibit the most extreme diamagnetism?",
+    "How does diamagnetism contribute to the properties of superconductors?"
+  ],
+  "keywords": [
+    "substance",
+    "net magnetic moment",
+    "applied field",
+    "repulsion",
+    "paramagnetism"
+  ],
+  "global_chunk_index": 49
+}

@@ -1,0 +1,40 @@
+{
+  "content": "![img-16.jpeg](images/image_11_16.jpeg)\n(a)\n\n![img-17.jpeg](images/image_11_17.jpeg)\n(b)\nFIGURE 5.7 Behaviour of magnetic field lines near a\n\n(a) diamagnetic,\n(b) paramagnetic substance.\n\nThe simplest explanation for diamagnetism is as follows.\n\nElectrons in an atom orbiting around nucleus possess orbital angular momentum.\n\nThese orbiting electrons are equivalent to current-carrying loop and thus possess orbital magnetic moment.",
+  "header_path": "5.5.1 Diamagnetism",
+  "line_ranges": [
+    [
+      385,
+      386
+    ],
+    [
+      388,
+      390
+    ],
+    [
+      392,
+      393
+    ],
+    [
+      396,
+      396
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 46,
+  "total_chunks_in_file": 76,
+  "summary": "A summary of the context, highlights the importance of keywords and questions for understanding the context",
+  "hypothetical_questions": [
+    "What does the author think about the context?",
+    "What is the context about?",
+    "How is the context presented?",
+    "What are some of the technical terms used in the context?"
+  ],
+  "keywords": [
+    "Context",
+    "Importance",
+    "Keywords",
+    "Questions",
+    "Understanding"
+  ],
+  "global_chunk_index": 46
+}

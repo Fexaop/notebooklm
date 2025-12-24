@@ -1,0 +1,26 @@
+{
+  "content": "This existence of domains and their motion in  $\\mathbf{B}_0$  are not speculations.\n\nOne may observe this under a microscope after sprinkling a liquid suspension of powdered ferromagnetic substance of samples.\n\nThis motion of suspension can be observed.\n\nFig.\n\n5.8(b) shows the situation when the domains have aligned and amalgamated to form a single 'giant' domain.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      415,
+      415
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 55,
+  "total_chunks_in_file": 76,
+  "summary": "A liquid suspension of powdered ferromagnetic substance can exhibit domain motion, leading to the observation of this phenomenon under a microscope.",
+  "hypothetical_questions": [
+    "How does the existence of domains contribute to the observed motion in the suspension?",
+    "What effect does the magnetostatic field, $\textbf{B}_0$, have on the domain motion?"
+  ],
+  "keywords": [
+    "ferromagnetism",
+    "domain motion",
+    "liquid suspension",
+    "powdered ferromagnetic substance",
+    "liquid suspension"
+  ],
+  "global_chunk_index": 55
+}

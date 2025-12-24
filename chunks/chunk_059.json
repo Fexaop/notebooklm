@@ -1,0 +1,25 @@
+{
+  "content": "Such materials form permanent magnets to be used among other things as a compass needle.\n\nOn the other hand, there is a class of ferromagnetic materials in which the magnetisation disappears on removal of the external field.\n\nSoft iron is one such material.\n\nAppropriately enough, such materials are called soft ferromagnetic materials.\n\nThere are a number of elements, which are ferromagnetic: iron, cobalt, nickel, gadolinium, etc.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      417,
+      417
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 58,
+  "total_chunks_in_file": 76,
+  "summary": "Bottom of potential. Observation for permanent magnets.",
+  "hypothetical_questions": [
+    "Would ferromagnetic materials withstand atmospheric forces?",
+    "What magnetic media would NOT be affected by atmospheric forces?"
+  ],
+  "keywords": [
+    "metadata",
+    "hypothetical",
+    "atmospheric forces",
+    "magnetic media"
+  ],
+  "global_chunk_index": 58
+}

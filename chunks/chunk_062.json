@@ -1,0 +1,35 @@
+{
+  "content": "1. The science of magnetism is old. It has been known since ancient times that magnetic materials tend to point in the north-south direction; like\n\n![img-18.jpeg](images/image_13_18.jpeg)\n(a)\n\n![img-19.jpeg](images/image_13_19.jpeg)\nB0\nFIGURE 5.8 (a) Randomly oriented domains, (b) Aligned domains.",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      423,
+      423
+    ],
+    [
+      425,
+      426
+    ],
+    [
+      428,
+      430
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 61,
+  "total_chunks_in_file": 76,
+  "summary": "The science of magnetism is old. It has been known since ancient times that magnetic materials tend to point in the north-south direction; like",
+  "hypothetical_questions": [
+    "What is the orientation of magnetic materials",
+    "Why do magnetic materials cause polarization and magnetization",
+    "What are the pictures found in this text"
+  ],
+  "keywords": [
+    "science",
+    "magnetism",
+    "ancient",
+    "direction",
+    "materials"
+  ],
+  "global_chunk_index": 61
+}

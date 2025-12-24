@@ -1,0 +1,31 @@
+{
+  "content": "(a) Magnetic field lines show the direction (at every point) along which a small magnetised needle aligns (at the point). Do the magnetic field lines also represent the lines of force on a moving charged particle at every point?\n\n(b) If magnetic monopoles existed, how would the Gauss's law of magnetism be modified?",
+  "header_path": "Example 5.4",
+  "line_ranges": [
+    [
+      263,
+      263
+    ],
+    [
+      265,
+      265
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 33,
+  "total_chunks_in_file": 76,
+  "summary": "This text discusses whether magnetic field lines represent the direction of a small magnetized needle (at every point) and what changes to Gauss's law of magnetism would occur if magnetic monopoles existed.",
+  "hypothetical_questions": [
+    "Does the magnetic field lines show the direction of a small magnetized needle?",
+    "Are the magnetic field lines along which a moving charged particle aligns?",
+    "How would the Gauss's law of magnetism be modified if magnetic monopoles existed?"
+  ],
+  "keywords": [
+    "magnetic field lines",
+    "direction",
+    "small magnetized needle",
+    "Gauss'm law of magnetism",
+    "magnetic monopoles"
+  ],
+  "global_chunk_index": 33
+}

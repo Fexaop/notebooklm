@@ -1,0 +1,38 @@
+{
+  "content": "(d) Magnetic field arises due to charges in motion. Can a system have magnetic moments even though its net charge is zero?\n\n## Solution\n\n(a) No. The magnetic force is always normal to $\\mathbf{B}$ (remember magnetic force $= q\\mathbf{v} \\quad \\mathbf{B}$). It is misleading to call magnetic field lines as lines of force.\n(b) Gauss's law of magnetism states that the flux of $\\mathbf{B}$ through any closed surface is always zero $\\int_{S} \\mathbf{B} \\cdot \\Delta \\mathbf{s} = 0$.\n\nIf monopoles existed, the right hand side would be equal to the monopole (magnetic charge) $q_{m}$ enclosed by S. [Analogous to Gauss's law of electrostatics, $\\int_{S} \\mathbf{B} \\cdot \\Delta \\mathbf{s} = \\mu_{0} q_{m}$ where $q_{m}$ is the (monopole) magnetic charge enclosed by S.]",
+  "header_path": "Example 5.4",
+  "line_ranges": [
+    [
+      270,
+      270
+    ],
+    [
+      272,
+      272
+    ],
+    [
+      274,
+      275
+    ],
+    [
+      277,
+      277
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 35,
+  "total_chunks_in_file": 76,
+  "summary": "Although magnetic fields arise from charges in motion, a system with a net zero charge can still have magnetic moments.",
+  "hypothetical_questions": [
+    "Can a system with non-zero magnetic moments have its net charge equal to zero?",
+    "Under what circumstances can magnetic moments exist in systems with zero net charge?"
+  ],
+  "keywords": [
+    "charges in motion",
+    "magnetic field",
+    "net charge",
+    "Gauss's law of magnetism",
+    "magnetic moments"
+  ],
+  "global_chunk_index": 35
+}

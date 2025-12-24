@@ -1,0 +1,38 @@
+{
+  "content": "![img-0.jpeg](images/image_1_0.jpeg)\nFIGURE 5.1 The arrangement of iron filings surrounding a bar magnet. The pattern mimics magnetic field lines. The pattern suggests that the bar magnet is a magnetic dipole.\n\n![img-1.jpeg](images/image_2_1.jpeg)\n(a)\n\n![img-2.jpeg](images/image_2_2.jpeg)\n(b)\n\n![img-3.jpeg](images/image_2_3.jpeg)\n(c)",
+  "header_path": "5.2.1 The magnetic field lines",
+  "line_ranges": [
+    [
+      36,
+      37
+    ],
+    [
+      40,
+      41
+    ],
+    [
+      43,
+      44
+    ],
+    [
+      46,
+      47
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 4,
+  "total_chunks_in_file": 76,
+  "summary": "explains the relation between magnetism and the properties of a magnet.",
+  "hypothetical_questions": [
+    "what properties do magnets have?",
+    "who first recognized the relationship between magnets and the Earth?"
+  ],
+  "keywords": [
+    "magnetism",
+    "earth",
+    "magnetic field",
+    "magnetic dipole",
+    "iron"
+  ],
+  "global_chunk_index": 4
+}

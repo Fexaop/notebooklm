@@ -1,0 +1,35 @@
+{
+  "content": "(a) the force on it is zero,\n(b) the torque on it is $\\mathbf{m} \\times \\mathbf{B}$,\n(c) its potential energy is $-\\mathbf{m} \\cdot \\mathbf{B}$, where we choose the zero of energy at the orientation when $\\mathbf{m}$ is perpendicular to $\\mathbf{B}$.\n\n3. Consider a bar magnet of size $l$ and magnetic moment $\\mathbf{m}$, at a distance $r$ from its mid-point, where $r >> l$, the magnetic field $\\mathbf{B}$ due to this bar is,\n\n$$\n\\mathbf{B} = \\frac{\\mu_0 \\mathbf{m}}{2\\pi r^3} \\quad \\text{(along axis)} = -\\frac{\\mu_0 \\mathbf{m}}{4\\pi r^3} \\quad \\text{(along equator)}\n$$",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      439,
+      441
+    ],
+    [
+      443,
+      443
+    ],
+    [
+      445,
+      447
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 63,
+  "total_chunks_in_file": 76,
+  "summary": "This section describes the magnetic field strength for a bar magnet that is either pointing along or across its axis, based solely on its magnetic moment and the distance from its midpoint to the measurement point.",
+  "hypothetical_questions": [
+    "Why is the torque on the bar magnet not zero when the force on it is zero?",
+    "What happens to the potential energy of a bar magnet as it is rotated along its axis?",
+    "How does increasing the distance affect the magnetic field strength around a bar magnet?"
+  ],
+  "keywords": [
+    "bar magnet",
+    "magnetic moment",
+    "distance",
+    "torque",
+    "potential energy"
+  ],
+  "global_chunk_index": 63
+}

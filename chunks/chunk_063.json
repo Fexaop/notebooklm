@@ -1,0 +1,40 @@
+{
+  "content": "![img-19.jpeg](images/image_13_19.jpeg)\nB0\nFIGURE 5.8 (a) Randomly oriented domains, (b) Aligned domains.\n\n(b)\n\nmagnetic poles repel and unlike ones attract; and cutting a bar magnet in two leads to two smaller magnets. Magnetic poles cannot be isolated.\n\n2. When a bar magnet of dipole moment $\\mathbf{m}$ is placed in a uniform magnetic field $\\mathbf{B}$,\n\n(a) the force on it is zero,\n(b) the torque on it is $\\mathbf{m} \\times \\mathbf{B}$,\n(c) its potential energy is $-\\mathbf{m} \\cdot \\mathbf{B}$, where we choose the zero of energy at the orientation when $\\mathbf{m}$ is perpendicular to $\\mathbf{B}$.",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      428,
+      430
+    ],
+    [
+      432,
+      432
+    ],
+    [
+      435,
+      435
+    ],
+    [
+      437,
+      437
+    ],
+    [
+      439,
+      441
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 62,
+  "total_chunks_in_file": 76,
+  "summary": "The magnetic properties of steel and other materials are dependent on the degree of magnetization.",
+  "hypothetical_questions": [
+    "What is the degree of magnetization, and how does it affect the magnetic properties of steel and other materials?"
+  ],
+  "keywords": [
+    "magnetic properties",
+    "steel",
+    "magnetization",
+    "magnetic poles"
+  ],
+  "global_chunk_index": 62
+}

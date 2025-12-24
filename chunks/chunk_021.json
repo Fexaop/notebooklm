@@ -1,0 +1,47 @@
+{
+  "content": "![img-6.jpeg](images/image_5_6.jpeg)\nFIGURE 5.4\n\n# Solution\n\nPotential energy of the configuration arises due to the potential energy of one dipole (say,  $\\mathbf{Q}$ ) in the magnetic field due to other (P). Use the result that the field due to  $\\mathbf{P}$  is given by the expression [Eqs. (5.4) and (5.5)]:\n\n$$\n\\mathbf {B} _ {\\mathrm {P}} = - \\frac {\\mu_ {0}}{4 \\pi} \\frac {\\mathbf {m} _ {\\mathrm {P}}}{r ^ {3}} \\quad (\\text {o n t h e n o r m a l b i s e c t o r})\n$$\n\n$$\n\\mathbf {B} _ {\\mathrm {P}} = \\frac {\\mu_ {0} 2}{4 \\pi} \\frac {\\mathbf {m} _ {\\mathrm {P}}}{r ^ {3}} \\quad (\\text {o n t h e a x i s})\n$$\n\nwhere  $\\mathbf{m}_{\\mathrm{P}}$  is the magnetic moment of the dipole P.",
+  "header_path": "5.2.4 The electrostatic analog",
+  "line_ranges": [
+    [
+      158,
+      159
+    ],
+    [
+      161,
+      161
+    ],
+    [
+      163,
+      163
+    ],
+    [
+      165,
+      167
+    ],
+    [
+      169,
+      171
+    ],
+    [
+      173,
+      173
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 20,
+  "total_chunks_in_file": 76,
+  "summary": "This is a lecture slide about potential energy arising from the interaction between one dipole and another in the presence of magnetic fields.",
+  "hypothetical_questions": [
+    "What happens to the magnetic field when a dipole is introduced?",
+    "How does the magnetic moment of a dipole affect its interaction with a magnetic field?",
+    "Can the configuration of one dipole effect the potential energy of other dipoles nearby?"
+  ],
+  "keywords": [
+    "potential energy",
+    "magnetic fields",
+    "dipoles",
+    "interaction",
+    "magnetic moment"
+  ],
+  "global_chunk_index": 20
+}

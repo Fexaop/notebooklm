@@ -1,0 +1,35 @@
+{
+  "content": "$$\n\\mathbf{B} = \\frac{\\mu_0 \\mathbf{m}}{2\\pi r^3} \\quad \\text{(along axis)} = -\\frac{\\mu_0 \\mathbf{m}}{4\\pi r^3} \\quad \\text{(along equator)}\n$$\n\n4. Gauss's law for magnetism states that the net magnetic flux through any closed surface is zero\n\n$$\n\\phi_B = \\sum_{\\substack{\\text{all area} \\\\ \\text{elements} \\Delta \\mathbf{S}}} \\mathbf{B} \\cdot \\Delta \\mathbf{S} = 0\n$$",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      445,
+      447
+    ],
+    [
+      449,
+      449
+    ],
+    [
+      451,
+      453
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 64,
+  "total_chunks_in_file": 76,
+  "summary": "The text primarily demonstrates the use of vector field analysis to characterize magnetic monopoles specifically through three axis-aligned problems (abscissa, ordinate, and transverse) and the absence of magnetic charge, wherein Gauss’s magnetic flux theorem confirms the net magnetic flux through any closed surface being zero",
+  "hypothetical_questions": [
+    "What happens to the magnetic field when a magnetic charge is introduced?",
+    "How is the magnetic field affected by rotation?",
+    "How does one quantify magnetic field properties universally?",
+    "What are some surprising magnetic field misconceptions?"
+  ],
+  "keywords": [
+    "magnetic monopoles",
+    "circular motion",
+    "magnetic flux",
+    "vector field analysis"
+  ],
+  "global_chunk_index": 64
+}

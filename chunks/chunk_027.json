@@ -1,0 +1,39 @@
+{
+  "content": "where  $q$  is the electric charge enclosed by the surface.\n\nThe difference between the Gauss's law of magnetism and that for electrostatics is a reflection of the fact that isolated magnetic poles (also called monopoles) are not known to exist. There are no sources or sinks of B; the simplest magnetic element is a dipole or a current loop. All magnetic phenomena can be explained in terms of an arrangement of dipoles and/or current loops.\n\nThus, Gauss's law for magnetism is:\n\nThe net magnetic flux through any closed surface is zero.",
+  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
+  "line_ranges": [
+    [
+      212,
+      212
+    ],
+    [
+      214,
+      214
+    ],
+    [
+      216,
+      216
+    ],
+    [
+      218,
+      218
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 26,
+  "total_chunks_in_file": 76,
+  "summary": "Gauss's law for magnetism is a fundamental concept in electromagnetism, which states that the net magnetic flux through any closed surface is zero. This is due to the fact that isolated magnetic poles do not exist, and all magnetic phenomena can be explained in terms of an arrangement of magnetic dipoles and/or current loops.",
+  "hypothetical_questions": [
+    "Can isolated magnetic poles exist?",
+    "Why is Gauss's law of magnetism considered a fundamental concept in electromagnetism?",
+    "What are the differences between Gauss's law of magnetism and that for electrostatics?"
+  ],
+  "keywords": [
+    "magnetism",
+    "Gauss's law",
+    "net magnetic flux",
+    "closed surface",
+    "isolated magnetic poles"
+  ],
+  "global_chunk_index": 26
+}

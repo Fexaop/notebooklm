@@ -1,0 +1,33 @@
+{
+  "content": "The BCS theory was proposed in 1957 and was eventually recognised by a Nobel Prize in physics in 1970.\n\n6. Diamagnetism is universal. It is present in all materials. But it is weak and hard to detect if the substance is para- or ferromagnetic.\n\n7. We have classified materials as diamagnetic, paramagnetic, and ferromagnetic. However, there exist additional types of magnetic material such as ferrimagnetic, anti-ferromagnetic, spin glass, etc. with properties which are exotic and mysterious.",
+  "header_path": "POINTS TO PONDER",
+  "line_ranges": [
+    [
+      509,
+      509
+    ],
+    [
+      511,
+      511
+    ],
+    [
+      513,
+      513
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 73,
+  "total_chunks_in_file": 76,
+  "summary": "The BCS theory was proposed in 1957 and was eventually recognised by a Nobel Prize in physics in 1970. Diamagnetism is universal but weak, present in all materials. Magnetic materials are divided into diamagnetic, paramagnetic, and ferromagnetic categories, but there exist additional exotic magnetic material types such as ferrimagnetic, anti-ferromagnetic, and spin glass.",
+  "hypothetical_questions": [
+    "When was the BCS theory proposed and what recognition did it receive?",
+    "What is diamagnetism?",
+    "How does diamagnetism compare to para- and ferromagnetic materials?",
+    "What are the different classifications of magnetic materials?"
+  ],
+  "keywords": [
+    "BCS theory",
+    "Nobel Prize"
+  ],
+  "global_chunk_index": 73
+}

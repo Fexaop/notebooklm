@@ -1,0 +1,35 @@
+{
+  "content": "In the previous chapter we have learned that moving charges or electric currents produce magnetic fields. This discovery, which was made in the early part of the nineteenth century is credited to Oersted, Ampere, Biot and Savart, among others.\n\nIn the present chapter, we take a look at magnetism as a subject in its own right.\n\nSome of the commonly known ideas regarding magnetism are:",
+  "header_path": "5.1 INTRODUCTION",
+  "line_ranges": [
+    [
+      5,
+      5
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      9,
+      9
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 1,
+  "total_chunks_in_file": 76,
+  "summary": "In the previous chapter, we learned that moving charges or electric currents produce magnetic fields. This discovery, which was made in the early part of the nineteenth century, is credited to Oersted, Ampere, Biot, and Savart, among others. In the present chapter, we explore magnetism as a subject in its own right.",
+  "hypothetical_questions": [
+    "What is the discovery related to moving charges and electric currents?",
+    "Who are the individuals credited with discovering a relationship between moving charges and electric currents?",
+    "What is explored in the present chapter?"
+  ],
+  "keywords": [
+    "magnetic fields",
+    "Oersted",
+    "Ampere",
+    "Biot",
+    "Savart"
+  ],
+  "global_chunk_index": 1
+}

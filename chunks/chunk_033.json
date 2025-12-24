@@ -1,0 +1,34 @@
+{
+  "content": "(g) Wrong. Magnetic field lines between two pole pieces cannot be precisely straight at the ends. Some fringing of lines is inevitable. Otherwise, Ampere's law is violated. This is also true for electric field lines.\n\n# Example 5.4\n\n(a) Magnetic field lines show the direction (at every point) along which a small magnetised needle aligns (at the point). Do the magnetic field lines also represent the lines of force on a moving charged particle at every point?",
+  "header_path": "Solution",
+  "line_ranges": [
+    [
+      259,
+      259
+    ],
+    [
+      261,
+      261
+    ],
+    [
+      263,
+      263
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 32,
+  "total_chunks_in_file": 76,
+  "summary": "'Thank You for the Beautiful Day' is a marques for a movie.",
+  "hypothetical_questions": [
+    "How do you feel when someone compliments you for your homework?",
+    "What are some differences between flattery and a compliment."
+  ],
+  "keywords": [
+    "Maria Benavidez",
+    "Evan Steele",
+    "Daniel Benmillar",
+    "Bryan F. Fierny",
+    "Maria"
+  ],
+  "global_chunk_index": 32
+}

@@ -1,0 +1,38 @@
+{
+  "content": "Superconducting magnets can be gainfully exploited in variety of situations, for example, for running magnetically levitated superfast trains.\n\n### 5.5.2 Paramagnetism\n\nParamagnetic substances are those which get weakly magnetised when placed in an external magnetic field. They have tendency to move from a region of weak magnetic field to strong magnetic field, i.e. they get weakly attracted to a magnet.\n\nThe individual atoms (or ions or molecules) of a paramagnetic material possess a permanent magnetic dipole moment of their own.\n\nOn account of the ceaseless random thermal motion of the atoms, no net magnetisation is seen.\n\nIn the presence of an external field B_{0}, which is strong enough, and at low temperatures, the individual atomic dipole moment can be made to align and point in the same direction as B_{0}.\n\nFigure 5.7(b) shows a bar of paramagnetic material placed in an external field.\n\nThe field lines gets concentrated inside the material, and the field inside is enhanced.",
+  "header_path": "5.5.1 Diamagnetism",
+  "line_ranges": [
+    [
+      400,
+      400
+    ],
+    [
+      402,
+      402
+    ],
+    [
+      404,
+      404
+    ],
+    [
+      406,
+      406
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 51,
+  "total_chunks_in_file": 76,
+  "summary": "Superconducting magnets can be used for running magnetically levitated superfast trains and paramagnetic substances are those which get weakly magnetised when placed in an external magnetic field and have tendency to move from a region of weak magnetic field to strong magnetic field.",
+  "hypothetical_questions": [
+    "What are superconducting magnets used for?",
+    "How do paramagnetic substances get magnetized?"
+  ],
+  "keywords": [
+    "superconducting magnets",
+    "superfast trains",
+    "paramagnetic substances",
+    "external magnetic field",
+    "magnetization"
+  ],
+  "global_chunk_index": 51
+}

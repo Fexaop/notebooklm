@@ -1,0 +1,26 @@
+{
+  "content": "(For the special case of a straight wire, this force is zero.)\n(d) Yes.\n\nThe average of the charge in the system may be zero.\n\nYet, the mean of the magnetic moments due to various current loops may not be zero.\n\nWe will come across such examples in connection with paramagnetic material where atoms have net dipole moment through their net charge is zero.",
+  "header_path": "Example 5.4 > Solution",
+  "line_ranges": [
+    [
+      279,
+      280
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 37,
+  "total_chunks_in_file": 76,
+  "summary": "The average of the charge in the system may be zero. Yet, the mean of the magnetic moments due to various current loops may not be zero. We will come across such examples in connection with paramagnetic material where atoms have net dipole moment through their net charge is zero.",
+  "hypothetical_questions": [
+    "<What are the possible reasons for the average of the charge in the system being non-zero?>",
+    "<Why is the mean of the magnetic moments due to various current loops not zero>"
+  ],
+  "keywords": [
+    "Current",
+    "Loops",
+    "Magnetic",
+    "Charge",
+    "Paramagnetic Material"
+  ],
+  "global_chunk_index": 37
+}

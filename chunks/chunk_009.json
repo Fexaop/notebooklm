@@ -1,0 +1,43 @@
+{
+  "content": "Here  $\\pmb{\\tau}$  is restoring torque and  $\\theta$  is the angle between  $\\mathbf{m}$  and  $\\mathbf{B}$ .\n\nAn expression for magnetic potential energy can be obtained on lines similar to electrostatic potential energy.\n\nThe magnetic potential energy  $U_{m}$  is given by\n\n$$\n\\begin{array}{l} U _ {m} = \\int \\tau (\\theta) d \\theta \\\\ = \\int m B \\sin \\theta d \\theta = - m B \\cos \\theta \\\\ = - \\mathbf {m}. \\mathbf {B} \\tag {5.3} \\\\ \\end{array}\n$$\n\nWe have emphasised in Chapter 2 that the zero of potential energy can be fixed at one's convenience. Taking the constant of integration to be zero means fixing the zero of potential energy at  $\\theta = 90^{\\circ}$ , i.e., when the needle is perpendicular to the field. Equation (5.3) shows that potential energy is minimum  $(= -m\\mathrm{B})$  at  $\\theta = 0^{\\circ}$  (most stable position) and maximum  $(= +m\\mathrm{B})$  at  $\\theta = 180^{\\circ}$  (most unstable position).",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid > 5.2.3 The dipole in a uniform magnetic field",
+  "line_ranges": [
+    [
+      90,
+      90
+    ],
+    [
+      92,
+      92
+    ],
+    [
+      94,
+      94
+    ],
+    [
+      96,
+      98
+    ],
+    [
+      100,
+      100
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 8,
+  "total_chunks_in_file": 76,
+  "summary": "This chunk explains that the magnetic potential energy U_{m} can be obtained through an expression based on the 'restoring torque' and angle 'theta' between vectors 'm' and 'B'.\n  The potential energy is represented by the formula U_{m} = -mB*cos(theta), where U_{m} is the magnetic potential energy, 'm' is the magnetic moment, 'B' is magnetic field, and 'theta' is the angle between 'm' and 'B'.",
+  "hypothetical_questions": [
+    "What is the formula to calculate the magnetic potential energy?",
+    "Is there a fixed potential energy zero point?",
+    "What are the stable and unstable positions of a needle based on the potential energy?"
+  ],
+  "keywords": [
+    "magnetic potential energy",
+    "magnetic moment",
+    "magnetic field",
+    "restoring torque",
+    "angle between vectors 'm' and 'B'"
+  ],
+  "global_chunk_index": 8
+}

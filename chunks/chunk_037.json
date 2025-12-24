@@ -1,0 +1,32 @@
+{
+  "content": "If monopoles existed, the right hand side would be equal to the monopole (magnetic charge) $q_{m}$ enclosed by S. [Analogous to Gauss's law of electrostatics, $\\int_{S} \\mathbf{B} \\cdot \\Delta \\mathbf{s} = \\mu_{0} q_{m}$ where $q_{m}$ is the (monopole) magnetic charge enclosed by S.]\n\n(c) No.\n\nThere is no force or torque on an element due to the field produced by that element itself.\n\nBut there is a force (or torque) on an element of the same wire.\n\n(For the special case of a straight wire, this force is zero.)\n(d) Yes.",
+  "header_path": "Example 5.4 > Solution",
+  "line_ranges": [
+    [
+      277,
+      277
+    ],
+    [
+      279,
+      280
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 36,
+  "total_chunks_in_file": 76,
+  "summary": "This chunk explores the uniqueness of magnetic fields compared to electric fields, emphasizing how magnetic fields around a/current-carrying wire follow specific laws and guidelines.",
+  "hypothetical_questions": [
+    "Can magnetic fields have discrete values?",
+    "What is the effect of induced charge on magnetic fields?",
+    "How do charges respond to and modify magnetic fields?",
+    "In what situations can a wire without a magnetic field have zero torque and force?"
+  ],
+  "keywords": [
+    "magnetic fields",
+    "charge",
+    "field lines",
+    "divergence",
+    "time-varying electric fields"
+  ],
+  "global_chunk_index": 36
+}

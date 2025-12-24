@@ -1,0 +1,57 @@
+{
+  "content": "The net magnetic flux through any closed surface is zero.\n\nExample 5.3 Many of the diagrams given in Fig. 5.6 show magnetic field lines (thick lines in the figure) wrongly. Point out what is wrong with them. Some of them may describe electrostatic field lines correctly. Point out which ones.\n\n![img-9.jpeg](images/image_7_9.jpeg)\n(a)\n\n![img-10.jpeg](images/image_7_10.jpeg)\n(c)\n\n![img-11.jpeg](images/image_7_11.jpeg)\nEmpty space\n\n![img-12.jpeg](images/image_7_12.jpeg)\n(b)\n(c)\n\n![img-13.jpeg](images/image_7_13.jpeg)\n(d)\n\n![img-14.jpeg](images/image_7_14.jpeg)\n(d)\n\n![img-15.jpeg](images/image_7_15.jpeg)\nFIGURE 5.6",
+  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
+  "line_ranges": [
+    [
+      218,
+      218
+    ],
+    [
+      220,
+      220
+    ],
+    [
+      222,
+      223
+    ],
+    [
+      225,
+      226
+    ],
+    [
+      228,
+      229
+    ],
+    [
+      231,
+      233
+    ],
+    [
+      235,
+      236
+    ],
+    [
+      238,
+      239
+    ],
+    [
+      241,
+      242
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 27,
+  "total_chunks_in_file": 76,
+  "summary": "Magnetic flux through a closed surface is zero.",
+  "hypothetical_questions": [
+    "What is the significance of Gauss's law for magnetism?",
+    "How does the net magnetic flux through a closed surface relate to the presence of magnetic charges?"
+  ],
+  "keywords": [
+    "Gauss's law",
+    "magnetic flux",
+    "closed surface",
+    "magnetic charges"
+  ],
+  "global_chunk_index": 27
+}

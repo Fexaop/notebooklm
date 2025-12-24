@@ -1,0 +1,48 @@
+{
+  "content": "![img-8.jpeg](images/image_6_8.jpeg)\nFIGURE 5.5\n\nConsider a small vector area element  $\\Delta \\mathbf{S}$  of a closed surface  $\\mathbf{S}$  as in Fig. 5.5. The magnetic flux through  $\\hat{\\mathbf{A}}\\mathbf{S}$  is defined as  $\\Delta \\phi_{B} = \\mathbf{B} \\cdot \\Delta \\mathbf{S}$ , where  $\\mathbf{B}$  is the field at  $\\Delta \\mathbf{S}$ . We divide  $S$  into many small area elements and calculate the individual flux through each. Then, the net flux  $\\phi_{B}$  is,\n\n$$\n\\phi_ {B} = \\sum_ {\\text {a l l}} \\Delta \\phi_ {B} = \\sum_ {\\text {a l l}} \\mathbf {B}. \\Delta \\mathbf {S} = 0 \\tag {5.6}\n$$\n\nwhere 'all' stands for 'all area elements  $\\Delta \\mathbf{S}$ '. Compare this with the Gauss's law of electrostatics. The flux through a closed surface in that case is given by\n\n$$\n\\sum \\mathbf {E}. \\Delta \\mathbf {S} = \\frac {q}{\\varepsilon_ {0}}\n$$\n\nwhere  $q$  is the electric charge enclosed by the surface.",
+  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
+  "line_ranges": [
+    [
+      196,
+      197
+    ],
+    [
+      199,
+      199
+    ],
+    [
+      201,
+      203
+    ],
+    [
+      205,
+      205
+    ],
+    [
+      207,
+      209
+    ],
+    [
+      212,
+      212
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 25,
+  "total_chunks_in_file": 76,
+  "summary": "Gauss's Law for Magnetism states that the net magnetic flux through a closed surface is always zero, while Gauss's Law for Electrostatics states that the net electric flux through a closed surface is equal to the total charge enclosed by the surface divided by the vacuum permittivity.",
+  "hypothetical_questions": [
+    "Why is the magnetic flux through any closed surface always zero?",
+    "How does Gauss's Law for Magnetism relate to the behavior of magnets?",
+    "How does Gauss's Law for Electrostatics relate to the conservation of electric charge?",
+    "What is the difference between magnetic and electrostatic fields in terms of their relationship with enclosed charges?"
+  ],
+  "keywords": [
+    "Gauss's Law for Magnetism",
+    "magnetic flux",
+    "closed surface",
+    "net magnetic flux",
+    "Gauss's Law for Electrostatics"
+  ],
+  "global_chunk_index": 25
+}

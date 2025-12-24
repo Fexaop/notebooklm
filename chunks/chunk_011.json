@@ -1,0 +1,32 @@
+{
+  "content": "(a) What happens if a bar magnet is cut into two pieces: (i) transverse to its length, (ii) along its length?\n(b) A magnetised needle in a uniform magnetic field experiences a torque but no net force. An iron nail near a bar magnet, however, experiences a force of attraction in addition to a torque. Why?\n\n(c) Must every magnetic configuration have a north pole and a south pole? What about the field due to a toroid?\n(d) Two identical looking iron bars A and B are given, one of which is definitely known to be magnetised. (We do not know which one.) How would one ascertain whether or not both are magnetised? If only one is magnetised, how does one ascertain which one? [Use nothing else but the bars A and B.]",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid > Example 5.1",
+  "line_ranges": [
+    [
+      104,
+      105
+    ],
+    [
+      108,
+      109
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 10,
+  "total_chunks_in_file": 76,
+  "summary": "This text discusses different aspects of magnetism, including cutting a magnet, the effects of magnetic fields on magnets and non-magnetized metals, the existence and properties of magnetic monopoles, and determining the magnetization of two iron bars.",
+  "hypothetical_questions": [
+    "What happens when a magnet is cut in half, transversely and longitudinally?",
+    "Why does an iron nail near a magnet experience both force and torque while a magnetized needle in a uniform magnetic field experiences only torque?",
+    "Is it possible for a magnetized configuration to not have north and south poles?",
+    "How can one ascertain if two iron bars are magnetized and which one, if only one is, by using only the bars themselves?"
+  ],
+  "keywords": [
+    "magnetism",
+    "magnet",
+    "bar magnet",
+    "solenoid",
+    "magnetic field"
+  ],
+  "global_chunk_index": 10
+}

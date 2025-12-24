@@ -1,0 +1,32 @@
+{
+  "content": "Figure 5.7(a) shows a bar of diamagnetic material placed in an external magnetic field. The field lines are repelled or expelled and the field inside the material is reduced. In most cases, this reduction is slight, being one part in  $10^{5}$ . When placed in a non-uniform magnetic field, the bar will tend to move from high to low field.\n\n![img-16.jpeg](images/image_11_16.jpeg)\n(a)",
+  "header_path": "5.5.1 Diamagnetism",
+  "line_ranges": [
+    [
+      383,
+      383
+    ],
+    [
+      385,
+      386
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 45,
+  "total_chunks_in_file": 76,
+  "summary": "Diamagnetic materials exhibit resistance to magnetic fields, with the reduction in magnetic field inside the material being minimal, usually one part in $10^5$, and the material tend to move towards areas of lower magnetic field when placed in a non-uniform magnetic field.",
+  "hypothetical_questions": [
+    "What is diamagnetism?",
+    "How does a diamagnetic material behave in an external magnetic field?",
+    "Why does diamagnetic material move away from regions of high magnetic field?",
+    "What are the applications of diamagnetic materials?"
+  ],
+  "keywords": [
+    "diamagnetic",
+    "magnetic field",
+    "field lines",
+    "reduced field",
+    "bar"
+  ],
+  "global_chunk_index": 45
+}

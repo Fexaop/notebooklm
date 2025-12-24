@@ -1,0 +1,27 @@
+{
+  "content": "However, they interact with one another in such a way that they spontaneously align themselves in a common direction over a macroscopic volume called domain.\n\nThe explanation of this cooperative effect requires quantum mechanics and is beyond the scope of this textbook.\n\nEach domain has a net magnetisation.\n\nTypical domain size is  $1\\mathrm{mm}$  and the domain contains about  $10^{11}$  atoms.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      415,
+      415
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 53,
+  "total_chunks_in_file": 76,
+  "summary": "Ferromagnetism refers to how atoms, which interact with one another, align themselves in a common direction over a macroscopic volume called domain.",
+  "hypothetical_questions": [
+    "What causes ferromagnetism?",
+    "How does ferromagnetism work?",
+    "Why do dipole-dipole interactions cause spontaneous magnetization?"
+  ],
+  "keywords": [
+    "ferromagnetism",
+    "atoms",
+    "magnetism",
+    "magnetization",
+    "cooperative effect"
+  ],
+  "global_chunk_index": 53
+}

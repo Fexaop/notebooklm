@@ -1,0 +1,32 @@
+{
+  "content": "8. Substances, which at room temperature, retain their ferromagnetic property for a long period of time are called permanent magnets.\n\n|  Physical quantity | Symbol | Nature | Dimensions | Units | Remarks  |\n| --- | --- | --- | --- | --- | --- |\n|  Permeability of free space | μ₀ | Scalar | [MLT⁻² A⁻²] | T m A⁻¹ | μ₀/4π = 10⁻⁷  |\n|  Magnetic field, Magnetic induction, Magnetic flux density | B | Vector | [MT⁻² A⁻¹] | T (tesla) | 10⁴ G (gauss) = 1 T  |\n|  Magnetic moment | m | Vector | [L⁻² A] | A m² |   |\n|  Magnetic flux | φ₁ | Scalar | [ML²T⁻² A⁻¹] | W (weber) | W = T m²  |\n|  Magnetisation | M | Vector | [L⁻¹ A] | A m⁻¹ | Magnetic moment\nVolume  |\n|  Magnetic intensity\nMagnetic field strength | H | Vector | [L⁻¹ A] | A m⁻¹ | B = μ₀ (H + M)  |\n|  Magnetic susceptibility | χ | Scalar | - | - | M = χH  |\n|  Relative magnetic permeability | μᵣ | Scalar | - | - | B = μ₀ μᵣ H  |\n|  Magnetic permeability | μ | Scalar | [MLT⁻² A⁻²] | T m A⁻¹\nN A⁻² | μ = μ₀ μᵣ\nB = μ H  |",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      479,
+      479
+    ],
+    [
+      482,
+      496
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 66,
+  "total_chunks_in_file": 76,
+  "summary": "A list of physical quantities of electromagnetic phenomena along with their units of measurement and definitions related to magnetism.",
+  "hypothetical_questions": [
+    "What are the standard units used to measure magnetic flux density?",
+    "What is the dimensional formula for magnetic flux density?",
+    "What is the difference between magnetic field strength and magnetic field intensity?",
+    "Can you provide the physical explanation of magnetic susceptibility?"
+  ],
+  "keywords": [
+    "permanent magnet",
+    "ferromagnetism",
+    "room temperature",
+    "magnetic property",
+    "ferromagnetic"
+  ],
+  "global_chunk_index": 66
+}

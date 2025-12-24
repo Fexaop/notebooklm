@@ -1,0 +1,56 @@
+{
+  "content": "$$\n\\mathbf {E} \\rightarrow \\mathbf {B}, \\mathbf {p} \\rightarrow \\mathbf {m}, \\frac {1}{4 \\pi \\varepsilon_ {0}} \\rightarrow \\frac {\\mu_ {0}}{4 \\pi}\n$$\n\nIn particular, we can write down the equatorial field  $(\\mathbf{B}_E)$  of a bar magnet at a distance  $r$ , for  $r >> l$ , where  $l$  is the size of the magnet:\n\n$$\n\\mathbf {B} _ {E} = - \\frac {\\mu_ {0} \\mathbf {m}}{4 \\pi r ^ {3}} \\tag {5.4}\n$$\n\nLikewise, the axial field  $(\\mathbf{B}_A)$  of a bar magnet for  $r >> l$  is:\n\n$$\n\\mathbf {B} _ {A} = \\frac {\\mu_ {0}}{4 \\pi} \\frac {2 \\mathbf {m}}{r ^ {3}} \\tag {5.5}\n$$\n\nEquation (5.5) is just Eq. (5.1) in the vector form. Table 5.1 summarises the analogy between electric and magnetic dipoles.\n\nTABLE 5.1 THE DIPOLE ANALOGY\n\n|   | Electrostatics | Magnetism  |\n| --- | --- | --- |\n|  Dipole moment | 1/ε0 | μ0  |\n|  Equatorial Field for a short dipole | p | m  |\n|  Axial Field for a short dipole | -p/4πε0r3 | -μ0m / 4πr3  |\n|  External Field: torque | 2p/4πε0r3 | μ02m / 4πr3  |\n|  External Field: Energy | p × E | m × B  |\n|   | -p·E | -m·B  |",
+  "header_path": "5.2.4 The electrostatic analog",
+  "line_ranges": [
+    [
+      122,
+      124
+    ],
+    [
+      126,
+      126
+    ],
+    [
+      128,
+      130
+    ],
+    [
+      132,
+      132
+    ],
+    [
+      134,
+      136
+    ],
+    [
+      139,
+      139
+    ],
+    [
+      141,
+      141
+    ],
+    [
+      143,
+      150
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 16,
+  "total_chunks_in_file": 76,
+  "summary": "The text discusses the analogy between electric and magnetic systems, specifically focusing on the dipole moments and their respective equatorial and axial field equations. It provides formulas for the equatorial and axial fields of a bar magnet and discusses the external field's torque and energy.",
+  "hypothetical_questions": [
+    "What are the key equations governing both electric fields and magnetic fields, and how do they relate?",
+    "How is the external field's torque calculated for a magnet?",
+    "What is the formula for the axial field of a bar magnet?",
+    "What is the purpose of the table summarizing the dipole analogy?"
+  ],
+  "keywords": [
+    "electric fields",
+    "magnetic fields",
+    "dipole moments",
+    "equatorial field",
+    "external field"
+  ],
+  "global_chunk_index": 16
+}

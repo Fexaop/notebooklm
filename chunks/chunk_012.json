@@ -1,0 +1,31 @@
+{
+  "content": "(c) Must every magnetic configuration have a north pole and a south pole? What about the field due to a toroid?\n(d) Two identical looking iron bars A and B are given, one of which is definitely known to be magnetised. (We do not know which one.) How would one ascertain whether or not both are magnetised? If only one is magnetised, how does one ascertain which one? [Use nothing else but the bars A and B.]\n\n# Solution",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid > Example 5.1",
+  "line_ranges": [
+    [
+      108,
+      109
+    ],
+    [
+      111,
+      111
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 11,
+  "total_chunks_in_file": 76,
+  "summary": "This section discusses whether every magnetic configuration has north and south poles, addresses a question about the field due to a toroid, and presents scenarios to determine if a pair of seemingly identical iron bars are magnetized or identify which one is magnetized.",
+  "hypothetical_questions": [
+    "Does every magnetic configuration have a north pole and a south pole?",
+    "What about the field due to a toroid?",
+    "How can one distinguish between a magnetized and non-magnetized pair of seemingly identical iron bars?"
+  ],
+  "keywords": [
+    "magnetic configuration",
+    "north pole",
+    "south pole",
+    "toroid",
+    "magnetization"
+  ],
+  "global_chunk_index": 11
+}

@@ -1,0 +1,51 @@
+{
+  "content": "The field lines remain continuous, emerging from one face of the solenoid and entering into the other face.\n\nOne can test this analogy by moving a small compass needle in the neighbourhood of a bar magnet and a current-carrying finite solenoid and noting that the deflections of the needle are similar in both cases.\n\nTo make this analogy more firm we may calculate the axial field of a finite solenoid depicted in Fig. 5.3 (a). We can demonstrate that at large distances this axial field resembles that of a bar magnet.\n\nThe magnitude of the field at point  $\\mathrm{P}$  due to the solenoid is\n\n$$\nB = \\frac {\\mu_ {0}}{4 \\pi} \\frac {2 m}{r ^ {3}} \\tag {5.1}\n$$\n\nThis is also the far axial magnetic field of a bar magnet which one may obtain experimentally. Thus, a bar magnet and a solenoid produce similar magnetic fields. The magnetic moment of a bar magnet is thus equal to the magnetic moment of an equivalent solenoid that produces the same magnetic field.\n\n## 5.2.3 The dipole in a uniform magnetic field\n\nLet's place a small compass needle of known magnetic moment  $\\mathbf{m}$  allowing it to oscillate in the magnetic field. This arrangement is shown in Fig. 5.3(b).",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid",
+  "line_ranges": [
+    [
+      66,
+      66
+    ],
+    [
+      68,
+      68
+    ],
+    [
+      70,
+      70
+    ],
+    [
+      72,
+      74
+    ],
+    [
+      76,
+      76
+    ],
+    [
+      78,
+      78
+    ],
+    [
+      80,
+      80
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 6,
+  "total_chunks_in_file": 76,
+  "summary": "A small compass needle oscillating in the magnetic field, with the magnetic field lines emerging from one face of the solenoid and entering the other face.",
+  "hypothetical_questions": [
+    "How does the field of a bar magnet compare to a current-carrying solenoid?",
+    "Can we calculate the axial field of a finite solenoid?",
+    "How does the axial field of a finite solenoid at large distances relate to that of a bar magnet?"
+  ],
+  "keywords": [
+    "magnetic field",
+    "magnetic moment",
+    "solenoid",
+    "bar magnet",
+    "uniform magnetic field"
+  ],
+  "global_chunk_index": 6
+}

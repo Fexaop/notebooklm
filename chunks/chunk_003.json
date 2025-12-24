@@ -1,0 +1,35 @@
+{
+  "content": "Some of the commonly known ideas regarding magnetism are:\n\n(i) The earth behaves as a magnet with the magnetic field pointing approximately from the geographic south to the north.\n\n(ii) When a bar magnet is freely suspended, it points in the north-south direction. The tip which points to the geographic north is called the north pole and the tip which points to the geographic south is called the south pole of the magnet.\n\n(iii) There is a repulsive force when north poles ( or south poles ) of two magnets are brought close together.\n\nConversely, there is an attractive force between the north pole of one magnet and the south pole of the other.\n\n(iv) We cannot isolate the north, or south pole of a magnet.\n\nIf a bar magnet is broken into two halves, we get two similar bar magnets with somewhat weaker properties.\n\nUnlike electric charges, isolated magnetic north and south poles known as magnetic monopoles do not exist.",
+  "header_path": "5.1 INTRODUCTION",
+  "line_ranges": [
+    [
+      9,
+      9
+    ],
+    [
+      11,
+      11
+    ],
+    [
+      13,
+      13
+    ],
+    [
+      16,
+      17
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 2,
+  "total_chunks_in_file": 76,
+  "summary": "This text provides an introduction to magnetism, describing how the Earth behaves like a magnet, a bar magnet works, the properties of magnetic poles, and the differences between electric and magnetic monopoles.",
+  "hypothetical_questions": [],
+  "keywords": [
+    "magnetism",
+    "Earth",
+    "magnetic field",
+    "bar magnet",
+    "north pole"
+  ],
+  "global_chunk_index": 2
+}

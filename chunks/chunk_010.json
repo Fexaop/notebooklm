@@ -1,0 +1,32 @@
+{
+  "content": "We have emphasised in Chapter 2 that the zero of potential energy can be fixed at one's convenience. Taking the constant of integration to be zero means fixing the zero of potential energy at  $\\theta = 90^{\\circ}$ , i.e., when the needle is perpendicular to the field. Equation (5.3) shows that potential energy is minimum  $(= -m\\mathrm{B})$  at  $\\theta = 0^{\\circ}$  (most stable position) and maximum  $(= +m\\mathrm{B})$  at  $\\theta = 180^{\\circ}$  (most unstable position).\n\n## Example 5.1",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid > 5.2.3 The dipole in a uniform magnetic field",
+  "line_ranges": [
+    [
+      100,
+      100
+    ],
+    [
+      102,
+      102
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 9,
+  "total_chunks_in_file": 76,
+  "summary": "This text discusses the potential energy of a bar magnet in a uniform magnetic field, emphasizing that the zero of potential energy can be fixed at one's convenience. The potential energy is minimum when the needle is perpendicular to the field and maximum when the needle is parallel to the field.",
+  "hypothetical_questions": [
+    "What is the fixed reference point for the zero of potential energy in this situation?",
+    "How is potential energy calculated for a bar magnet in a uniform magnetic field?",
+    "What is the stability of the potential energy at 0 degrees and 180 degrees of rotation for the bar magnet?",
+    "What is the relationship between the orientation of the needle and field lines in this scenario?"
+  ],
+  "keywords": [
+    "bar magnet",
+    "uniform magnetic field",
+    "potential energy",
+    "zero of potential energy",
+    "reference point"
+  ],
+  "global_chunk_index": 9
+}
