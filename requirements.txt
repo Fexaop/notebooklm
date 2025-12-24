@@ -1,34 +1,16 @@
-# PDF Vector Processing CLI - Dependencies
+# PDF to Markdown & Intelligent Chunking - Dependencies
 
 # Core
 pydantic>=2.5.0
-pydantic-settings>=2.1.0
 python-dotenv>=1.0.0
 
-# PDF Processing
-PyMuPDF>=1.23.0
-pymupdf-layout>=0.1.0
-
-# Image Processing & OCR
-Pillow>=10.2.0
-pytesseract>=0.3.10
-
-# OpenAI
+# OpenAI & AI Enrichment
 openai>=1.10.0
 instructor>=1.0.0
+numpy>=1.24.0
 
-# Vector Database
-weaviate-client>=4.4.0
-
-# CLI
-typer>=0.9.0
-rich>=13.7.0
-
-# Marker PDF (includes Gemini support)
-marker-pdf[full]
-
-# Google Gemini
-google-generativeai>=0.3.0
-
-# Mistral AI
+# Mistral AI (OCR)
 mistralai>=0.4.0
+
+# UI & Progress
+rich>=13.7.0
