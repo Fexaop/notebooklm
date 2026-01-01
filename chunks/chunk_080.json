@@ -1,0 +1,31 @@
+{
+  "content": "The discussion in the previous section helps us to classify materials as diamagnetic, paramagnetic or ferromagnetic. In terms of the susceptibility  $\\chi$ , a material is diamagnetic if  $\\chi$  is negative, para- if  $\\chi$  is positive and small, and ferro- if  $\\chi$  is large and positive.\n\nA glance at Table 5.2 gives one a better feeling for these materials. Here  $\\varepsilon$  is a small positive number introduced to quantify paramagnetic materials. Next, we describe these materials in some detail.",
+  "header_path": "5.5 MAGNETIC PROPERTIES OF MATERIALS",
+  "line_ranges": [
+    [
+      367,
+      367
+    ],
+    [
+      369,
+      369
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 79,
+  "total_chunks_in_file": 129,
+  "summary": "A summary of the text is: Understanding the scientific text, expertise and guidance in classified material as diamagnetic, paramagnetic or ferromagnetic, identifying electromagnetic properties of materials in terms of susceptibility $\\chi$, and giving a better notion of materials' susceptibility as tabulated and by using parameters such as $\\varepsilon$ to understand their properties.",
+  "hypothetical_questions": [
+    "What is the classification of materials based on their susceptibility?",
+    "How does the susceptibility $\\chi$ determine the state of materials?",
+    "How is the susceptibility $\\chi$ represented in Table 5.2?"
+  ],
+  "keywords": [
+    "diamagnetic",
+    "paramagnetic",
+    "ferromagnetic",
+    "susceptibility",
+    "magnetic properties"
+  ],
+  "global_chunk_index": 79
+}

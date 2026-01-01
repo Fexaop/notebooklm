@@ -1,33 +1,36 @@
 {
-  "content": "1. A satisfactory understanding of magnetic phenomenon in terms of moving charges/currents was arrived at after 1800 AD. But technological exploitation of the directional properties of magnets predates this scientific understanding by two thousand years. Thus, scientific understanding is not a necessary condition for engineering applications. Ideally, science and engineering go hand-in-hand, one leading and assisting the other in tandem.\n\n2. Magnetic monopoles do not exist. If you slice a magnet in half, you get two smaller magnets. On the other hand, isolated positive and negative charges exist. There exists a smallest unit of charge, for example, the electronic charge with value |e| = 1.6 × 10⁻¹⁹ C. All other charges are integral multiples of this smallest unit charge. In other words, charge is quantised. We do not know why magnetic monopoles do not exist or why electric charge is quantised.\n\n3. A consequence of the fact that magnetic monopoles do not exist is that the magnetic field lines are continuous and form closed loops. In contrast, the electrostatic lines of force begin on a positive charge and terminate on the negative charge (or fade out at infinity).",
-  "header_path": "POINTS TO PONDER",
+  "content": "$$\n\\mathbf {B} = \\mu_ {0} (\\mathbf {H} + \\mathbf {M}) \\tag {5.12}\n$$\n\nWe repeat our defining procedure. We have partitioned the contribution to the total magnetic field inside the sample into two parts: one, due to external factors such as the current in the solenoid. This is represented by $\\mathbf{H}$. The other is due to the specific nature of the magnetic material, namely $\\mathbf{M}$. The latter quantity can be influenced by external factors. This influence is mathematically expressed as\n\n$$\n\\mathbf {M} = \\chi \\mathbf {H} \\tag {5.13}\n$$",
+  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
   "line_ranges": [
     [
-      500,
-      500
+      323,
+      325
     ],
     [
-      502,
-      502
+      327,
+      327
     ],
     [
-      504,
-      504
+      329,
+      331
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 69,
-  "total_chunks_in_file": 76,
-  "summary": "While scientific understanding of magnetic phenomenon via moving charges predates technological exploitation of their directional properties by two millennia, magnetic monopoles do not exist, leaving magnetism with continuous magnetic field lines instead of discrete point charges with electric quantisation.",
+  "total_chunks_in_file": 129,
+  "summary": "It has also been shown that $\\chi$ is related to the nature of the material.",
   "hypothetical_questions": [
-    "Why do magnetic monopoles not exist?",
-    "Why does magnetic field lines exhibit continuous loops instead of discrete point charges as opposed to electrostatic lines of force?",
-    "What is the consequence of magnetic monopoles not existing on the behavior of magnetic field lines?"
+    "What does $\\chi$ represent when $F$ and $\\delta\\epsilon_f$ are involved in the calculations?",
+    "Why is $F$ significant in determining how many neutrons are scattered?",
+    "Why does $d\\epsilon$ affect the neutron's collision with the nucleus?",
+    "Why is $\\chi$ proportional to the number of magnetic dipoles per unit volume?"
   ],
   "keywords": [
-    "magnetic monopoles",
-    "quantised charge",
-    "continuity of magnetic field lines"
+    "Mask",
+    "flux",
+    "number of neutrons",
+    "Typical value",
+    "experimental"
   ],
   "global_chunk_index": 69
 }

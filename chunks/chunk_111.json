@@ -1,0 +1,34 @@
+{
+  "content": "$$\n\\mathbf{B} = \\frac{\\mu_0 \\mathbf{m}}{2\\pi r^3} \\quad \\text{(along axis)} = -\\frac{\\mu_0 \\mathbf{m}}{4\\pi r^3} \\quad \\text{(along equator)}\n$$\n\n4. Gauss's law for magnetism states that the net magnetic flux through any closed surface is zero\n\n$$\n\\phi_B = \\sum_{\\substack{\\text{all area} \\\\ \\text{elements} \\Delta \\mathbf{S}}} \\mathbf{B} \\cdot \\Delta \\mathbf{S} = 0\n$$",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      445,
+      447
+    ],
+    [
+      449,
+      449
+    ],
+    [
+      451,
+      453
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 110,
+  "total_chunks_in_file": 129,
+  "summary": "The provided text explains the Biot-Savart Law, which describes the magnetic field produced by a current element, and describes the direction of circular currents using the right-hand rule. It also introduces Gauss's law for magnetism, stating that the net magnetic flux through any closed surface is zero.",
+  "hypothetical_questions": [
+    "What is the Biot-Savart Law?",
+    "What is the direction of magnetic field lines?"
+  ],
+  "keywords": [
+    "Biot-Savart Law",
+    "magnetic field",
+    "circular currents",
+    "right-hand rule",
+    "Gauss's law for magnetism"
+  ],
+  "global_chunk_index": 110
+}

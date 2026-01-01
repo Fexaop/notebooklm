@@ -1,0 +1,28 @@
+{
+  "content": "1. A satisfactory understanding of magnetic phenomenon in terms of moving charges/currents was arrived at after 1800 AD. But technological exploitation of the directional properties of magnets predates this scientific understanding by two thousand years. Thus, scientific understanding is not a necessary condition for engineering applications. Ideally, science and engineering go hand-in-hand, one leading and assisting the other in tandem.",
+  "header_path": "POINTS TO PONDER",
+  "line_ranges": [
+    [
+      500,
+      500
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 117,
+  "total_chunks_in_file": 129,
+  "summary": "scientific understanding is not a necessary condition for engineering applications",
+  "hypothetical_questions": [
+    "how does scientific understanding help engineering applications",
+    "does scientific understanding lead to engineering applications",
+    "what changes do scientific understanding bring in engineering applicaton",
+    "does scientific understanding enhance the exploitation of directional properties of magnets"
+  ],
+  "keywords": [
+    "magnetic phenomenon",
+    "moving charges/currents",
+    "1800 AD",
+    "two thousand years",
+    "scientific understanding"
+  ],
+  "global_chunk_index": 117
+}

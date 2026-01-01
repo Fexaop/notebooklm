@@ -1,31 +1,35 @@
 {
-  "content": "(a) Magnetic field lines show the direction (at every point) along which a small magnetised needle aligns (at the point). Do the magnetic field lines also represent the lines of force on a moving charged particle at every point?\n\n(b) If magnetic monopoles existed, how would the Gauss's law of magnetism be modified?",
-  "header_path": "Example 5.4",
+  "content": "In particular, we can write down the equatorial field  $(\\mathbf{B}_E)$  of a bar magnet at a distance  $r$ , for  $r >> l$ , where  $l$  is the size of the magnet:\n\n$$\n\\mathbf {B} _ {E} = - \\frac {\\mu_ {0} \\mathbf {m}}{4 \\pi r ^ {3}} \\tag {5.4}\n$$\n\nLikewise, the axial field  $(\\mathbf{B}_A)$  of a bar magnet for  $r >> l$  is:",
+  "header_path": "5.2.4 The electrostatic analog",
   "line_ranges": [
     [
-      263,
-      263
+      126,
+      126
     ],
     [
-      265,
-      265
+      128,
+      130
+    ],
+    [
+      132,
+      132
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 33,
-  "total_chunks_in_file": 76,
-  "summary": "This text discusses whether magnetic field lines represent the direction of a small magnetized needle (at every point) and what changes to Gauss's law of magnetism would occur if magnetic monopoles existed.",
+  "total_chunks_in_file": 129,
+  "summary": "In the context of a bar magnet, for distances r that are much greater than the length l of the magnet, the equatorial field (B_E) can be mathematically described by the equation B_E = - (mu_0 * mathbf{m}) / (4 pi * r^3), while the axial field (B_A) can be expressed as B_A = -(mu_0 * mathbf{m}) / (4 pi * r^3).",
   "hypothetical_questions": [
-    "Does the magnetic field lines show the direction of a small magnetized needle?",
-    "Are the magnetic field lines along which a moving charged particle aligns?",
-    "How would the Gauss's law of magnetism be modified if magnetic monopoles existed?"
+    "1. What is the significance of the equatorial and axial fields in relation to a bar magnet?\n\n2. How does the size of the magnet, represented by l, influence the equatorial and axial fields?\n\n3. What happens to the magnetic field when the distance, r, between the magnet and the point of measurement increases significantly?",
+    "1. How does the formula B_E = - (mu_0 * mathbf{m}) / (4 pi * r^3) relate to the behavior of a bar magnet?\n\n2. Can the axial field (B_A) be influenced by the distance between the magnet and the point of measurement?\n\n3. What role does the size of the magnet play in determining the axial and equatorial fields?",
+    "1. What is the significance of the relationship between the equatorial and axial fields and the distance between the magnet and the point of measurement?\n\n2. How does the strength of the magnetic field change as the distance between the magnet and the point of measurement changes?\n\n3. What are some real-world applications of understanding the equatorial and axial fields of a bar magnet?"
   ],
   "keywords": [
-    "magnetic field lines",
-    "direction",
-    "small magnetized needle",
-    "Gauss'm law of magnetism",
-    "magnetic monopoles"
+    "bar magnet",
+    "equatorial field",
+    "axial field",
+    "formula",
+    "equation"
   ],
   "global_chunk_index": 33
 }

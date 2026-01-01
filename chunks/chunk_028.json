@@ -1,57 +1,26 @@
 {
-  "content": "The net magnetic flux through any closed surface is zero.\n\nExample 5.3 Many of the diagrams given in Fig. 5.6 show magnetic field lines (thick lines in the figure) wrongly. Point out what is wrong with them. Some of them may describe electrostatic field lines correctly. Point out which ones.\n\n![img-9.jpeg](images/image_7_9.jpeg)\n(a)\n\n![img-10.jpeg](images/image_7_10.jpeg)\n(c)\n\n![img-11.jpeg](images/image_7_11.jpeg)\nEmpty space\n\n![img-12.jpeg](images/image_7_12.jpeg)\n(b)\n(c)\n\n![img-13.jpeg](images/image_7_13.jpeg)\n(d)\n\n![img-14.jpeg](images/image_7_14.jpeg)\n(d)\n\n![img-15.jpeg](images/image_7_15.jpeg)\nFIGURE 5.6",
-  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
+  "content": "(a) In either case, one gets two magnets, each with a north and south pole.\n\n(b) No force if the field is uniform.\n\nThe iron nail experiences a non-uniform field due to the bar magnet.\n\nThere is induced magnetic moment in the nail, therefore, it experiences both force and torque.\n\nThe net force is attractive because the induced south pole (say) in the nail is closer to the north pole of magnet than induced north pole.",
+  "header_path": "Solution",
   "line_ranges": [
     [
-      218,
-      218
-    ],
-    [
-      220,
-      220
-    ],
-    [
-      222,
-      223
-    ],
-    [
-      225,
-      226
-    ],
-    [
-      228,
-      229
-    ],
-    [
-      231,
-      233
-    ],
-    [
-      235,
-      236
-    ],
-    [
-      238,
-      239
-    ],
-    [
-      241,
-      242
+      113,
+      114
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 27,
-  "total_chunks_in_file": 76,
-  "summary": "Magnetic flux through a closed surface is zero.",
+  "total_chunks_in_file": 129,
+  "summary": "Two magnets, each with a north and south pole, can induce magnetic moments in iron nails. However, the iron nail experiences a non-uniform field due to the bar magnet and experiences both force and torque because there is induced magnetic moment which is closer to the north pole of magnet.",
   "hypothetical_questions": [
-    "What is the significance of Gauss's law for magnetism?",
-    "How does the net magnetic flux through a closed surface relate to the presence of magnetic charges?"
+    "What happens when a magnet is placed near an iron nail?",
+    "What is the direction of the force exerted by a magnet on a nail?"
   ],
   "keywords": [
-    "Gauss's law",
-    "magnetic flux",
-    "closed surface",
-    "magnetic charges"
+    "magnets",
+    "iron nail",
+    "magnetic moment",
+    "non-uniform field",
+    "force and torque"
   ],
   "global_chunk_index": 27
 }

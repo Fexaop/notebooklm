@@ -1,46 +1,34 @@
 {
-  "content": "![img-6.jpeg](images/image_5_6.jpeg)\nFIGURE 5.4\n\n# Solution\n\nPotential energy of the configuration arises due to the potential energy of one dipole (say,  $\\mathbf{Q}$ ) in the magnetic field due to other (P). Use the result that the field due to  $\\mathbf{P}$  is given by the expression [Eqs. (5.4) and (5.5)]:\n\n$$\n\\mathbf {B} _ {\\mathrm {P}} = - \\frac {\\mu_ {0}}{4 \\pi} \\frac {\\mathbf {m} _ {\\mathrm {P}}}{r ^ {3}} \\quad (\\text {o n t h e n o r m a l b i s e c t o r})\n$$\n\n$$\n\\mathbf {B} _ {\\mathrm {P}} = \\frac {\\mu_ {0} 2}{4 \\pi} \\frac {\\mathbf {m} _ {\\mathrm {P}}}{r ^ {3}} \\quad (\\text {o n t h e a x i s})\n$$\n\nwhere  $\\mathbf{m}_{\\mathrm{P}}$  is the magnetic moment of the dipole P.",
-  "header_path": "5.2.4 The electrostatic analog",
+  "content": "This is also the far axial magnetic field of a bar magnet which one may obtain experimentally. Thus, a bar magnet and a solenoid produce similar magnetic fields. The magnetic moment of a bar magnet is thus equal to the magnetic moment of an equivalent solenoid that produces the same magnetic field.\n\n## 5.2.3 The dipole in a uniform magnetic field\n\nLet's place a small compass needle of known magnetic moment  $\\mathbf{m}$  allowing it to oscillate in the magnetic field. This arrangement is shown in Fig. 5.3(b).",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid",
   "line_ranges": [
     [
-      158,
-      159
+      76,
+      76
     ],
     [
-      161,
-      161
+      78,
+      78
     ],
     [
-      163,
-      163
-    ],
-    [
-      165,
-      167
-    ],
-    [
-      169,
-      171
-    ],
-    [
-      173,
-      173
+      80,
+      80
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 20,
-  "total_chunks_in_file": 76,
-  "summary": "This is a lecture slide about potential energy arising from the interaction between one dipole and another in the presence of magnetic fields.",
+  "total_chunks_in_file": 129,
+  "summary": "The text describes the magnetic field of a bar magnet and its equivalence to a solenoid. The text also explains the behavior of a compass needle placed in a uniform magnetic field.",
   "hypothetical_questions": [
-    "What happens to the magnetic field when a dipole is introduced?",
-    "How does the magnetic moment of a dipole affect its interaction with a magnetic field?",
-    "Can the configuration of one dipole effect the potential energy of other dipoles nearby?"
+    "What is the far axial magnetic field of a bar magnet?",
+    "How does a bar magnet's magnetic moment relate to an equivalent solenoid?",
+    "What is a compass needle, and what is its function in the described experiment?"
   ],
   "keywords": [
-    "potential energy",
-    "magnetic fields",
-    "dipoles",
-    "interaction",
+    "bar magnet",
+    "magnetic field",
+    "solenoid",
+    "compass needle",
     "magnetic moment"
   ],
   "global_chunk_index": 20

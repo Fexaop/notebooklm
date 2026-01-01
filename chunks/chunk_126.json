@@ -1,0 +1,31 @@
+{
+  "content": "5.2 A short bar magnet of magnetic moment $m = 0.32 \\, \\mathrm{JT}^{-1}$ is placed in a uniform magnetic field of 0.15 T. If the bar is free to rotate in the plane of the field, which orientation would correspond to its (a) stable, and (b) unstable equilibrium? What is the potential energy of the magnet in each case?\n\n5.3 A closely wound solenoid of 800 turns and area of cross section $2.5 \\times 10^{-4} \\, \\mathrm{m}^2$ carries a current of 3.0 A. Explain the sense in which the solenoid acts like a bar magnet. What is its associated magnetic moment?",
+  "header_path": "EXERCISES",
+  "line_ranges": [
+    [
+      519,
+      519
+    ],
+    [
+      521,
+      521
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 125,
+  "total_chunks_in_file": 129,
+  "summary": "The text discusses the equilibrium positions of a short bar magnet placed in a uniform magnetic field and evaluates the potential energy in each case. It also explains the solenoid's behavior like a bar magnet and calculates its associated magnetic moment.",
+  "hypothetical_questions": [
+    "Why do the bar magnet's stable and unstable equilibria align with the uniform magnetic field?",
+    "How does the solenoid's behavior as a bar magnet relate to the concept of magnetic moment?",
+    "What factors influence the potential energy of the magnet in each equilibrium position?"
+  ],
+  "keywords": [
+    "bar magnet",
+    "uniform magnetic field",
+    "stable equilibrium",
+    "unstable equilibrium",
+    "solenoid"
+  ],
+  "global_chunk_index": 125
+}

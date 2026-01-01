@@ -1,41 +1,39 @@
 {
-  "content": "The field lines gets concentrated inside the material, and the field inside is enhanced.\n\nIn most cases, this enhancement is slight, being one part in 10^{5}.\n\nWhen placed in a non-uniform magnetic field, the bar will tend to move from weak field to strong.\n\nSome paramagnetic materials are aluminium, sodium, calcium, oxygen (at STP) and copper chloride. For a paramagnetic material both χ and μ_{r} depend not only on the material, but also (in a simple fashion) on the sample temperature. As the field is increased or the temperature is lowered, the magnetisation increases until it reaches the saturation value at which point all the dipoles are perfectly aligned with the field.\n# Magnetism and Matter\n\n# 5.5.3 Ferromagnetism\n\nFerromagnetic substances are those which gets strongly magnetised when placed in an external magnetic field. They have strong tendency to move from a region of weak magnetic field to strong magnetic field, i.e., they get strongly attracted to a magnet.\n\nThe individual atoms (or ions or molecules) in a ferromagnetic material possess a dipole moment as in a paramagnetic material.\n\nHowever, they interact with one another in such a way that they spontaneously align themselves in a common direction over a macroscopic volume called domain.",
-  "header_path": "5.5.1 Diamagnetism > 5.5.2 Paramagnetism",
+  "content": "(b) Wrong.\n\nMagnetic field lines (like electric field lines) can never cross each other, because otherwise the direction of field at the point of intersection is ambiguous.\n\nThere is further error in the figure.\n\nMagnetostatic field lines can never form closed loops around empty space.\n\nA closed loop of static magnetic field line must enclose a region across which a current is passing.\n\nBy contrast, electrostatic field lines can never form closed loops, neither in empty space, nor when the loop encloses charges.\n\n(c) Right. Magnetic lines are completely confined within a toroid. Nothing wrong here in field lines forming closed loops, since each loop encloses a region across which a current passes. Note, for clarity of figure, only a few field lines within the toroid have been shown. Actually, the entire region enclosed by the windings contains magnetic field.\n\n(d) Wrong. Field lines due to a solenoid at its ends and outside cannot be so completely straight and confined; such a thing violates Ampere's law. The lines should curve out at both ends, and meet eventually to form closed loops.\n\n(e) Right. These are field lines outside and inside a bar magnet. Note carefully the direction of field lines inside. Not all field lines emanate out of a north pole (or converge into a south pole). Around both the N-pole, and the S-pole, the net flux of the field is zero.",
+  "header_path": "Solution",
   "line_ranges": [
     [
-      406,
-      406
+      249,
+      249
     ],
     [
-      408,
-      409
+      251,
+      251
     ],
     [
-      411,
-      411
+      253,
+      253
     ],
     [
-      413,
-      413
-    ],
-    [
-      415,
-      415
+      255,
+      255
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 52,
-  "total_chunks_in_file": 76,
-  "summary": "Ferromagnetic substances are those which gets strongly magnetised when placed in an external magnetic field. They have strong tendency to move from a region of weak magnetic field to strong magnetic field, i.e., they get strongly attracted to a magnet",
+  "total_chunks_in_file": 129,
+  "summary": "Magnetic field lines never cross, always start at north poles of magnets and end at south poles.",
   "hypothetical_questions": [
-    "What concept is demonstrated when paramagnetic materials are placed in a non-uniform magnetic field?"
+    "What is the direction of magnetic field lines?",
+    "When should we expect closed loops of magnetic field?",
+    "What happens inside a bar magnet?"
   ],
   "keywords": [
-    "Ferromagnetic substance",
-    "Paramagnetic material",
-    "Dipole moment",
-    "Magnetic field",
-    "Spontaneously aligned"
+    "magnetic field",
+    "field lines",
+    "crossing",
+    "magnets",
+    "flux"
   ],
   "global_chunk_index": 52
 }

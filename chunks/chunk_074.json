@@ -1,33 +1,32 @@
 {
-  "content": "The BCS theory was proposed in 1957 and was eventually recognised by a Nobel Prize in physics in 1970.\n\n6. Diamagnetism is universal. It is present in all materials. But it is weak and hard to detect if the substance is para- or ferromagnetic.\n\n7. We have classified materials as diamagnetic, paramagnetic, and ferromagnetic. However, there exist additional types of magnetic material such as ferrimagnetic, anti-ferromagnetic, spin glass, etc. with properties which are exotic and mysterious.",
-  "header_path": "POINTS TO PONDER",
+  "content": "where $\\mu_{\\mathrm{r}} = 1 + \\chi$, is a dimensionless quantity called the relative magnetic permeability of the substance. It is the analog of the dielectric constant in electrostatics. The magnetic permeability of the substance is $\\mu$ and it has the same dimensions and units as $\\mu_0$:\n\n$$\n\\mu = \\mu_ {0} \\mu_ {r} = \\mu_ {0} (1 + \\chi).\n$$",
+  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
   "line_ranges": [
     [
-      509,
-      509
+      339,
+      339
     ],
     [
-      511,
-      511
-    ],
-    [
-      513,
-      513
+      341,
+      343
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 73,
-  "total_chunks_in_file": 76,
-  "summary": "The BCS theory was proposed in 1957 and was eventually recognised by a Nobel Prize in physics in 1970. Diamagnetism is universal but weak, present in all materials. Magnetic materials are divided into diamagnetic, paramagnetic, and ferromagnetic categories, but there exist additional exotic magnetic material types such as ferrimagnetic, anti-ferromagnetic, and spin glass.",
+  "total_chunks_in_file": 129,
+  "summary": "Relative magnetic permeability ($\\mu_r$) and magnetic permeability ($\\mu$) are related by the equation $\\mu = \\mu_0 (1 + \\chi)$, where $\\mu_r$ is a dimensionless quantity and $\\mu_0$ is a constant.",
   "hypothetical_questions": [
-    "When was the BCS theory proposed and what recognition did it receive?",
-    "What is diamagnetism?",
-    "How does diamagnetism compare to para- and ferromagnetic materials?",
-    "What are the different classifications of magnetic materials?"
+    "What is the physical significance of relative magnetic permeability?",
+    "How does the $\\mu_r$ depend on the substance properties?",
+    "What is the relation between $\\mu$ and $\\mu_0$?",
+    "Why is $\\mu$ usually more than $\\mu_0$?"
   ],
   "keywords": [
-    "BCS theory",
-    "Nobel Prize"
+    "relative magnetic permeability",
+    "magnetic permeability",
+    "magnetism",
+    "mechanical properties",
+    "dielectric constant"
   ],
   "global_chunk_index": 73
 }

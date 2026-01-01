@@ -1,0 +1,32 @@
+{
+  "content": "The ferromagnetic property depends on temperature. At high enough temperature, a ferromagnet becomes a paramagnet. The domain structure disintegrates with temperature. This disappearance of magnetisation with temperature is gradual.\n\n# SUMMARY\n\n1. The science of magnetism is old. It has been known since ancient times that magnetic materials tend to point in the north-south direction; like",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      419,
+      419
+    ],
+    [
+      421,
+      421
+    ],
+    [
+      423,
+      423
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 105,
+  "total_chunks_in_file": 129,
+  "summary": "Ferromagnetism depends on temperature; at high enough temperature, it becomes a paramagnet where the domain structure disintegrates. The gradual disappearance of magnetisation with temperature is gradual.",
+  "hypothetical_questions": [
+    "What determines the magnetic properties of a material?",
+    "How does temperature affect the magnetization of a ferromagnet?",
+    "What is the difference between ferromagnetism and paramagnetism?"
+  ],
+  "keywords": [
+    "temperature",
+    "ferromagnetism"
+  ],
+  "global_chunk_index": 105
+}

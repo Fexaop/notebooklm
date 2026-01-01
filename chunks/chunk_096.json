@@ -1,0 +1,29 @@
+{
+  "content": "Ferromagnetic substances are those which gets strongly magnetised when placed in an external magnetic field. They have strong tendency to move from a region of weak magnetic field to strong magnetic field, i.e., they get strongly attracted to a magnet.\n\nThe individual atoms (or ions or molecules) in a ferromagnetic material possess a dipole moment as in a paramagnetic material.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      413,
+      413
+    ],
+    [
+      415,
+      415
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 95,
+  "total_chunks_in_file": 129,
+  "summary": "Ferromagnetic substances are those which get strongly magnetised when placed in an external magnetic field.",
+  "hypothetical_questions": [
+    "What are ferromagnetic substances?",
+    "How do ferromagnetic substances magnetise?"
+  ],
+  "keywords": [
+    "ferromagnetic",
+    "magnetised",
+    "external magnetic field",
+    "dipole moment"
+  ],
+  "global_chunk_index": 95
+}

@@ -1,63 +1,29 @@
 {
-  "content": "$$\n\\phi_B = \\sum_{\\substack{\\text{all area} \\\\ \\text{elements} \\Delta \\mathbf{S}}} \\mathbf{B} \\cdot \\Delta \\mathbf{S} = 0\n$$\n\n5. Consider a material placed in an external magnetic field $\\mathbf{B}_0$. The magnetic intensity is defined as,\n\n$$\n\\mathbf{H} = \\frac{\\mathbf{B}_0}{\\mu_0}\n$$\n\nThe magnetisation $\\mathbf{M}$ of the material is its dipole moment per unit volume. The magnetic field $\\mathbf{B}$ in the material is,\n\n$$\n\\mathbf{B} = \\mu_0 (\\mathbf{H} + \\mathbf{M})\n$$\n\n6. For a linear material $\\mathbf{M} = \\chi \\mathbf{H}$. So that $\\mathbf{B} = \\mu \\mathbf{H}$ and $\\chi$ is called the magnetic susceptibility of the material. The three quantities, $\\chi$, the relative magnetic permeability $\\mu_r$, and the magnetic permeability $\\mu$ are related as follows:\n\n$$\n\\mu = \\mu_0 \\mu_r\n$$\n\n$$\n\\mu_r = 1 + \\chi\n$$\n\n7. Magnetic materials are broadly classified as: diamagnetic, paramagnetic, and ferromagnetic. For diamagnetic materials $\\chi$ is negative and small and for paramagnetic materials it is positive and small. Ferromagnetic materials have large $\\chi$.\n\n8. Substances, which at room temperature, retain their ferromagnetic property for a long period of time are called permanent magnets.",
-  "header_path": "SUMMARY",
+  "content": "$$\n\\mathbf{B} = \\mathbf{B}_{0} + \\mathbf{B}_{\\mathrm{m}} \\tag{5.9}\n$$\n\nwhere $\\mathbf{B}_{\\mathrm{m}}$ is the field contributed by the material core. It turns out that this additional field $\\mathbf{B}_{\\mathrm{m}}$ is proportional to the magnetisation $\\mathbf{M}$ of the material and is expressed as",
+  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
   "line_ranges": [
     [
-      451,
-      453
+      302,
+      304
     ],
     [
-      455,
-      455
-    ],
-    [
-      457,
-      459
-    ],
-    [
-      461,
-      461
-    ],
-    [
-      463,
-      465
-    ],
-    [
-      467,
-      467
-    ],
-    [
-      469,
-      471
-    ],
-    [
-      473,
-      475
-    ],
-    [
-      477,
-      477
-    ],
-    [
-      479,
-      479
+      307,
+      307
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 65,
-  "total_chunks_in_file": 76,
-  "summary": "Magnetic fields and magnetic intensity are defined, with a focus on the magnetic intensity in the context of a material placed in an external magnetic field. The magnetic field term and the magnetisation of the material are also introduced.",
+  "total_chunks_in_file": 129,
+  "summary": "Updated the $\nabla \times \nabla \times$ operator and defining the Laplacian",
   "hypothetical_questions": [
-    "What is the role of magnetic permeability and magnetic susceptibility in a linear material?",
-    "How do diamagnetic and paramagnetic materials differ from each other and what are their susceptibility values?",
-    "In what scenarios do ferromagnetic materials exhibit high magnetic susceptibility?"
+    "$\nabla \times \nabla \times B=$?",
+    "Expanding $\nabla \times B$ yields which vectors?e.q.",
+    "What is the benefit of defining the Laplacian?"
   ],
   "keywords": [
-    "magnetic field",
-    "linear material",
-    "magnetisation",
-    "magnetic susceptibility",
-    "magnetic withdrawal"
+    "gradient operator",
+    "curl",
+    "Laplacian"
   ],
   "global_chunk_index": 65
 }

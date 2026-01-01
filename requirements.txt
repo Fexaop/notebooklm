@@ -14,3 +14,12 @@ mistralai>=0.4.0
 
 # UI & Progress
 rich>=13.7.0
+
+# Clustering
+scikit-learn>=1.3.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Weaviate Vector Database
+weaviate-client>=4.9.0

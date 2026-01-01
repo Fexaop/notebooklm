@@ -1,27 +1,36 @@
 {
-  "content": "(a) In either case, one gets two magnets, each with a north and south pole.\n\n(b) No force if the field is uniform.\n\nThe iron nail experiences a non-uniform field due to the bar magnet.\n\nThere is induced magnetic moment in the nail, therefore, it experiences both force and torque.\n\nThe net force is attractive because the induced south pole (say) in the nail is closer to the north pole of magnet than induced north pole.",
-  "header_path": "Solution",
+  "content": "![img-5.jpeg](images/image_2_5.jpeg)\nFIGURE 5.3 Calculation of (a) The axial field of a finite solenoid in order to demonstrate its similarity to that of a bar magnet. (b) A magnetic needle in a uniform magnetic field B. The arrangement may be used to determine either B or the magnetic moment m of the needle.\n\n(ii) The tangent to the field line at a given point represents the direction of the net magnetic field B at that point.\n(iii) The larger the number of field lines crossing per unit area, the stronger is the magnitude of the magnetic field B. In Fig. 5.2(a), B is larger around region ii than in region ①.\n(iv) The magnetic field lines do not intersect, for if they did, the direction of the magnetic field would not be unique at the point of intersection.\n\nOne can plot the magnetic field lines in a variety of ways. One way is to place a small magnetic compass needle at various positions and note its orientation. This gives us an idea of the magnetic field direction at various points in space.",
+  "header_path": "5.2.1 The magnetic field lines",
   "line_ranges": [
     [
-      113,
-      114
+      52,
+      53
+    ],
+    [
+      55,
+      57
+    ],
+    [
+      59,
+      59
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 12,
-  "total_chunks_in_file": 76,
-  "summary": "Discusses the iron nail being attracted to the magnet due to a non-uniform field and an induced magnetic moment.",
+  "total_chunks_in_file": 129,
+  "summary": "The magnetic field lines are plotted in a variety of ways by determining their direction and strength using small magnetic compass needles.",
   "hypothetical_questions": [
-    "What factors contribute to the iron nail experiencing both force and torque?",
-    "Why is the net force attractive in the iron nail?",
-    "How does the induced magnetic moment in the iron nail create the attractive force?"
+    "What is the purpose of plotting magnetic field lines?",
+    "How does the magnetic field strength depend on the number of field lines crossing per unit area?",
+    "What does it mean when magnetic field lines intersect?",
+    "How can magnetic field lines be used to determine the magnetic moment of a needle?"
   ],
   "keywords": [
-    "iron nail",
-    "magnet",
-    "non-uniform field",
-    "induced magnetic moment",
-    "force"
+    "magnetic field lines",
+    "direction",
+    "magnetic compass",
+    "needle",
+    "magnetic moment"
   ],
   "global_chunk_index": 12
 }

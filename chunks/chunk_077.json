@@ -1,0 +1,34 @@
+{
+  "content": "$$\n\\begin{array}{l} B = \\mu_ {r} \\mu_ {0} \\mathrm {H} \\\\ = 4 0 0 \\times 4 \\pi \\times 1 0 ^ {- 7} (\\mathrm {N} / \\mathrm {A} ^ {2}) \\times 2 \\times 1 0 ^ {3} (\\mathrm {A} / \\mathrm {m}) \\\\ = 1. 0 \\mathrm {T} \\\\ \\end{array}\n$$\n\n(c) Magnetisation is given by\n\n$$\n\\begin{array}{l} M = (B - \\mu_ {0} H) / \\mu_ {0} \\\\ = \\left(\\mu_ {r} \\mu_ {0} H - \\mu_ {0} H\\right) / \\mu_ {0} = \\left(\\mu_ {r} - 1\\right) H = 3 9 9 \\times H \\\\ \\cong 8 \\times 1 0 ^ {5} \\mathrm {A / m} \\\\ \\end{array}\n$$",
+  "header_path": "Solution",
+  "line_ranges": [
+    [
+      353,
+      355
+    ],
+    [
+      357,
+      357
+    ],
+    [
+      359,
+      361
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 76,
+  "total_chunks_in_file": 129,
+  "summary": "The normal field strength in<|fim_suffix|> ground state energy, external magnetic flux structure through the arbitrary cross-section of the induction coil and the time lag delay between the termination of incident current and the appearance of voltage in external compact wire section, obtained. The question is formulated about the appearance of overvoltage in Lenz-Oersted's effect. Experiment method is given. For differences of strengths of the corresponding gradients of potentials an arbitrary medley of simultaneous values has been accepted as an example. Results obtained show irrelevancy with comparison with the attempts put forth to calculate the contributions in work done due to azimuthal induction currents of the potentials normal to the corresponding translation of absolute conductors.",
+  "hypothetical_questions": [
+    "what is Lenz-Oersted's effect",
+    "what is Lenz-Oersted tensor?"
+  ],
+  "keywords": [
+    "Lenz-Oersted law",
+    "magneto-electric effect",
+    "magnetizing moment",
+    "electric voltages",
+    "electromagnetic tensor"
+  ],
+  "global_chunk_index": 76
+}

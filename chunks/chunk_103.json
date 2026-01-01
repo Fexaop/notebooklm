@@ -1,0 +1,27 @@
+{
+  "content": "We may wonder as to what happens when the external field is removed.\n\nIn some ferromagnetic materials the magnetisation persists.\n\nSuch materials are called hard magnetic materials or hard ferromagnets.\n\nAlnico, an alloy of iron, aluminium, nickel, cobalt and copper, is one such material.\n\nThe naturally occurring lodestone is another.\n\nSuch materials form permanent magnets to be used among other things as a compass needle.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      417,
+      417
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 102,
+  "total_chunks_in_file": 129,
+  "summary": "The magnetisation of ferromagnetic materials may persist even after the external field is removed, resulting in hard magnetic materials or hard ferromagnets.",
+  "hypothetical_questions": [
+    "What happens to the magnetisation of ferromagnetic materials when the external field is removed?",
+    "What are some examples of hard magnetic materials?",
+    "What is the purpose of using permanent magnets like those found in lodestone and alnico?"
+  ],
+  "keywords": [
+    "ferromagnetic materials",
+    "external field",
+    "magnetisation",
+    "hard magnetic materials",
+    "permanent magnets"
+  ],
+  "global_chunk_index": 102
+}

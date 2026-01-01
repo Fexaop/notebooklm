@@ -1,38 +1,36 @@
 {
-  "content": "$\\mathbf{M}$ is a vector with dimensions $\\mathrm{L}^{-1}$ A and is measured in a units of $\\mathrm{A} \\, \\mathrm{m}^{-1}$.\n\nConsider a long solenoid of $n$ turns per unit length and carrying a current $I$. The magnetic field in the interior of the solenoid was shown to be given by\n\n$$\n\\mathbf{B}_{0} = \\mu_{0} n I \\tag{5.8}\n$$\n\nIf the interior of the solenoid is filled with a material with non-zero magnetisation, the field inside the solenoid will be greater than $\\mathbf{B}_0$. The net $\\mathbf{B}$ field in the interior of the solenoid may be expressed as",
-  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
+  "content": "Potential energy of the configuration arises due to the potential energy of one dipole (say,  $\\mathbf{Q}$ ) in the magnetic field due to other (P). Use the result that the field due to  $\\mathbf{P}$  is given by the expression [Eqs. (5.4) and (5.5)]:\n\n$$\n\\mathbf {B} _ {\\mathrm {P}} = - \\frac {\\mu_ {0}}{4 \\pi} \\frac {\\mathbf {m} _ {\\mathrm {P}}}{r ^ {3}} \\quad (\\text {o n t h e n o r m a l b i s e c t o r})\n$$\n\n$$\n\\mathbf {B} _ {\\mathrm {P}} = \\frac {\\mu_ {0} 2}{4 \\pi} \\frac {\\mathbf {m} _ {\\mathrm {P}}}{r ^ {3}} \\quad (\\text {o n t h e a x i s})\n$$",
+  "header_path": "Solution",
   "line_ranges": [
     [
-      292,
-      292
+      163,
+      163
     ],
     [
-      294,
-      294
+      165,
+      167
     ],
     [
-      296,
-      298
-    ],
-    [
-      300,
-      300
+      169,
+      171
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 39,
-  "total_chunks_in_file": 76,
-  "summary": "This section discusses the magnetic field (B) inside a long solenoid, considering both cases without magnetization and when filled with a material with non-zero magnetization.",
+  "total_chunks_in_file": 129,
+  "summary": "The text discusses the potential energy of a configuration composed of two dipoles and the expression of the field due to one (say, $\\mathbf{P}$) in the magnetic field due to the other ($\\mathbf{Q}$)",
   "hypothetical_questions": [
-    "How does the magnetic field inside a solenoid change when it contains a magnetically permeable material?",
-    "What is the relationship between the magnetization (M) and magnetic field (B) inside a solenoid?"
+    "What is the field due to one dipole in the magnetic field of the other?",
+    "How is the potential energy of the configuration arising?",
+    "What is the potential energy of one dipole in the magnetic field due to another?",
+    "What are the two equations that provide the expression for the field due to $\\mathbf{P}$?"
   ],
   "keywords": [
-    "magnetic field",
-    "solenoid",
-    "magnetization",
-    "magnetic intensity",
-    "long solenoid"
+    "$\\mathbf{P}$",
+    "$\\mathbf{Q}$",
+    "field",
+    "potential energy",
+    "magnetic"
   ],
   "global_chunk_index": 39
 }

@@ -13,6 +13,8 @@ from rich.traceback import install as rich_install
 from pydantic import BaseModel, Field
 from typing import List, Optional
 import bisect
+from sklearn.cluster import HDBSCAN
+from image_chunking import ImageChunker
 
 load_dotenv()
 
@@ -254,6 +256,14 @@ class Chunker:
         self.console.log(f"Semantic chunking: generating embeddings for {len(units)} units...")
         embeddings = np.array(await self.get_embeddings(unit_texts))
 
+        min_cluster_size = max(2, min(5, len(units) // 4)) if len(units) > 4 else 2
+        cluster_labels = np.zeros(len(units))
+        if len(units) >= min_cluster_size:
+            clusterer = HDBSCAN(min_cluster_size=min_cluster_size, min_samples=1, metric='cosine')
+            cluster_labels = clusterer.fit_predict(embeddings.astype('float64'))
+            num_clusters = len(set(cluster_labels)) - (1 if -1 in cluster_labels else 0)
+            self.console.log(f"HDBSCAN found {num_clusters} clusters (topics) and {list(cluster_labels).count(-1)} noise units.")
+
         similarities = []
         for i in range(len(embeddings) - 1):
             sim = self.cosine_similarity(embeddings[i], embeddings[i + 1])
@@ -277,10 +287,16 @@ class Chunker:
         for i in range(len(similarities)):
             sim = similarities[i]
             next_unit = units[i + 1]
+            
+            is_local_shift = sim < threshold
+            is_cluster_shift = cluster_labels[i] != cluster_labels[i+1]
+            
+            if cluster_labels[i] == -1 and cluster_labels[i+1] == -1:
+                is_cluster_shift = False
 
             current_text_len = sum(len(u["text"]) + 2 for u in current_chunk_units)
 
-            is_topic_shift = sim < threshold
+            is_topic_shift = is_local_shift or is_cluster_shift
             is_big_enough = current_text_len >= MIN_DYNAMIC_SIZE
             will_be_too_big = current_text_len + len(next_unit["text"]) > MAX_DYNAMIC_SIZE
 
@@ -367,7 +383,7 @@ class Chunker:
         self.console.print(f"Processed {md_file}: {len(file_chunks)} chunks")
         return result
 
-    async def process_and_save(self, input_dir: Path = Path("output"), chunks_dir: Path = Path("chunks"), enrich_batch_size: Optional[int] = None) -> None:
+    async def process_and_save(self, input_dir: Path = Path("output"), chunks_dir: Path = Path("chunks"), enrich_batch_size: Optional[int] = None, process_images: bool = True) -> None:
         all_chunks_data: List[dict] = []
         
         md_files = list(input_dir.rglob("*.md"))
@@ -420,8 +436,21 @@ class Chunker:
                 self.console.print(f"  Preview: {failure['chunk_preview']}")
                 self.console.print(f"  Error: [red]{failure['error']}[/red]")
 
-    def run(self) -> None:
-        asyncio.run(self.process_and_save())
+        # Process images if enabled
+        if process_images:
+            self.console.print("\n[bold cyan]Processing images...[/bold cyan]")
+            image_chunker = ImageChunker(
+                embedding_api_key=os.getenv("OPENAI_EMBEDDING_API_KEY") or os.getenv("OPENAI_API_KEY"),
+                embedding_base_url=os.getenv("OPENAI_EMBEDDING_BASE_URL") or os.getenv("OPENAI_BASE_URL"),
+                vision_api_key=os.getenv("VISION_API_KEY") or os.getenv("OPENAI_API_KEY"),
+                vision_base_url=os.getenv("VISION_BASE_URL") or os.getenv("OPENAI_BASE_URL"),
+                max_retries=self.max_retries
+            )
+            image_results = await image_chunker.process_images(input_dir, chunks_dir / "images")
+            self.console.print(f"[green]Image processing complete. Processed {len(image_results)} images.[/green]")
+
+    def run(self, process_images: bool = True) -> None:
+        asyncio.run(self.process_and_save(process_images=process_images))
 
 if __name__ == "__main__":
     Chunker().run()

@@ -1,0 +1,32 @@
+{
+  "content": "Figure 5.7(a) shows a bar of diamagnetic material placed in an external magnetic field. The field lines are repelled or expelled and the field inside the material is reduced. In most cases, this reduction is slight, being one part in  $10^{5}$ . When placed in a non-uniform magnetic field, the bar will tend to move from high to low field.\n\n![img-16.jpeg](images/image_11_16.jpeg)\n(a)",
+  "header_path": "5.5.1 Diamagnetism",
+  "line_ranges": [
+    [
+      383,
+      383
+    ],
+    [
+      385,
+      386
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 82,
+  "total_chunks_in_file": 129,
+  "summary": "Diamagnetism is the property of a material to be slightly repelled by an external magnetic field. In most cases, this reduction is slight, being one part in  $10^{5}$. When placed in a non-uniform magnetic field, the bar will tend to move from high to low field.",
+  "hypothetical_questions": [
+    "What is diamagnetism?",
+    "What happens to the magnetic field near a diamagnetic material?",
+    "Why does a bar of diamagnetic material move in a non-uniform magnetic field?",
+    "How can we visualize the reduction in magnetic field for a diamagnetic material?"
+  ],
+  "keywords": [
+    "diamagnetism",
+    "external magnetic field",
+    "reduced magnetic field",
+    "non-uniform magnetic field",
+    "bar movement"
+  ],
+  "global_chunk_index": 82
+}

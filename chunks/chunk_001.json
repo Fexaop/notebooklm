@@ -17,18 +17,15 @@
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 0,
-  "total_chunks_in_file": 76,
-  "summary": "The chapter discusses the history of magnetic phenomena and their relation to moving charges and electric currents, providing a brief overview of scientists like Oersted, Ampere, Biot, and Savart, whose works led to these discoveries, and mentioning the Greek island of Magnesia, where magnetic ore deposits were discovered in ancient times.",
+  "total_chunks_in_file": 129,
+  "summary": "# 5.2 MAGNETIC CHARGES AND MAGNETIC DIALOGUES\n\nOf course you remember old \"W. A.\"\nand Mrs. B.\nThey are informers everywhere\nThey are your friends.\nYes, dialogue!\nBut please tell me, how?\nWhat is a magnetic charge?",
   "hypothetical_questions": [
-    "How did the discovery of magnetic fields connect to early Greek civilization?",
-    "Who were the key scientists known for their work on magnetic phenomena during the early nineteenth century?"
+    "where do magnetic charges exist?",
+    "how many magnetic charges does earth have?"
   ],
   "keywords": [
-    "magnetic fields",
-    "moving charges",
-    "electric currents",
-    "Oersted",
-    "Ampere"
+    "magnets",
+    "electromagnets"
   ],
   "global_chunk_index": 0
 }

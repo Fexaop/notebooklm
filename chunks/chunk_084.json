@@ -1,0 +1,39 @@
+{
+  "content": "![img-16.jpeg](images/image_11_16.jpeg)\n(a)\n\n![img-17.jpeg](images/image_11_17.jpeg)\n(b)\nFIGURE 5.7 Behaviour of magnetic field lines near a\n\n(a) diamagnetic,\n(b) paramagnetic substance.\n\nThe simplest explanation for diamagnetism is as follows.\n\nElectrons in an atom orbiting around nucleus possess orbital angular momentum.\n\nThese orbiting electrons are equivalent to current-carrying loop and thus possess orbital magnetic moment.",
+  "header_path": "5.5.1 Diamagnetism",
+  "line_ranges": [
+    [
+      385,
+      386
+    ],
+    [
+      388,
+      390
+    ],
+    [
+      392,
+      393
+    ],
+    [
+      396,
+      396
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 83,
+  "total_chunks_in_file": 129,
+  "summary": "Diamagnetism is defined as the behaviour of an atom or a molecule with no net magnetic moment in the presence of an external magnetic field. In diamagnetism, the alignment of magnetic moments of individual atoms is negatiively affected, resulting in a slight weakening of the net magnetic moment.",
+  "hypothetical_questions": [
+    "What is ii diamagnetism?",
+    "What is diamagnetic atom?",
+    "What is the difference between paramagnetism and diamagnetism?"
+  ],
+  "keywords": [
+    "Diamagnetism",
+    "Magnetic field lines",
+    "Magnetic moment",
+    "Orbital angular momentum",
+    "Orbital magnetic moment"
+  ],
+  "global_chunk_index": 83
+}

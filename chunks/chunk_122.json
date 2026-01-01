@@ -1,0 +1,31 @@
+{
+  "content": "4. A miniscule difference in the value of χ, the magnetic susceptibility, yields radically different behaviour: diamagnetic versus paramagnetic. For diamagnetic materials χ = -10⁻⁵ whereas χ = +10⁻⁵ for paramagnetic materials.\n\n5.\n\nThere exists a perfect diamagnet, namely, a superconductor.\n\nThis is a metal at very low temperatures.",
+  "header_path": "POINTS TO PONDER",
+  "line_ranges": [
+    [
+      506,
+      506
+    ],
+    [
+      509,
+      509
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 121,
+  "total_chunks_in_file": 129,
+  "summary": "This text explains how a decrease in χ, the magnetic susceptibility, distinguishes diamagnetic materials from paramagnetic ones, and it highlights the existence of a perfect diamagnet, a superconductor, which is a metal responding to extremely low temperatures.",
+  "hypothetical_questions": [
+    "What makes diamagnetic materials distinguishable from paramagnetic materials based on their magnetic susceptibility value?",
+    "What is a superconductor, and why does it act as a perfect diamagnet?",
+    "How does a superconductor respond to very low temperatures?"
+  ],
+  "keywords": [
+    "magnetic susceptibility",
+    "diamagnetic materials",
+    "paramagnetic materials",
+    "superconductor",
+    "perfect diamagnet"
+  ],
+  "global_chunk_index": 121
+}

@@ -1,35 +1,28 @@
 {
-  "content": "1. The science of magnetism is old. It has been known since ancient times that magnetic materials tend to point in the north-south direction; like\n\n![img-18.jpeg](images/image_13_18.jpeg)\n(a)\n\n![img-19.jpeg](images/image_13_19.jpeg)\nB0\nFIGURE 5.8 (a) Randomly oriented domains, (b) Aligned domains.",
-  "header_path": "SUMMARY",
+  "content": "(For the special case of a straight wire, this force is zero.)\n(d) Yes.\n\nThe average of the charge in the system may be zero.\n\nYet, the mean of the magnetic moments due to various current loops may not be zero.\n\nWe will come across such examples in connection with paramagnetic material where atoms have net dipole moment through their net charge is zero.",
+  "header_path": "Example 5.4 > Solution",
   "line_ranges": [
     [
-      423,
-      423
-    ],
-    [
-      425,
-      426
-    ],
-    [
-      428,
-      430
+      279,
+      280
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 61,
-  "total_chunks_in_file": 76,
-  "summary": "The science of magnetism is old. It has been known since ancient times that magnetic materials tend to point in the north-south direction; like",
+  "total_chunks_in_file": 129,
+  "summary": "This force on a moving charge due to a magnetic field is zero if the charge is stationary.",
   "hypothetical_questions": [
-    "What is the orientation of magnetic materials",
-    "Why do magnetic materials cause polarization and magnetization",
-    "What are the pictures found in this text"
+    "What is the force on a moving charge due to a magnetic field?",
+    "When is the force on a charge due to a magnetic field zero?",
+    "How does a magnetic field affect the motion of charged particles?",
+    "What does it mean for a force to be zero?"
   ],
   "keywords": [
-    "science",
-    "magnetism",
-    "ancient",
-    "direction",
-    "materials"
+    "force on a moving charge",
+    "magnetic field",
+    "average charge",
+    "charge in a system",
+    "mean magnetic moments"
   ],
   "global_chunk_index": 61
 }

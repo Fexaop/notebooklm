@@ -1,0 +1,40 @@
+{
+  "content": "|  Diamagnetic | Paramagnetic | Ferromagnetic  |\n| --- | --- | --- |\n|  -1 ≤ χ < 0 | 0 < χ < ε | χ >> 1  |\n|  0 ≤ μr < 1 | 1 < μr < 1 + ε | μr >> 1  |\n|  μ < μ0 | μ > μ0 | μ >> μ0  |\n\n# 5.5.1 Diamagnetism\n\nDiamagnetic substances are those which have tendency to move from stronger to the weaker part of the external magnetic field. In other words, unlike the way a magnet attracts metals like iron, it would repel a diamagnetic substance.\n\nFigure 5.7(a) shows a bar of diamagnetic material placed in an external magnetic field. The field lines are repelled or expelled and the field inside the material is reduced. In most cases, this reduction is slight, being one part in  $10^{5}$ . When placed in a non-uniform magnetic field, the bar will tend to move from high to low field.",
+  "header_path": "5.5 MAGNETIC PROPERTIES OF MATERIALS",
+  "line_ranges": [
+    [
+      373,
+      377
+    ],
+    [
+      379,
+      379
+    ],
+    [
+      381,
+      381
+    ],
+    [
+      383,
+      383
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 81,
+  "total_chunks_in_file": 129,
+  "summary": "Diamagnetic substances are those that have a tendency to move from stronger to weaker part of the external magnetic field. They are characterized by a reduced magnetic permeability or relative permeability.",
+  "hypothetical_questions": [
+    "What is diamagnetism?",
+    "What is the relative permeability of a diamagnetic substance?",
+    "What causes a diamagnetic material to repel when placed in an external magnetic field?",
+    "How does the external magnetic field affect the magnetic permeability of a diamagnetic substance?"
+  ],
+  "keywords": [
+    "diamagnetism",
+    "relative permeability",
+    "external magnetic field",
+    "magnetic permeability",
+    "moving direction"
+  ],
+  "global_chunk_index": 81
+}

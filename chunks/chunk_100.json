@@ -1,0 +1,26 @@
+{
+  "content": "When we apply an external magnetic field  $\\mathbf{B}_0$ , the domains orient themselves in the direction of  $\\mathbf{B}_0$  and simultaneously the domain oriented in the direction of  $\\mathbf{B}_0$  grow in size.\n\nThis existence of domains and their motion in  $\\mathbf{B}_0$  are not speculations.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      415,
+      415
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 99,
+  "total_chunks_in_file": 129,
+  "summary": "In the presence of an external magnetic field  $\textbf{B}_0$, the domains in a ferromagnetic material align with the field in the direction of  $\textbf{B}_0$, causing the domains to grow in size.",
+  "hypothetical_questions": [
+    "What happens to the domains of a ferromagnetic material in response to an external magnetic field?",
+    "How do domains respond to an external magnetic field  $\textbf{B}_0$  in a ferromagnetic material?"
+  ],
+  "keywords": [
+    "external magnetic field",
+    "ferromagnetic material",
+    "magnetic domain",
+    "alignment",
+    "domain growth"
+  ],
+  "global_chunk_index": 99
+}

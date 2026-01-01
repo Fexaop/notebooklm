@@ -1,40 +1,48 @@
 {
-  "content": "![img-16.jpeg](images/image_11_16.jpeg)\n(a)\n\n![img-17.jpeg](images/image_11_17.jpeg)\n(b)\nFIGURE 5.7 Behaviour of magnetic field lines near a\n\n(a) diamagnetic,\n(b) paramagnetic substance.\n\nThe simplest explanation for diamagnetism is as follows.\n\nElectrons in an atom orbiting around nucleus possess orbital angular momentum.\n\nThese orbiting electrons are equivalent to current-carrying loop and thus possess orbital magnetic moment.",
-  "header_path": "5.5.1 Diamagnetism",
+  "content": "![img-8.jpeg](images/image_6_8.jpeg)\nFIGURE 5.5\n\nConsider a small vector area element  $\\Delta \\mathbf{S}$  of a closed surface  $\\mathbf{S}$  as in Fig. 5.5. The magnetic flux through  $\\hat{\\mathbf{A}}\\mathbf{S}$  is defined as  $\\Delta \\phi_{B} = \\mathbf{B} \\cdot \\Delta \\mathbf{S}$ , where  $\\mathbf{B}$  is the field at  $\\Delta \\mathbf{S}$ . We divide  $S$  into many small area elements and calculate the individual flux through each. Then, the net flux  $\\phi_{B}$  is,\n\n$$\n\\phi_ {B} = \\sum_ {\\text {a l l}} \\Delta \\phi_ {B} = \\sum_ {\\text {a l l}} \\mathbf {B}. \\Delta \\mathbf {S} = 0 \\tag {5.6}\n$$\n\nwhere 'all' stands for 'all area elements  $\\Delta \\mathbf{S}$ '. Compare this with the Gauss's law of electrostatics. The flux through a closed surface in that case is given by\n\n$$\n\\sum \\mathbf {E}. \\Delta \\mathbf {S} = \\frac {q}{\\varepsilon_ {0}}\n$$\n\nwhere  $q$  is the electric charge enclosed by the surface.",
+  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
   "line_ranges": [
     [
-      385,
-      386
+      196,
+      197
     ],
     [
-      388,
-      390
+      199,
+      199
     ],
     [
-      392,
-      393
+      201,
+      203
     ],
     [
-      396,
-      396
+      205,
+      205
+    ],
+    [
+      207,
+      209
+    ],
+    [
+      212,
+      212
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 46,
-  "total_chunks_in_file": 76,
-  "summary": "A summary of the context, highlights the importance of keywords and questions for understanding the context",
+  "total_chunks_in_file": 129,
+  "summary": "The net magnetic flux through a closed surface is given by $\boldsymbol{\nabla} \times \boldsymbol{B} = \frac{\boldsymbol{J}}{\boldsymbol{\beta}}$, which is parallel to the magnetic field $\boldsymbol{B}$. The net electric charge enclosed by a closed loop is conservative.",
   "hypothetical_questions": [
-    "What does the author think about the context?",
-    "What is the context about?",
-    "How is the context presented?",
-    "What are some of the technical terms used in the context?"
+    "What is the mathematical difference between electric and magnetic flux through a closed surface?",
+    "What is the Gauss's law of electrostatics?",
+    "What is the significance of flux in Maxwell's equations?",
+    "What are the characteristics of a conservative electric field?"
   ],
   "keywords": [
-    "Context",
-    "Importance",
-    "Keywords",
-    "Questions",
-    "Understanding"
+    "electric flux",
+    "magnetic flux",
+    "closed surface",
+    "Magnetic flux",
+    "conservative electric field"
   ],
   "global_chunk_index": 46
 }

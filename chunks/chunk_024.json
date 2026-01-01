@@ -1,40 +1,30 @@
 {
-  "content": "Karl Friedrich Gauss (1777 - 1855) He was a child prodigy and was gifted in mathematics, physics, engineering, astronomy and even land surveying. The properties of numbers fascinated him, and in his work he anticipated major mathematical development of later times. Along with Wilhelm Welser, he built the first electric telegraph in 1833. His mathematical theory of curved surface laid the foundation for the later work of Riemann.\n\n# 5.3 MAGNETISM AND GAUSS'S LAW\n\nIn Chapter 1, we studied Gauss's law for electrostatics. In Fig 5.2(c), we see that for a closed surface represented by ①, the number of lines leaving the surface is equal to the number of lines entering it. This is consistent with the fact that no net charge is enclosed by the surface. However, in the same figure, for the closed surface ①, there is a net outward flux, since it does include a net (positive) charge.\n\nThe situation is radically different for magnetic fields which are continuous and form closed loops. Examine the Gaussian surfaces represented by ① or ① in Fig 5.2(a) or Fig. 5.2(b). Both cases visually demonstrate that the number of magnetic field lines leaving the surface is balanced by the number of lines entering it. The net magnetic flux is zero for both the surfaces. This is true for any closed surface.",
-  "header_path": "EXAMPLE 5.2",
+  "content": "We have emphasised in Chapter 2 that the zero of potential energy can be fixed at one's convenience. Taking the constant of integration to be zero means fixing the zero of potential energy at  $\\theta = 90^{\\circ}$ , i.e., when the needle is perpendicular to the field. Equation (5.3) shows that potential energy is minimum  $(= -m\\mathrm{B})$  at  $\\theta = 0^{\\circ}$  (most stable position) and maximum  $(= +m\\mathrm{B})$  at  $\\theta = 180^{\\circ}$  (most unstable position).\n\n## Example 5.1",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid > 5.2.3 The dipole in a uniform magnetic field",
   "line_ranges": [
     [
-      188,
-      188
+      100,
+      100
     ],
     [
-      190,
-      190
-    ],
-    [
-      192,
-      192
-    ],
-    [
-      194,
-      194
+      102,
+      102
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 23,
-  "total_chunks_in_file": 76,
-  "summary": "Karl Friedrich Gauss (1877-1855) was a highly gifted polymath who made pioneering contributions to mathematics, physics, engineering, astronomy, and surveying. He anticipated important later mathematical developments and contributed to the early development of electromagnetism. Gauss's magnetic theory laid the groundwork for Riemann's work on curved surfaces. He is known for Gauss's law for electrostatics, linear electric field with two point charges, Coulomb's law, and derivatives of electric potential at the surface of a Gaussian surface.",
+  "total_chunks_in_file": 129,
+  "summary": "This is a summary of the text",
   "hypothetical_questions": [
-    "1) Who is Karl Friedrich Gauss?",
-    "2) What were Karl Friedrich Gauss's significant contributions to the field of mathematics and physics?",
-    "3) How did Karl Friedrich Gauss anticipate mathematical developments in later times?",
-    "4) What did Karl Friedrich Gauss and Wilhelm Welser build in 1833, and how did it revolutionize telecommunication?"
+    "What is potential energy?",
+    "What are some key entities mentioned in the text?",
+    "How does the potential energy change as the angle theta changes?",
+    "What is the most stable and unstable position for the needle relative to the magnetic field?"
   ],
   "keywords": [
-    "Karl Friedrich Gauss",
-    "child prodigy",
-    "mathematics",
-    "physics",
-    "engineering"
+    "potential energy",
+    "needle",
+    "magnetic field"
   ],
   "global_chunk_index": 23
 }

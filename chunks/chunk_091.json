@@ -1,0 +1,30 @@
+{
+  "content": "Paramagnetic substances are those which get weakly magnetised when placed in an external magnetic field. They have tendency to move from a region of weak magnetic field to strong magnetic field, i.e. they get weakly attracted to a magnet.\n\nThe individual atoms (or ions or molecules) of a paramagnetic material possess a permanent magnetic dipole moment of their own.",
+  "header_path": "5.5.1 Diamagnetism > 5.5.2 Paramagnetism",
+  "line_ranges": [
+    [
+      404,
+      404
+    ],
+    [
+      406,
+      406
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 90,
+  "total_chunks_in_file": 129,
+  "summary": "Paramagnetic substances are those which get weakly magnetised when placed in an external magnetic field.",
+  "hypothetical_questions": [
+    "What are paramagnetic substances?",
+    "How do paramagnetic materials become weakly magnetised?"
+  ],
+  "keywords": [
+    "paramagnetic",
+    "magnetic_field",
+    "dipole",
+    "substances",
+    "material"
+  ],
+  "global_chunk_index": 90
+}

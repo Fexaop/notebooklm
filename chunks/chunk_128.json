@@ -1,0 +1,34 @@
+{
+  "content": "5.5 A bar magnet of magnetic moment $1.5 \\, \\mathrm{J} \\, \\mathrm{T}^{-1}$ lies aligned with the direction of a uniform magnetic field of 0.22 T.\n\n(a) What is the amount of work required by an external torque to turn the magnet so as to align its magnetic moment: (i) normal to the field direction, (ii) opposite to the field direction?\n\n(b) What is the torque on the magnet in cases (i) and (ii)?",
+  "header_path": "EXERCISES",
+  "line_ranges": [
+    [
+      525,
+      525
+    ],
+    [
+      527,
+      527
+    ],
+    [
+      529,
+      529
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 127,
+  "total_chunks_in_file": 129,
+  "summary": "The amount of work and torque on a bar magnet aligned with a uniform magnetic field.",
+  "hypothetical_questions": [
+    "How does the work and torque depend on the alignment of the bar magnet?",
+    "How does the magnetic field affect the alignment of a bar magnet?"
+  ],
+  "keywords": [
+    "bar magnet",
+    "magnetic moment",
+    "magnetic field",
+    "work",
+    "torque"
+  ],
+  "global_chunk_index": 127
+}

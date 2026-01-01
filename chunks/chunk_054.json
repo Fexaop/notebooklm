@@ -1,27 +1,31 @@
 {
-  "content": "However, they interact with one another in such a way that they spontaneously align themselves in a common direction over a macroscopic volume called domain.\n\nThe explanation of this cooperative effect requires quantum mechanics and is beyond the scope of this textbook.\n\nEach domain has a net magnetisation.\n\nTypical domain size is  $1\\mathrm{mm}$  and the domain contains about  $10^{11}$  atoms.",
-  "header_path": "5.5.3 Ferromagnetism",
+  "content": "(e) Right. These are field lines outside and inside a bar magnet. Note carefully the direction of field lines inside. Not all field lines emanate out of a north pole (or converge into a south pole). Around both the N-pole, and the S-pole, the net flux of the field is zero.\n\n(f) Wrong. These field lines cannot possibly represent a magnetic field. Look at the upper region. All the field lines seem to emanate out of the shaded plate. The net flux through a surface surrounding the shaded plate is not zero. This is impossible for a magnetic field. The given field lines, in fact, show the electrostatic field lines around a positively charged upper plate and a negatively charged lower plate. The difference between Fig. [5.6(e) and (f)] should be carefully grasped.",
+  "header_path": "Solution",
   "line_ranges": [
     [
-      415,
-      415
+      255,
+      255
+    ],
+    [
+      257,
+      257
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 53,
-  "total_chunks_in_file": 76,
-  "summary": "Ferromagnetism refers to how atoms, which interact with one another, align themselves in a common direction over a macroscopic volume called domain.",
+  "total_chunks_in_file": 129,
+  "summary": "Field lines around a bar magnet exhibit unique patterns of flux density and direction, with all net field flux through a surface surrounding the magnet being zero. Electrostatic fields differ, with a lack of zero net flux surrounding like-charged plates, resulting in different field line configurations. The distinction between magnetic and electrostatic fields can be understood by analyzing specific figures such as Fig. [5.6(e) and (f)], where magnetic fields have net zero flux while electrostatic fields exhibit non-zero net flux fields surrounding charged plates. By carefully analyzing these differences, one can distinguish magnetic fields from electrostatic fields and strengthen their understanding",
   "hypothetical_questions": [
-    "What causes ferromagnetism?",
-    "How does ferromagnetism work?",
-    "Why do dipole-dipole interactions cause spontaneous magnetization?"
+    "How do magnetic field lines around a bar magnet have zero net flux through a surface enclosing it?",
+    "In what way are electrostatic field lines different from magnetic field lines, especially in relation to their net flux?",
+    "What figure allows one to clearly visualize and understand the distinction between magnetic and electrostatic fields?"
   ],
   "keywords": [
-    "ferromagnetism",
-    "atoms",
-    "magnetism",
-    "magnetization",
-    "cooperative effect"
+    "bar magnet",
+    "magnetic field lines",
+    "net flux",
+    "electrostatic field lines",
+    "charged plates"
   ],
   "global_chunk_index": 53
 }

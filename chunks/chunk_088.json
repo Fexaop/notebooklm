@@ -1,0 +1,31 @@
+{
+  "content": "Some diamagnetic materials are bismuth, copper, lead, silicon, nitrogen (at STP), water and sodium chloride. Diamagnetism is present in all the substances. However, the effect is so weak in most cases that it gets shifted by other effects like paramagnetism, ferromagnetism, etc.\n\nThe most exotic diamagnetic materials are superconductors.\n\nThese are metals, cooled to very low temperatures which exhibits both perfect conductivity and perfect diamagnetism.",
+  "header_path": "5.5.1 Diamagnetism",
+  "line_ranges": [
+    [
+      398,
+      398
+    ],
+    [
+      400,
+      400
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 87,
+  "total_chunks_in_file": 129,
+  "summary": "Diamagnetism is a property present in all materials but its effect is weak in most cases. Exotic diamagnetic materials include superconductors, which are metals cooled to extremely low temperatures with perfect conductivity and diamagnetism.",
+  "hypothetical_questions": [
+    "What types of materials exhibit diamagnetism?",
+    "Under what conditions is the effect of diamagnetism strongest?",
+    "How does diamagnetism compare to paramagnetism, ferromagnetism, etc.?"
+  ],
+  "keywords": [
+    "diamagnetism",
+    "materials",
+    "effects",
+    "paramagnetism",
+    "ferromagnetism"
+  ],
+  "global_chunk_index": 87
+}

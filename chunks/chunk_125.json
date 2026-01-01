@@ -1,0 +1,40 @@
+{
+  "content": "7. We have classified materials as diamagnetic, paramagnetic, and ferromagnetic. However, there exist additional types of magnetic material such as ferrimagnetic, anti-ferromagnetic, spin glass, etc. with properties which are exotic and mysterious.\n\n# EXERCISES\n\n5.1 A short bar magnet placed with its axis at $30^{\\circ}$ with a uniform external magnetic field of 0.25 T experiences a torque of magnitude equal to $4.5 \\times 10^{-2} \\mathrm{~J}$. What is the magnitude of magnetic moment of the magnet?\n\n5.2 A short bar magnet of magnetic moment $m = 0.32 \\, \\mathrm{JT}^{-1}$ is placed in a uniform magnetic field of 0.15 T. If the bar is free to rotate in the plane of the field, which orientation would correspond to its (a) stable, and (b) unstable equilibrium? What is the potential energy of the magnet in each case?",
+  "header_path": "POINTS TO PONDER",
+  "line_ranges": [
+    [
+      513,
+      513
+    ],
+    [
+      515,
+      515
+    ],
+    [
+      517,
+      517
+    ],
+    [
+      519,
+      519
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 124,
+  "total_chunks_in_file": 129,
+  "summary": "This text provides readers with a definition of non-traditional magnetic material types like ferrimagnetic, anti-ferromagnetic, and spin glass, presents questions on the relationship between torque and magnetic moments involving bar magnets in uniform magnetic fields, and asks readers to determine the orientation and potential energy of these bar magnets in stable and unstable equilibriums.",
+  "hypothetical_questions": [
+    "What are ferrimagnetic, spin glass, and anti-ferromagnetic materials?",
+    "What is the relationship between magnetic moment of a magnet and torque experienced when placed in a uniform magnetic field?",
+    "How do the orientation and potential energy of bar magnets in uniform magnetic fields differ",
+    "In what states does a bar magnet exhibit stable or unstable orientation?"
+  ],
+  "keywords": [
+    "magnetic material types",
+    "magnetic moments",
+    "bar magnets",
+    "unstable equilibrium",
+    "stable equilibrium"
+  ],
+  "global_chunk_index": 124
+}

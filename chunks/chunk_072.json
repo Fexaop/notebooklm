@@ -1,32 +1,31 @@
 {
-  "content": "4. A miniscule difference in the value of χ, the magnetic susceptibility, yields radically different behaviour: diamagnetic versus paramagnetic. For diamagnetic materials χ = -10⁻⁵ whereas χ = +10⁻⁵ for paramagnetic materials.\n\n5.\n\nThere exists a perfect diamagnet, namely, a superconductor.\n\nThis is a metal at very low temperatures.",
-  "header_path": "POINTS TO PONDER",
+  "content": "where $\\chi$, a dimensionless quantity, is appropriately called the magnetic susceptibility. It is a measure of how a magnetic material responds to an external field. $\\chi$ is small and positive for materials, which are called paramagnetic. It is small and negative for materials, which are termed diamagnetic. In the latter case $\\mathbf{M}$ and $\\mathbf{H}$ are opposite in direction. From Eqs. (5.12) and (5.13) we obtain,\n\n$$\n\\begin{array}{l} \\mathbf {B} = \\mu_ {0} (1 + \\chi) \\mathbf {H} \\tag {5.14} \\\\ = \\mu_ {0} \\mu_ {\\mathrm {r}} \\mathbf {H} \\\\ = \\mu \\mathbf {H} \\tag {5.15} \\\\ \\end{array}\n$$",
+  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
   "line_ranges": [
     [
-      506,
-      506
+      333,
+      333
     ],
     [
-      509,
-      509
+      335,
+      337
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 71,
-  "total_chunks_in_file": 76,
-  "summary": "In this passage, it is explained that a slight variation in the magnetic susceptibility, χ, causes significant differences in the behavior of materials, shifting them between diamagnetic and paramagnetic states. For diamagnetic materials, χ has a value of -10⁻⁵, while paramagnetic materials have a value of +10⁻⁵. Additionally, a perfect diamagnet, specifically superconductors, finds applications in metals at extremely low temperatures near absolute zero, around zero Kelvin (-273°C).",
+  "total_chunks_in_file": 129,
+  "summary": "The magnetic susceptibility, represented by $\\",
   "hypothetical_questions": [
-    "What kind of materials have diamagnetic and paramagnetic states, and how do they differ in terms of their magnetic susceptibility?",
-    "How high is the magnetic susceptibility of conductors versus paramagnetic materials?",
-    "What is a superconductor, and what is the temperature threshold for its conductivity?",
-    "In which state does a perfect diamagnet exhibit these properties, and why do superconductors offer a unique mechanical advantage when used as bearings?"
+    "What is the magnetic susceptibility?",
+    "What is the principal difference between paramagnetic and diamagnetic materials?",
+    "How are magnetic susceptibility and permeability related?"
   ],
   "keywords": [
-    "diamagnetic",
-    "paramagnetic",
     "magnetic susceptibility",
-    "superconductor",
-    "superconducting"
+    "paramagnetic",
+    "diamagnetic",
+    "Eq. (5.14)",
+    "Eq. (5.13)"
   ],
   "global_chunk_index": 71
 }

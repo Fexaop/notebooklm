@@ -1,43 +1,35 @@
 {
-  "content": "If the interior of the solenoid is filled with a material with non-zero magnetisation, the field inside the solenoid will be greater than $\\mathbf{B}_0$. The net $\\mathbf{B}$ field in the interior of the solenoid may be expressed as\n\n$$\n\\mathbf{B} = \\mathbf{B}_{0} + \\mathbf{B}_{\\mathrm{m}} \\tag{5.9}\n$$\n\nwhere $\\mathbf{B}_{\\mathrm{m}}$ is the field contributed by the material core. It turns out that this additional field $\\mathbf{B}_{\\mathrm{m}}$ is proportional to the magnetisation $\\mathbf{M}$ of the material and is expressed as\n\n$$\n\\mathbf {B} _ {\\mathrm {m}} = \\mu_ {0} \\mathbf {M} \\tag {5.10}\n$$\n\nwhere $\\mu_0$ is the same constant (permittivity of vacuum) that appears in Biot-Savart's law.",
-  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
+  "content": "$$\n\\mathbf {B} _ {\\mathrm {P}} = \\frac {\\mu_ {0} 2}{4 \\pi} \\frac {\\mathbf {m} _ {\\mathrm {P}}}{r ^ {3}} \\quad (\\text {o n t h e a x i s})\n$$\n\nwhere  $\\mathbf{m}_{\\mathrm{P}}$  is the magnetic moment of the dipole P.\n\nEquilibrium is stable when  $\\mathbf{m}_{\\mathrm{Q}}$  is parallel to  $\\mathbf{B}_{\\mathrm{P}}$ , and unstable when it is anti-parallel to  $\\mathbf{B}_{\\mathrm{P}}$ .",
+  "header_path": "Solution",
   "line_ranges": [
     [
-      300,
-      300
+      169,
+      171
     ],
     [
-      302,
-      304
+      173,
+      173
     ],
     [
-      307,
-      307
-    ],
-    [
-      309,
-      311
-    ],
-    [
-      313,
-      313
+      175,
+      175
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 40,
-  "total_chunks_in_file": 76,
-  "summary": "The net magnetic field inside the solenoid may be expressed as B = B₀ + Bₘ, where Bₘ is the field contributed by the material core, resulting from combining the fields B₀ from the solenoid and Bₘ from the material. Bₘ is proportional to the magnetisation of the material, and is expressed as Bₘ = μ₀M",
+  "total_chunks_in_file": 129,
+  "summary": "This equation shows the magnetic field of a point dipole acting on a dipole in an equilibrium system, with the magnetic moment and position described. The field is stable when the moment is parallel to the field, and unstable when it is anti-parallel.",
   "hypothetical_questions": [
-    "What is the net magnetic field inside a solenoid containing a material with non-zero magnetization?",
-    "How does the magnetisation of the material affect the net magnetic field inside a solenoid?",
-    "How is the field contributed by the material core, bₘ, related to the magnetisation of the material?"
+    "What is the concept of magnetic field in general?",
+    "What is the formula for magnetic field of a point dipole?",
+    "What does it mean when magnetic moments are parallel or anti-parallel?"
   ],
   "keywords": [
-    "solenoid",
     "magnetic field",
-    "magnetisation",
-    "permittivity of vacuum",
-    "Biot-Savart's law"
+    "point dipole",
+    "magnetic moment",
+    "equilibrium",
+    "stability"
   ],
   "global_chunk_index": 40
 }

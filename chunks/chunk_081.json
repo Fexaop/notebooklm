@@ -1,0 +1,36 @@
+{
+  "content": "A glance at Table 5.2 gives one a better feeling for these materials. Here  $\\varepsilon$  is a small positive number introduced to quantify paramagnetic materials. Next, we describe these materials in some detail.\n\nTABLE 5.2\n\n|  Diamagnetic | Paramagnetic | Ferromagnetic  |\n| --- | --- | --- |\n|  -1 ≤ χ < 0 | 0 < χ < ε | χ >> 1  |\n|  0 ≤ μr < 1 | 1 < μr < 1 + ε | μr >> 1  |\n|  μ < μ0 | μ > μ0 | μ >> μ0  |",
+  "header_path": "5.5 MAGNETIC PROPERTIES OF MATERIALS",
+  "line_ranges": [
+    [
+      369,
+      369
+    ],
+    [
+      371,
+      371
+    ],
+    [
+      373,
+      377
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 80,
+  "total_chunks_in_file": 129,
+  "summary": "Table 5.2 provides an overview of the magnetic properties of materials, including diamagnetic, paramagnetic, and ferromagnetic materials",
+  "hypothetical_questions": [
+    "What are the properties of diamagnetic materials?",
+    "What is the range of χ values for diamagnetic and paramagnetic materials?",
+    "What does μr represent in magnetic properties of materials?",
+    "How does the magnetic permeability (μ) relate to the permeability of free space (μ0) for different materials?"
+  ],
+  "keywords": [
+    "Table 5.2",
+    "magnetic properties",
+    "materials",
+    "diamagnetic",
+    "paramagnetic"
+  ],
+  "global_chunk_index": 80
+}

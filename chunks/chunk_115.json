@@ -1,0 +1,31 @@
+{
+  "content": "$$\n\\mu_r = 1 + \\chi\n$$\n\n7. Magnetic materials are broadly classified as: diamagnetic, paramagnetic, and ferromagnetic. For diamagnetic materials $\\chi$ is negative and small and for paramagnetic materials it is positive and small. Ferromagnetic materials have large $\\chi$.\n\n8. Substances, which at room temperature, retain their ferromagnetic property for a long period of time are called permanent magnets.",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      473,
+      475
+    ],
+    [
+      477,
+      477
+    ],
+    [
+      479,
+      479
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 114,
+  "total_chunks_in_file": 129,
+  "summary": "Substances, which at room temperature, retain their ferromagnetic property for a long period of time are called permanent magnets.",
+  "hypothetical_questions": [
+    "What is the definition of a permanent magnet?"
+  ],
+  "keywords": [
+    "ferromagnetic",
+    "permanent magnets",
+    "properties"
+  ],
+  "global_chunk_index": 114
+}

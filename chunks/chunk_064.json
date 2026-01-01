@@ -1,35 +1,38 @@
 {
-  "content": "(a) the force on it is zero,\n(b) the torque on it is $\\mathbf{m} \\times \\mathbf{B}$,\n(c) its potential energy is $-\\mathbf{m} \\cdot \\mathbf{B}$, where we choose the zero of energy at the orientation when $\\mathbf{m}$ is perpendicular to $\\mathbf{B}$.\n\n3. Consider a bar magnet of size $l$ and magnetic moment $\\mathbf{m}$, at a distance $r$ from its mid-point, where $r >> l$, the magnetic field $\\mathbf{B}$ due to this bar is,\n\n$$\n\\mathbf{B} = \\frac{\\mu_0 \\mathbf{m}}{2\\pi r^3} \\quad \\text{(along axis)} = -\\frac{\\mu_0 \\mathbf{m}}{4\\pi r^3} \\quad \\text{(along equator)}\n$$",
-  "header_path": "SUMMARY",
+  "content": "$\\mathbf{M}$ is a vector with dimensions $\\mathrm{L}^{-1}$ A and is measured in a units of $\\mathrm{A} \\, \\mathrm{m}^{-1}$.\n\nConsider a long solenoid of $n$ turns per unit length and carrying a current $I$. The magnetic field in the interior of the solenoid was shown to be given by\n\n$$\n\\mathbf{B}_{0} = \\mu_{0} n I \\tag{5.8}\n$$\n\nIf the interior of the solenoid is filled with a material with non-zero magnetisation, the field inside the solenoid will be greater than $\\mathbf{B}_0$. The net $\\mathbf{B}$ field in the interior of the solenoid may be expressed as",
+  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
   "line_ranges": [
     [
-      439,
-      441
+      292,
+      292
     ],
     [
-      443,
-      443
+      294,
+      294
     ],
     [
-      445,
-      447
+      296,
+      298
+    ],
+    [
+      300,
+      300
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 63,
-  "total_chunks_in_file": 76,
-  "summary": "This section describes the magnetic field strength for a bar magnet that is either pointing along or across its axis, based solely on its magnetic moment and the distance from its midpoint to the measurement point.",
+  "total_chunks_in_file": 129,
+  "summary": "Explain the concept and equation behind the magnetic field in a long solenoid with a non-zero magnetization.",
   "hypothetical_questions": [
-    "Why is the torque on the bar magnet not zero when the force on it is zero?",
-    "What happens to the potential energy of a bar magnet as it is rotated along its axis?",
-    "How does increasing the distance affect the magnetic field strength around a bar magnet?"
+    "What is the relationship between the magnetic field B and the magnetic property M?",
+    "How does the magnetization M depend on the properties of the magnetizing material?",
+    "How does the magnetization M affect the effective magnetic field in a solenoid?",
+    "What is the effect of the magnetic field B and magnetization M on the behavior of magnetic particles?"
   ],
   "keywords": [
-    "bar magnet",
-    "magnetic moment",
-    "distance",
-    "torque",
-    "potential energy"
+    "Mancyietization",
+    "Magnetic intensity",
+    "Long solenoid"
   ],
   "global_chunk_index": 63
 }

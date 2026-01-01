@@ -1,54 +1,36 @@
 {
-  "content": "$$\n\\mu = \\mu_ {0} \\mu_ {r} = \\mu_ {0} (1 + \\chi).\n$$\n\nThe three quantities $\\chi$, $\\mu_{\\mathrm{r}}$ and $\\mu$ are interrelated and only one of them is independent. Given one, the other two may be easily determined.\n\n# Solution\n\n(a) The field  $H$  is dependent of the material of the core, and is  $H = nI = 1000 \\times 2.0 = 2 \\times 10^{3} \\mathrm{~A/m}$ .\n(b) The magnetic field  $B$  is given by\n\n$$\n\\begin{array}{l} B = \\mu_ {r} \\mu_ {0} \\mathrm {H} \\\\ = 4 0 0 \\times 4 \\pi \\times 1 0 ^ {- 7} (\\mathrm {N} / \\mathrm {A} ^ {2}) \\times 2 \\times 1 0 ^ {3} (\\mathrm {A} / \\mathrm {m}) \\\\ = 1. 0 \\mathrm {T} \\\\ \\end{array}\n$$\n\n(c) Magnetisation is given by\n\n$$\n\\begin{array}{l} M = (B - \\mu_ {0} H) / \\mu_ {0} \\\\ = \\left(\\mu_ {r} \\mu_ {0} H - \\mu_ {0} H\\right) / \\mu_ {0} = \\left(\\mu_ {r} - 1\\right) H = 3 9 9 \\times H \\\\ \\cong 8 \\times 1 0 ^ {5} \\mathrm {A / m} \\\\ \\end{array}\n$$\n\n(d) The magnetising current  $I_{M}$  is the additional current that needs to be passed through the windings of the solenoid in the absence of the core which would give a  $B$  value as in the presence of the core. Thus  $B = \\mu_r n (I + I_M)$ . Using  $I = 2\\mathrm{A}$ ,  $B = 1\\mathrm{T}$ , we get  $I_{M} = 794\\mathrm{A}$ .",
-  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
+  "content": "(a)  $\\mathrm{PQ}_1$  and  $\\mathrm{PQ}_2$\n(b) (i)  $\\mathrm{PQ}_3$ ,  $\\mathrm{PQ}_6$  (stable); (ii)  $\\mathrm{PQ}_5$ ,  $\\mathrm{PQ}_4$  (unstable)\n(c)  $\\mathrm{PQ}_6$\n\n![img-7.jpeg](images/image_6_7.jpeg)\n\nKarl Friedrich Gauss (1777 - 1855) He was a child prodigy and was gifted in mathematics, physics, engineering, astronomy and even land surveying. The properties of numbers fascinated him, and in his work he anticipated major mathematical development of later times. Along with Wilhelm Welser, he built the first electric telegraph in 1833. His mathematical theory of curved surface laid the foundation for the later work of Riemann.",
+  "header_path": "EXAMPLE 5.2",
   "line_ranges": [
     [
-      341,
-      343
+      182,
+      184
     ],
     [
-      345,
-      345
+      186,
+      186
     ],
     [
-      348,
-      348
-    ],
-    [
-      350,
-      351
-    ],
-    [
-      353,
-      355
-    ],
-    [
-      357,
-      357
-    ],
-    [
-      359,
-      361
-    ],
-    [
-      363,
-      363
+      188,
+      188
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 42,
-  "total_chunks_in_file": 76,
-  "summary": "The given formula represents the relationship between the magnetic permeability (μ), the vacuum magnetic permeability (μ0), the relative permeability (μr), and the susceptibility (χ) of a material. The summary states that these quantities are interrelated and that either of them can be used to determine the other two.",
+  "total_chunks_in_file": 129,
+  "summary": "Gauss was a child prodigy who was gifted in mathematics, physics, engineering, astronomy, and land surveying. He anticipated major mathematical developments and built the first electric telegraph in 1833. His mathematical theory of curved surfaces laid the foundation for Riemann's work.",
   "hypothetical_questions": [
-    "Does the vacuum magnetic permeability (μ0) affect the magnetic permeability (μ) of a material?",
-    "How do the relative permeability (μr) and susceptibility (χ) relate to each other?",
-    "Can we calculate the magnetic permeability (μ) if we know the relative permeability (μr) and vacuum magnetic permeability (μ0)?"
+    "What mathematical contributions did Gauss make?",
+    "Where did Gauss live?",
+    "When did Gauss build the electric telegraph?",
+    "What did Gauss anticipate?"
   ],
   "keywords": [
-    "magnetic permeability",
-    "vacuum magnetic permeability",
-    "relative permeability",
-    "susceptibility"
+    "child prodigy",
+    "mathematical",
+    "engineering",
+    "astronomy",
+    "land surveying"
   ],
   "global_chunk_index": 42
 }

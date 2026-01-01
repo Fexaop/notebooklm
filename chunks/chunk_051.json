@@ -1,23 +1,54 @@
 {
-  "content": "These are metals, cooled to very low temperatures which exhibits both perfect conductivity and perfect diamagnetism.\n\nHere the field lines are completely expelled!\n\nχ = -1 and μ_{r} = 0.\n\nA superconductor repels a magnet and (by Newton's third law) is repelled by the magnet.\n\nThe phenomenon of perfect diamagnetism in superconductors is called the Meissner effect, after the name of its discoverer.\n\nSuperconducting magnets can be gainfully exploited in variety of situations, for example, for running magnetically levitated superfast trains.",
-  "header_path": "5.5.1 Diamagnetism",
+  "content": "![img-10.jpeg](images/image_7_10.jpeg)\n(c)\n\n![img-11.jpeg](images/image_7_11.jpeg)\nEmpty space\n\n![img-12.jpeg](images/image_7_12.jpeg)\n(b)\n(c)\n\n![img-13.jpeg](images/image_7_13.jpeg)\n(d)\n\n![img-14.jpeg](images/image_7_14.jpeg)\n(d)\n\n![img-15.jpeg](images/image_7_15.jpeg)\nFIGURE 5.6\n\n# Solution\n\n(a) Wrong. Magnetic field lines can never emanate from a point, as shown in figure. Over any closed surface, the net flux of B must always be zero, i.e., pictorially as many field lines should seem to enter the surface as the number of lines leaving it. The field lines shown, in fact, represent electric field of a long positively charged wire. The correct magnetic field lines are circling the straight conductor, as described in Chapter 4.",
+  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
   "line_ranges": [
     [
-      400,
-      400
+      225,
+      226
+    ],
+    [
+      228,
+      229
+    ],
+    [
+      231,
+      233
+    ],
+    [
+      235,
+      236
+    ],
+    [
+      238,
+      239
+    ],
+    [
+      241,
+      242
+    ],
+    [
+      245,
+      245
+    ],
+    [
+      247,
+      247
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 50,
-  "total_chunks_in_file": 76,
-  "summary": "Superconductors at very low temperatures exhibit perfect conductivity and dialectics, excluding magnetic fields due to the Meissner effect.",
+  "total_chunks_in_file": 129,
+  "summary": "Magnetic field lines can never emanate from a point, as shown in figure. Over any closed surface, the net flux of B must always be zero.",
   "hypothetical_questions": [
-    "What are su<|fim_suffix|>(atomic), induces a force opposite to the external magnetic field due to Barkhausen effect, rather than eliminating it."
+    "What is the net flux of magnetic field over any closed surface?",
+    "Why do magnetic field lines not emanate from a point?",
+    "How can you relate the magnetic field lines to electric field lines?"
   ],
   "keywords": [
-    "atomic",
-    "magnetic",
-    "field"
+    "magnetic field",
+    "electric field",
+    "closed surface",
+    "net flux"
   ],
   "global_chunk_index": 50
 }

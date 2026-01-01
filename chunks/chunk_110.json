@@ -1,0 +1,32 @@
+{
+  "content": "3. Consider a bar magnet of size $l$ and magnetic moment $\\mathbf{m}$, at a distance $r$ from its mid-point, where $r >> l$, the magnetic field $\\mathbf{B}$ due to this bar is,\n\n$$\n\\mathbf{B} = \\frac{\\mu_0 \\mathbf{m}}{2\\pi r^3} \\quad \\text{(along axis)} = -\\frac{\\mu_0 \\mathbf{m}}{4\\pi r^3} \\quad \\text{(along equator)}\n$$",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      443,
+      443
+    ],
+    [
+      445,
+      447
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 109,
+  "total_chunks_in_file": 129,
+  "summary": "In a scenario where a bar magnet of size $l$, with magnetic moment $\\mathbf{m}$, is positioned at a distance $r$ from its midpoint, with $r >> l$, the magnetic field $\\mathbf{B}$ perpendicular to the axis forms an angle of $55^n$ with the axis, while the component of the magnetic field along the axis has a negligible magnitude and can be neglected.",
+  "hypothetical_questions": [
+    "How does the magnetic field change when the bar magnet's orientation is adjusted?",
+    "What factors affect the distribution of the magnetic field lines?",
+    "Can the magnetic field be predicted by using specific mathematical equations?",
+    "How does the distance between the bar magnet and a point affect the magnetic field strength?"
+  ],
+  "keywords": [
+    "magnetic field",
+    "bar magnet",
+    "magnetic moment",
+    "distance",
+    "angle"
+  ],
+  "global_chunk_index": 109
+}

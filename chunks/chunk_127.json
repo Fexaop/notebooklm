@@ -1,0 +1,36 @@
+{
+  "content": "5.3 A closely wound solenoid of 800 turns and area of cross section $2.5 \\times 10^{-4} \\, \\mathrm{m}^2$ carries a current of 3.0 A. Explain the sense in which the solenoid acts like a bar magnet. What is its associated magnetic moment?\n\n5.4 If the solenoid in Exercise 5.5 is free to turn about the vertical direction and a uniform horizontal magnetic field of $0.25\\mathrm{T}$ is applied, what is the magnitude of torque on the solenoid when its axis makes an angle of $30^{\\circ}$ with the direction of applied field?\n\n5.5 A bar magnet of magnetic moment $1.5 \\, \\mathrm{J} \\, \\mathrm{T}^{-1}$ lies aligned with the direction of a uniform magnetic field of 0.22 T.",
+  "header_path": "EXERCISES",
+  "line_ranges": [
+    [
+      521,
+      521
+    ],
+    [
+      523,
+      523
+    ],
+    [
+      525,
+      525
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 126,
+  "total_chunks_in_file": 129,
+  "summary": "Describe the magnetic properties of a closely wound solenoid and calculate the torque on a solenoid when it's free to turn and subjected to a horizontal magnetic field.",
+  "hypothetical_questions": [
+    "What does a solenoid carry electric current?",
+    "What is the significance of a bar magnet acting as a bar magnet?",
+    "What’s the formula to calculate the magnetic moment of a solenoid?",
+    "How do you calculate torque on the solenoid when it’s free to turn and subjected to a horizontal magnetic field?"
+  ],
+  "keywords": [
+    "electric current",
+    "solenoid",
+    "bar magnet",
+    "electricity",
+    "force on dipole"
+  ],
+  "global_chunk_index": 126
+}

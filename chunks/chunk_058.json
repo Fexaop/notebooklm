@@ -1,27 +1,34 @@
 {
-  "content": "We may wonder as to what happens when the external field is removed.\n\nIn some ferromagnetic materials the magnetisation persists.\n\nSuch materials are called hard magnetic materials or hard ferromagnets.\n\nAlnico, an alloy of iron, aluminium, nickel, cobalt and copper, is one such material.\n\nThe naturally occurring lodestone is another.\n\nSuch materials form permanent magnets to be used among other things as a compass needle.",
-  "header_path": "5.5.3 Ferromagnetism",
+  "content": "(b) If magnetic monopoles existed, how would the Gauss's law of magnetism be modified?\n\n(c) Does a bar magnet exert a torque on itself due to its own field? Does one element of a current-carrying wire exert a force on another element of the same wire?\n\n(d) Magnetic field arises due to charges in motion. Can a system have magnetic moments even though its net charge is zero?",
+  "header_path": "Example 5.4",
   "line_ranges": [
     [
-      417,
-      417
+      265,
+      265
+    ],
+    [
+      267,
+      267
+    ],
+    [
+      270,
+      270
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 57,
-  "total_chunks_in_file": 76,
-  "summary": "Naturally occurring lodestone is a permanent magnet.",
+  "total_chunks_in_file": 129,
+  "summary": "The text discusses the implications of magnetic monopoles on Gauss's law of magnetism, the torque on a bar magnet, magnetic moments in systems with zero net charge, and the interaction between elements of a current-carrying wire.",
   "hypothetical_questions": [
-    "What happens when the external magnetic field is removed from ferromagnetic materials?",
-    "How do permanent magnets like naturally occurring lodestone form?",
-    "Are all ferromagnetic materials capable of maintaining magnetization when external field is removed?"
+    "What would be the impact on magnetic fields and forces if magnetic monopoles existed?",
+    "Would one element of a current-carrying wire exert a force on another element of the same wire?"
   ],
   "keywords": [
-    "lodestone",
-    "permanent magnet",
-    "ferromagnetic",
-    "magnetization",
-    "magnetic field"
+    "magnetic monopoles",
+    "Gauss's law of magnetism",
+    "torque on a bar magnet",
+    "magnetic moments",
+    "current-carrying wire"
   ],
   "global_chunk_index": 57
 }

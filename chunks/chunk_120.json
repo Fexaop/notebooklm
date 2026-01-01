@@ -1,0 +1,29 @@
+{
+  "content": "2. Magnetic monopoles do not exist. If you slice a magnet in half, you get two smaller magnets. On the other hand, isolated positive and negative charges exist. There exists a smallest unit of charge, for example, the electronic charge with value |e| = 1.6 × 10⁻¹⁹ C. All other charges are integral multiples of this smallest unit charge. In other words, charge is quantised. We do not know why magnetic monopoles do not exist or why electric charge is quantised.\n\n3. A consequence of the fact that magnetic monopoles do not exist is that the magnetic field lines are continuous and form closed loops. In contrast, the electrostatic lines of force begin on a positive charge and terminate on the negative charge (or fade out at infinity).",
+  "header_path": "POINTS TO PONDER",
+  "line_ranges": [
+    [
+      502,
+      502
+    ],
+    [
+      504,
+      504
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 119,
+  "total_chunks_in_file": 129,
+  "summary": "Magnetic monopoles, unlike electric charges which are quantised, are not believed to exist as there is no means to slice a magnet in half. If isolated positive and negative charges did exist, similar to electric charge, this would imply that magnetic fields, unlike electrostatic fields, end either at infinity or on a monopole that doesn't exist.",
+  "hypothetical_questions": [
+    "Why do magnetic monopoles not exist?",
+    "How does the non-existence of magnetic monopoles relate to the continuity of the magnetic field lines?",
+    "Does the absence of magnetic monopoles provide any insight into the quantisation of electric charges?"
+  ],
+  "keywords": [
+    "magnetic monopoles",
+    "electric charges",
+    "quantisation"
+  ],
+  "global_chunk_index": 119
+}

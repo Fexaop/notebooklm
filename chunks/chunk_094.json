@@ -1,0 +1,27 @@
+{
+  "content": "The field lines gets concentrated inside the material, and the field inside is enhanced.\n\nIn most cases, this enhancement is slight, being one part in 10^{5}.\n\nWhen placed in a non-uniform magnetic field, the bar will tend to move from weak field to strong.\n\nSome paramagnetic materials are aluminium, sodium, calcium, oxygen (at STP) and copper chloride. For a paramagnetic material both χ and μ_{r} depend not only on the material, but also (in a simple fashion) on the sample temperature. As the field is increased or the temperature is lowered, the magnetisation increases until it reaches the saturation value at which point all the dipoles are perfectly aligned with the field.\n# Magnetism and Matter",
+  "header_path": "5.5.1 Diamagnetism > 5.5.2 Paramagnetism",
+  "line_ranges": [
+    [
+      406,
+      406
+    ],
+    [
+      408,
+      409
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 93,
+  "total_chunks_in_file": 129,
+  "summary": "In paramagnetic materials, the magnetic field is concentrated inside, enhancing the field slightly. Movements occur in non-uniform magnetic fields, and some common paramagnetic materials include aluminium, sodium, calcium, oxygen (at STP), and copper chloride.",
+  "hypothetical_questions": [
+    "What happens to the magnetic field when placed in a non-uniform magnetic field?",
+    "What is the relationship between χ and μ_{r} for paramagnetic materials?",
+    "Which materials exhibit paramagnetism, and how do their χ and μ_{r} change with field and temperature?"
+  ],
+  "keywords": [
+    "paramagn<|fim_suffix|>"
+  ],
+  "global_chunk_index": 93
+}

@@ -1,30 +1,35 @@
 {
-  "content": "Example 5.2 Figure 5.4 shows a small magnetised needle P placed at a point O. The arrow shows the direction of its magnetic moment. The other arrows show different positions (and orientations of the magnetic moment) of another identical magnetised needle Q.\n\n(a) In which configuration the system is not in equilibrium?\n(b) In which configuration is the system in (i) stable, and (ii) unstable equilibrium?\n(c) Which configuration corresponds to the lowest potential energy among all the configurations shown?",
-  "header_path": "5.2.4 The electrostatic analog",
+  "content": "To make this analogy more firm we may calculate the axial field of a finite solenoid depicted in Fig. 5.3 (a). We can demonstrate that at large distances this axial field resembles that of a bar magnet.\n\nThe magnitude of the field at point  $\\mathrm{P}$  due to the solenoid is\n\n$$\nB = \\frac {\\mu_ {0}}{4 \\pi} \\frac {2 m}{r ^ {3}} \\tag {5.1}\n$$",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid",
   "line_ranges": [
     [
-      152,
-      152
+      68,
+      68
     ],
     [
-      154,
-      156
+      70,
+      70
+    ],
+    [
+      72,
+      74
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 18,
-  "total_chunks_in_file": 76,
-  "summary": "This chunk defines the conditions for equilibrium and potential energy of two magnetised needles P and Q in different configurations.",
+  "total_chunks_in_file": 129,
+  "summary": "Discussing the use of an axial field of a finite solenoid as an analogy for a bar magnet, emphasizing its resemblance at large distances.",
   "hypothetical_questions": [
-    "How would the addition of heat affect the equilibrium and potential energy of the magnets in this system?",
-    "What factors would contribute to increasing the potential energy of the magnets in this system?"
+    "How does the axial field of an infinite solenoid compare to that of a finite solenoid?",
+    "Under what conditions can the axial field of a finite solenoid be accurately likened to that of a bar magnet?",
+    "What is the significance of this analogy and how might it aid our understanding of magnetic fields?"
   ],
   "keywords": [
-    "equilibrium",
-    "magnetised needles",
-    "configuration",
-    "potential energy",
-    "heat"
+    "magnetic fields",
+    "bar magnet",
+    "solenoid",
+    "axial field",
+    "analogies"
   ],
   "global_chunk_index": 18
 }

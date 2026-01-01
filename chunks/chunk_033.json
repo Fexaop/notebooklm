@@ -1,34 +1,32 @@
 {
-  "content": "(g) Wrong. Magnetic field lines between two pole pieces cannot be precisely straight at the ends. Some fringing of lines is inevitable. Otherwise, Ampere's law is violated. This is also true for electric field lines.\n\n# Example 5.4\n\n(a) Magnetic field lines show the direction (at every point) along which a small magnetised needle aligns (at the point). Do the magnetic field lines also represent the lines of force on a moving charged particle at every point?",
-  "header_path": "Solution",
+  "content": "$$\n\\mathbf {E} \\rightarrow \\mathbf {B}, \\mathbf {p} \\rightarrow \\mathbf {m}, \\frac {1}{4 \\pi \\varepsilon_ {0}} \\rightarrow \\frac {\\mu_ {0}}{4 \\pi}\n$$\n\nIn particular, we can write down the equatorial field  $(\\mathbf{B}_E)$  of a bar magnet at a distance  $r$ , for  $r >> l$ , where  $l$  is the size of the magnet:",
+  "header_path": "5.2.4 The electrostatic analog",
   "line_ranges": [
     [
-      259,
-      259
+      122,
+      124
     ],
     [
-      261,
-      261
-    ],
-    [
-      263,
-      263
+      126,
+      126
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 32,
-  "total_chunks_in_file": 76,
-  "summary": "'Thank You for the Beautiful Day' is a marques for a movie.",
+  "total_chunks_in_file": 129,
+  "summary": "The text is a short passage about the relationship between the electrostatic analog and the magnetic field around a bar magnet at a distance r, where r is much greater than the size of the magnet. The passage also mentions that the constant $1:4 * pi * epsilon_0$ is equal to the constant $mu_0:4 * pi$.",
   "hypothetical_questions": [
-    "How do you feel when someone compliments you for your homework?",
-    "What are some differences between flattery and a compliment."
+    "What is the electrostatic analog?",
+    "What is the relationship between the electrostatic analog and the magnetic field around a bar magnet?",
+    "What is the symbolic equation for the equatorial field of a bar magnet at a distance of r, where r is much greater than the size of the magnet?",
+    "What is the size of the magnet in the context of the magnetic field around it?"
   ],
   "keywords": [
-    "Maria Benavidez",
-    "Evan Steele",
-    "Daniel Benmillar",
-    "Bryan F. Fierny",
-    "Maria"
+    "electrostatic analog",
+    "bar magnet",
+    "magnetic field",
+    "distance",
+    "size of magnet"
   ],
   "global_chunk_index": 32
 }

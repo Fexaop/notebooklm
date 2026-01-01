@@ -1,0 +1,35 @@
+{
+  "content": "The magnetisation $\\mathbf{M}$ of the material is its dipole moment per unit volume. The magnetic field $\\mathbf{B}$ in the material is,\n\n$$\n\\mathbf{B} = \\mu_0 (\\mathbf{H} + \\mathbf{M})\n$$\n\n6. For a linear material $\\mathbf{M} = \\chi \\mathbf{H}$. So that $\\mathbf{B} = \\mu \\mathbf{H}$ and $\\chi$ is called the magnetic susceptibility of the material. The three quantities, $\\chi$, the relative magnetic permeability $\\mu_r$, and the magnetic permeability $\\mu$ are related as follows:",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      461,
+      461
+    ],
+    [
+      463,
+      465
+    ],
+    [
+      467,
+      467
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 112,
+  "total_chunks_in_file": 129,
+  "summary": "The summary of the text is that the magnetic susceptibility of the material is $\\chi$, relative magnetic permeability $\\mu_r$, and magnetic permeability $\\mu$. These quantities can be used to calculate the magnetic field B in the material which is expressed as: $\\mathbf{B} = \\mu_0 (\\mathbf{H} + \\mathbf{M})$. The magnetic dipole moment per unit volume is called the magnetisation $\\mathbf{M}$.",
+  "hypothetical_questions": [
+    "What is the magnetic susceptibility of the material?",
+    "How are the different magnetic quantities related?",
+    "How can the magnetic field B be calculated in the material?"
+  ],
+  "keywords": [
+    "magnetization",
+    "dipole moment",
+    "permeability",
+    "susceptibility",
+    "magnetic field"
+  ],
+  "global_chunk_index": 112
+}

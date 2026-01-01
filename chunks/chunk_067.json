@@ -1,32 +1,28 @@
 {
-  "content": "8. Substances, which at room temperature, retain their ferromagnetic property for a long period of time are called permanent magnets.\n\n|  Physical quantity | Symbol | Nature | Dimensions | Units | Remarks  |\n| --- | --- | --- | --- | --- | --- |\n|  Permeability of free space | μ₀ | Scalar | [MLT⁻² A⁻²] | T m A⁻¹ | μ₀/4π = 10⁻⁷  |\n|  Magnetic field, Magnetic induction, Magnetic flux density | B | Vector | [MT⁻² A⁻¹] | T (tesla) | 10⁴ G (gauss) = 1 T  |\n|  Magnetic moment | m | Vector | [L⁻² A] | A m² |   |\n|  Magnetic flux | φ₁ | Scalar | [ML²T⁻² A⁻¹] | W (weber) | W = T m²  |\n|  Magnetisation | M | Vector | [L⁻¹ A] | A m⁻¹ | Magnetic moment\nVolume  |\n|  Magnetic intensity\nMagnetic field strength | H | Vector | [L⁻¹ A] | A m⁻¹ | B = μ₀ (H + M)  |\n|  Magnetic susceptibility | χ | Scalar | - | - | M = χH  |\n|  Relative magnetic permeability | μᵣ | Scalar | - | - | B = μ₀ μᵣ H  |\n|  Magnetic permeability | μ | Scalar | [MLT⁻² A⁻²] | T m A⁻¹\nN A⁻² | μ = μ₀ μᵣ\nB = μ H  |",
-  "header_path": "SUMMARY",
+  "content": "where $\\mathbf{B}_{\\mathrm{m}}$ is the field contributed by the material core. It turns out that this additional field $\\mathbf{B}_{\\mathrm{m}}$ is proportional to the magnetisation $\\mathbf{M}$ of the material and is expressed as\n\n$$\n\\mathbf {B} _ {\\mathrm {m}} = \\mu_ {0} \\mathbf {M} \\tag {5.10}\n$$",
+  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
   "line_ranges": [
     [
-      479,
-      479
+      307,
+      307
     ],
     [
-      482,
-      496
+      309,
+      311
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 66,
-  "total_chunks_in_file": 76,
-  "summary": "A list of physical quantities of electromagnetic phenomena along with their units of measurement and definitions related to magnetism.",
+  "total_chunks_in_file": 129,
+  "summary": "In this text, the relationship between the field contributed by the material core ($\\mathbf{B}_{\text{m}}$) and the magnetisation ($\\mathbf{M}$) of the material is discussed, stating that $\\mathbf{B}_{\\text{m}}$ is proportional to $\\mathbf{M}$ and represented by the equation: $\\mathbf{B}_{\\text{m}} = \\mu_{0} \\mathbf{M}$.",
   "hypothetical_questions": [
-    "What are the standard units used to measure magnetic flux density?",
-    "What is the dimensional formula for magnetic flux density?",
-    "What is the difference between magnetic field strength and magnetic field intensity?",
-    "Can you provide the physical explanation of magnetic susceptibility?"
+    "What role does magnetisation play in the magnetic field created by a material core?",
+    "How does the proportionality between magnetisation ($\\mathbf{M}$) and the field contributed by the material core ($\\mathbf{B}_{\\text{m}}$) affect the magnetic behavior of materials?",
+    "How does the proportionality constant $\\mu_0$ relate to the magnetization and field strength?"
   ],
   "keywords": [
-    "permanent magnet",
-    "ferromagnetism",
-    "room temperature",
-    "magnetic property",
-    "ferromagnetic"
+    "magnetiz<|fim_suffix|>o the Magnetization of the Material",
+    "keywords"
   ],
   "global_chunk_index": 66
 }

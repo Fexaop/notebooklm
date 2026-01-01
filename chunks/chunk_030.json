@@ -1,31 +1,27 @@
 {
-  "content": "(a) Wrong. Magnetic field lines can never emanate from a point, as shown in figure. Over any closed surface, the net flux of B must always be zero, i.e., pictorially as many field lines should seem to enter the surface as the number of lines leaving it. The field lines shown, in fact, represent electric field of a long positively charged wire. The correct magnetic field lines are circling the straight conductor, as described in Chapter 4.\n\n(b) Wrong.",
+  "content": "This is not so for a toroid or even for a straight infinite conductor.\n\n(d) Try to bring different ends of the bars closer.\n\nA repulsive force in some situation establishes that both are magnetised.\n\nIf it is always attractive, then one of them is not magnetised.\n\nIn a bar magnet the intensity of the magnetic field is the strongest at the two ends (poles) and weakest at the central region.",
   "header_path": "Solution",
   "line_ranges": [
     [
-      247,
-      247
-    ],
-    [
-      249,
-      249
+      115,
+      116
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 29,
-  "total_chunks_in_file": 76,
-  "summary": "This text discusses the concept of magnetic field lines, refuting incorrect depictions of magnetic field around a long straight wire where magnetic field lines are supposed to emanate from a point, ensuring consistency with the law that the net flux of the magnetic field over any closed surface must always be zero.",
+  "total_chunks_in_file": 129,
+  "summary": "Discuss the magnetic field intensity in rods and bars.",
   "hypothetical_questions": [
-    "Why can magnetic field lines never emanate from a point according to Ampere's law?",
-    "How does the net flux of magnetic field lines across any closed surface signify the magnetic field's behavior?",
-    "Differentiate between magnetic and electric fields and their properties."
+    "How does the magnetic field vary along the length of a rod in an infinite conductor?",
+    "Under what conditions is the magnetic field strongest in a bar magnet?",
+    "What are the characteristics of a magnetised bar magnet?"
   ],
   "keywords": [
-    "Magnetic field lines",
-    "Point singularity",
-    "Ampere's Law",
-    "Net flux",
-    "Closed surface"
+    "magnetic field",
+    "infinitely long conductor",
+    "toroid",
+    "bar magnet",
+    "magnetisation"
   ],
   "global_chunk_index": 29
 }

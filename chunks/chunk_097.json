@@ -1,0 +1,27 @@
+{
+  "content": "The individual atoms (or ions or molecules) in a ferromagnetic material possess a dipole moment as in a paramagnetic material.\n\nHowever, they interact with one another in such a way that they spontaneously align themselves in a common direction over a macroscopic volume called domain.\n\nThe explanation of this cooperative effect requires quantum mechanics and is beyond the scope of this textbook.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      415,
+      415
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 96,
+  "total_chunks_in_file": 129,
+  "summary": "Ferromagnetism refers to a phenomenon in materials where the individual atoms possess a dipole moment and align themselves in a common direction, forming domains, resulting from interactions that involve quantum mechanics but are outside the scope of this discussion.",
+  "hypothetical_questions": [
+    "What is the distinction between ferromagnetic materials and paramagnetic materials?",
+    "How do individual atoms in a ferromagnetic material align themselves?",
+    "What is a common direction over a macroscopic volume called in ferromagnetic materials?"
+  ],
+  "keywords": [
+    "dipole moment",
+    "paramagnetic",
+    "ferromagnetic",
+    "macroscopic volume",
+    "quantum mechanics"
+  ],
+  "global_chunk_index": 96
+}

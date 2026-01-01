@@ -1,32 +1,31 @@
 {
-  "content": "3. A consequence of the fact that magnetic monopoles do not exist is that the magnetic field lines are continuous and form closed loops. In contrast, the electrostatic lines of force begin on a positive charge and terminate on the negative charge (or fade out at infinity).\n\n4. A miniscule difference in the value of χ, the magnetic susceptibility, yields radically different behaviour: diamagnetic versus paramagnetic. For diamagnetic materials χ = -10⁻⁵ whereas χ = +10⁻⁵ for paramagnetic materials.",
-  "header_path": "POINTS TO PONDER",
+  "content": "$$\n\\mathbf {M} = \\chi \\mathbf {H} \\tag {5.13}\n$$\n\nwhere $\\chi$, a dimensionless quantity, is appropriately called the magnetic susceptibility. It is a measure of how a magnetic material responds to an external field. $\\chi$ is small and positive for materials, which are called paramagnetic. It is small and negative for materials, which are termed diamagnetic. In the latter case $\\mathbf{M}$ and $\\mathbf{H}$ are opposite in direction. From Eqs. (5.12) and (5.13) we obtain,",
+  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
   "line_ranges": [
     [
-      504,
-      504
+      329,
+      331
     ],
     [
-      506,
-      506
+      333,
+      333
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 70,
-  "total_chunks_in_file": 76,
-  "summary": "The magnetic field lines are continuous and form closed loops in the absence of magnetic monopoles, forcing the magnetic field to form closed loops. Magnetic susceptibility (χ) differentiates diamagnetic and paramagnetic materials in terms of the difference in their magnetic behavior. ",
+  "total_chunks_in_file": 129,
+  "summary": "Magnetisation M and magnetic intensity H are related through the magnetic susceptibility χ, which is a measure of how a magnetic material responds to an external field. Paramagnetic materials have small and positive susceptibility, while diamagnetic materials have small and negative susceptibility.",
   "hypothetical_questions": [
-    "Can magnetic monopoles be detected?",
-    "What forces determine the phenomenon of diamagnetism?",
-    "What are the conditions for ideal paramagnetism?",
-    "How do the values of χ differentiate diamagnetic from paramagnetic materials?"
+    "What is the magnetic susceptibility?",
+    "How does magnetic susceptibility differ between paramagnetic and diamagnetic materials?",
+    "How are magnetisation and magnetic intensity related mathematically?"
   ],
   "keywords": [
-    "continuous and closed magnetic field lines",
-    "magnetic field components",
-    "magnetic field loops",
-    "electrostatic lines of force",
-    "charge interactions"
+    "Magnetisation",
+    "Magnetic intensity",
+    "Magnetic susceptibility",
+    "Paramagnetic",
+    "Diamagnetic"
   ],
   "global_chunk_index": 70
 }

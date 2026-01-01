@@ -1,0 +1,27 @@
+{
+  "content": "This is a metal at very low temperatures.\n\nIn this case $\\chi = -1$, $\\mu_p = 0$, $\\mu = 0$.\n\nThe external magnetic field is totally expelled.\n\nInterestingly, this material is also a perfect conductor.\n\nHowever, there exists no classical theory which ties these two properties together.\n\nA quantum-mechanical theory by Bardeen, Cooper, and Schrieffer (BCS theory) explains these effects.\n\nThe BCS theory was proposed in 1957 and was eventually recognised by a Nobel Prize in physics in 1970.",
+  "header_path": "POINTS TO PONDER",
+  "line_ranges": [
+    [
+      509,
+      509
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 122,
+  "total_chunks_in_file": 129,
+  "summary": "This is a metal at very low temperatures where the magnetic field is totally expelled due to $\textchi = -1$, $\textmu_p = 0$, and $\textmu = 0$. Interestingly, this material is also a perfect conductor, yet there exists no classical theory to explain these properties.",
+  "hypothetical_questions": [
+    "What is the significance of the magnetic field being totally expelled from the metal?",
+    "How does BCS theory explain the effects of these properties in a quantum-mechanical manner?",
+    "In what year was the BCS theory proposed and what was its recognition?"
+  ],
+  "keywords": [
+    "metal",
+    "very low temperatures",
+    "magnetic field expulsion",
+    "BCS theory",
+    "Nobel Prize"
+  ],
+  "global_chunk_index": 122
+}

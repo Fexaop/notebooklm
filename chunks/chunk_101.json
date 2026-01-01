@@ -1,0 +1,26 @@
+{
+  "content": "This existence of domains and their motion in  $\\mathbf{B}_0$  are not speculations.\n\nOne may observe this under a microscope after sprinkling a liquid suspension of powdered ferromagnetic substance of samples.\n\nThis motion of suspension can be observed.\n\nFig.\n\n5.8(b) shows the situation when the domains have aligned and amalgamated to form a single 'giant' domain.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      415,
+      415
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 100,
+  "total_chunks_in_file": 129,
+  "summary": "Small clusters, called domains, in ferromagnetic sets that have aligned their magnetic moments with an external field, are vulnerable and follow the field lines when it is turned off.",
+  "hypothetical_questions": [
+    "Attracted by what force in the external field will the domains align when turned off?",
+    "What is the most prominent phenomenon to observe during this experiment?",
+    "What temperature increases the domain's magnetic susceptibility?"
+  ],
+  "keywords": [
+    "Magnetic susceptibility",
+    "External field",
+    "Ferromagnetic substance",
+    "External magnets"
+  ],
+  "global_chunk_index": 100
+}

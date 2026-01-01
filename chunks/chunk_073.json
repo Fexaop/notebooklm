@@ -1,28 +1,31 @@
 {
-  "content": "This is a metal at very low temperatures.\n\nIn this case $\\chi = -1$, $\\mu_p = 0$, $\\mu = 0$.\n\nThe external magnetic field is totally expelled.\n\nInterestingly, this material is also a perfect conductor.\n\nHowever, there exists no classical theory which ties these two properties together.\n\nA quantum-mechanical theory by Bardeen, Cooper, and Schrieffer (BCS theory) explains these effects.\n\nThe BCS theory was proposed in 1957 and was eventually recognised by a Nobel Prize in physics in 1970.",
-  "header_path": "POINTS TO PONDER",
+  "content": "$$\n\\begin{array}{l} \\mathbf {B} = \\mu_ {0} (1 + \\chi) \\mathbf {H} \\tag {5.14} \\\\ = \\mu_ {0} \\mu_ {\\mathrm {r}} \\mathbf {H} \\\\ = \\mu \\mathbf {H} \\tag {5.15} \\\\ \\end{array}\n$$\n\nwhere $\\mu_{\\mathrm{r}} = 1 + \\chi$, is a dimensionless quantity called the relative magnetic permeability of the substance. It is the analog of the dielectric constant in electrostatics. The magnetic permeability of the substance is $\\mu$ and it has the same dimensions and units as $\\mu_0$:",
+  "header_path": "Example 5.4 > 5.4 MAGNETISATION AND MAGNETIC INTENSITY",
   "line_ranges": [
     [
-      509,
-      509
+      335,
+      337
+    ],
+    [
+      339,
+      339
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 72,
-  "total_chunks_in_file": 76,
-  "summary": "This paragraph discusses a metal at very low temperatures where the external magnetic field is expelled and the material is both a perfect conductor.",
+  "total_chunks_in_file": 129,
+  "summary": "$$\\begin{array}{l} \\mathbf {B} = \\mu_ {0} (1 + \\chi) \\mathbf {H} \\\\ = \\mu_ {0} \\mu_ {\\mathrm {r}} \\mathbf {H} \\\\ = \\mu \\mathbf {H} \\\\ \\end{array}$$ where $\\mu_{\\mathrm{r}} = 1 + \\chi$, is a dimensionless quantity called the relative magnetic permeability of the substance. It is the analog of the dielectric constant in electrostatics.",
   "hypothetical_questions": [
-    "Why is there an external magnetic field not expelled?",
-    "Do BCS theory and Fermi liquid theory solve the same problem?",
-    "BCS theory was invented in 1957, when was the Fermi liquid model invented?",
-    "Is the explanation for the expulsion of a magnetic field contradicting the Academician thought that conductivity is due to electrons?"
+    "What is the relationship between the magnetic field and the magnetic permeability of a material?",
+    "What is the significance of relative magnetic permeability in relation to the magnetic field?",
+    "How does the presence of free charges in a material affect magnetic permeability?"
   ],
   "keywords": [
-    "metal",
-    "low temperatures",
     "magnetic field",
-    "perfect conductor",
-    "BCS theory"
+    "magnetic permeability",
+    "relative magnetic permeability",
+    "magnetic susceptibility",
+    "Biot-Savart Law"
   ],
   "global_chunk_index": 72
 }

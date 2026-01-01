@@ -1,42 +1,43 @@
 {
-  "content": "where  $\\mathbf{m}_{\\mathrm{P}}$  is the magnetic moment of the dipole P.\n\nEquilibrium is stable when  $\\mathbf{m}_{\\mathrm{Q}}$  is parallel to  $\\mathbf{B}_{\\mathrm{P}}$ , and unstable when it is anti-parallel to  $\\mathbf{B}_{\\mathrm{P}}$ .\n\n# EXAMPLE 5.2\n\nFor instance for the configuration  $\\mathbf{Q}_3$  for which  $\\mathbf{Q}$  is along the perpendicular bisector of the dipole  $\\mathbf{P}$ , the magnetic moment of  $\\mathbf{Q}$  is parallel to the magnetic field at the position 3. Hence  $\\mathbf{Q}_3$  is stable. Thus,\n\n(a)  $\\mathrm{PQ}_1$  and  $\\mathrm{PQ}_2$\n(b) (i)  $\\mathrm{PQ}_3$ ,  $\\mathrm{PQ}_6$  (stable); (ii)  $\\mathrm{PQ}_5$ ,  $\\mathrm{PQ}_4$  (unstable)\n(c)  $\\mathrm{PQ}_6$",
-  "header_path": "Solution",
+  "content": "Let's place a small compass needle of known magnetic moment  $\\mathbf{m}$  allowing it to oscillate in the magnetic field. This arrangement is shown in Fig. 5.3(b).\n\nThe torque on the needle is [see Eq. (4.23)],\n\n$$\n\\tau = \\mathbf {m} \\times \\mathbf {B} \\tag {5.2}\n$$\n\nIn magnitude  $\\tau = mB\\sin \\theta$\n\nHere  $\\pmb{\\tau}$  is restoring torque and  $\\theta$  is the angle between  $\\mathbf{m}$  and  $\\mathbf{B}$ .",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid > 5.2.3 The dipole in a uniform magnetic field",
   "line_ranges": [
     [
-      173,
-      173
+      80,
+      80
     ],
     [
-      175,
-      175
+      82,
+      82
     ],
     [
-      178,
-      178
+      84,
+      86
     ],
     [
-      180,
-      180
+      88,
+      88
     ],
     [
-      182,
-      184
+      90,
+      90
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 21,
-  "total_chunks_in_file": 76,
-  "summary": "Explanation of the magnetic stability and equilibrium of configurations involving dipole moment and magnetic field at different positions.",
+  "total_chunks_in_file": 129,
+  "summary": "Dipole in a uniform magnetic field causes torque",
   "hypothetical_questions": [
-    "Could you describe the magnetic stability and equilibrium at different positions?",
-    "What are the stable and unstable configurations involving a dipole moment and magnetic field?"
+    "What happens to a magnet in a magnetic field?",
+    "How does the magnetic field act on a compass needle?",
+    "Can we use a compass needle to measure the strength of a magnetic field?"
   ],
   "keywords": [
-    "dipole moment",
+    "dipole",
+    "magentic moment",
+    "torque",
     "magnetic field",
-    "position",
-    "stability",
-    "equilibrium"
+    "restoring torque"
   ],
   "global_chunk_index": 21
 }

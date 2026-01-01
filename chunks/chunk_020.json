@@ -1,31 +1,32 @@
 {
-  "content": "(a) In which configuration the system is not in equilibrium?\n(b) In which configuration is the system in (i) stable, and (ii) unstable equilibrium?\n(c) Which configuration corresponds to the lowest potential energy among all the configurations shown?\n\n![img-6.jpeg](images/image_5_6.jpeg)\nFIGURE 5.4",
-  "header_path": "5.2.4 The electrostatic analog",
+  "content": "$$\nB = \\frac {\\mu_ {0}}{4 \\pi} \\frac {2 m}{r ^ {3}} \\tag {5.1}\n$$\n\nThis is also the far axial magnetic field of a bar magnet which one may obtain experimentally. Thus, a bar magnet and a solenoid produce similar magnetic fields. The magnetic moment of a bar magnet is thus equal to the magnetic moment of an equivalent solenoid that produces the same magnetic field.",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid",
   "line_ranges": [
     [
-      154,
-      156
+      72,
+      74
     ],
     [
-      158,
-      159
+      76,
+      76
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 19,
-  "total_chunks_in_file": 76,
-  "summary": "There are four configuration images and questions posed 'In what configuration is the system in equilibrium? In which configuration is the system in stable equilibrium? In which configurations the system is unstable? and Which configuration corresponds to the lowest potential energy among all the configuration is shown?''",
+  "total_chunks_in_file": 129,
+  "summary": "This problem involves understanding of the magnetic field produced by a bar magnet and a solenoid, as well as their effective magnetic moments, and uses the provided magnetic field equation to find the bar magnet's magnetic moment.",
   "hypothetical_questions": [
-    "Which configuration is not in equilibrium?",
-    "In which configuration is the system in stable equilibrium?",
-    "In which configurations is the system in unstable equilibrium?",
-    "Which configuration has the lowest potential energy?"
+    "What is the relationship between a bar magnet's and a solenoid's magnetic fields?",
+    "How can the magnetic field of a bar magnet be analyzed to determine it's magnetic moment?",
+    "What are the applications of measuring the magnetic moment of a bar magnet?",
+    "Can the effective magnetic moment of a bar magnet be determined using the magnetic field formula?"
   ],
   "keywords": [
-    "equilibrium",
-    "stable and unstable equilibrium",
-    "potential energy",
-    "configuration"
+    "magnetic field",
+    "bar magnet",
+    "solenoid",
+    "magnetic moment",
+    "experimental analysis"
   ],
   "global_chunk_index": 19
 }

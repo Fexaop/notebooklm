@@ -1,40 +1,32 @@
 {
-  "content": "(b) What is the torque on the magnet in cases (i) and (ii)?\n\n5.6 A closely wound solenoid of 2000 turns and area of cross-section $1.6 \\times 10^{-4} \\, \\mathrm{m}^2$, carrying a current of $4.0 \\, \\mathrm{A}$, is suspended through its centre allowing it to turn in a horizontal plane.\n\n(a) What is the magnetic moment associated with the solenoid?\n(b) What is the force and torque on the solenoid if a uniform horizontal magnetic field of $7.5 \\times 10^{-2} \\, \\mathrm{T}$ is set up at an angle of $30^{\\circ}$ with the axis of the solenoid?\n\n5.7 A short bar magnet has a magnetic moment of $0.48 \\, \\mathrm{J} \\, \\mathrm{T}^{-1}$. Give the direction and magnitude of the magnetic field produced by the magnet at a distance of $10 \\, \\mathrm{cm}$ from the centre of the magnet on (a) the axis, (b) the equatorial lines (normal bisector) of the magnet.",
-  "header_path": "EXERCISES",
+  "content": "(a) The field  $H$  is dependent of the material of the core, and is  $H = nI = 1000 \\times 2.0 = 2 \\times 10^{3} \\mathrm{~A/m}$ .\n(b) The magnetic field  $B$  is given by\n\n$$\n\\begin{array}{l} B = \\mu_ {r} \\mu_ {0} \\mathrm {H} \\\\ = 4 0 0 \\times 4 \\pi \\times 1 0 ^ {- 7} (\\mathrm {N} / \\mathrm {A} ^ {2}) \\times 2 \\times 1 0 ^ {3} (\\mathrm {A} / \\mathrm {m}) \\\\ = 1. 0 \\mathrm {T} \\\\ \\end{array}\n$$",
+  "header_path": "Solution",
   "line_ranges": [
     [
-      529,
-      529
+      350,
+      351
     ],
     [
-      531,
-      531
-    ],
-    [
-      534,
-      535
-    ],
-    [
-      537,
-      537
+      353,
+      355
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 75,
-  "total_chunks_in_file": 76,
-  "summary": "A closely wound solenoid of 2000 turns and area of cross-section $1.6 \times 10^{-4} \text{ m}^2$, carrying a current of $4.0 \text{ A}$, is suspended through its centre allowing it to turn in a horizontal plane.\n\n(a) What is the magnetic moment associated with the solenoid?\n(b) What is the force and torque on the solenoid if a uniform horizontal magnetic field of $7.5 \times 10^{-2} \text{ T}$ is set up at an angle of $30^\text{o}$ with the axis of the solenoid?",
+  "total_chunks_in_file": 129,
+  "summary": "The text explains the calculation of magnetic field and magnetic permeability, highlighting the dependence of magnetic permeability on different materials and the resulting magnetic field strength and permeability in relation to the given values of relativitity parameter, magnetic constant, and magnetic field strength (current, N/Am).",
   "hypothetical_questions": [
-    "determine the torque on the magnet in cases (i) and (ii)",
-    "calculate the force and torque on the solenoid due to the magnetic field",
-    "find the magnetic field produced by the magnet at a distance of 10 cm from its centre",
-    "compute the magnetic moment of the solenoid"
+    "What is the dependence of magnetic permeability on different materials?",
+    "How does the magnetic field strength change with the magnetic constant?",
+    "What are the units of magnetic constant?",
+    "What are the units of magnetic field strength (current)?"
   ],
   "keywords": [
-    "magnetic moment",
-    "torque",
-    "magnetic field",
-    "uniform magnetic field",
-    "angle between magnetic field and solenoid axis"
+    "magnetic permeability",
+    "magnetic field strength",
+    "material",
+    "magnetic constant",
+    "current"
   ],
   "global_chunk_index": 75
 }

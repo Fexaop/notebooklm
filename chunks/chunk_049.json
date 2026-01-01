@@ -1,28 +1,36 @@
 {
-  "content": "When magnetic field is applied, those electrons having orbital magnetic moment in the same direction slow down and those in the opposite direction speed up.\n\nThis happens due to induced current in accordance with Lenz's law which you will study in Chapter 6.\n\nThus, the substance develops a net magnetic moment in direction opposite to that of the applied field and hence repulsion.",
-  "header_path": "5.5.1 Diamagnetism",
+  "content": "The difference between the Gauss's law of magnetism and that for electrostatics is a reflection of the fact that isolated magnetic poles (also called monopoles) are not known to exist. There are no sources or sinks of B; the simplest magnetic element is a dipole or a current loop. All magnetic phenomena can be explained in terms of an arrangement of dipoles and/or current loops.\n\nThus, Gauss's law for magnetism is:\n\nThe net magnetic flux through any closed surface is zero.",
+  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
   "line_ranges": [
     [
-      396,
-      396
+      214,
+      214
+    ],
+    [
+      216,
+      216
+    ],
+    [
+      218,
+      218
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 48,
-  "total_chunks_in_file": 76,
-  "summary": "When a magnetic field is applied to a diamagnetic substance, the electrons with orbital magnetic moments in the same direction slow down while those with the opposite direction speed up. This induces a current according to Lenz's law, causing the substance to develop a net magnetic moment in the opposite direction of the applied field, resulting in repulsion.",
+  "total_chunks_in_file": 129,
+  "summary": "Gauss's law of magnetism states that the net magnetic flux through any closed surface is zero and reflects the absence of isolated magnetic poles, as magnetic phenomena are explained in terms of magnetic dipoles and/or current loops.",
   "hypothetical_questions": [
-    "How does diamagnetism occur?",
-    "What is the basis for the repulsion between the applied magnetic field and diamagnetic substance?",
-    "Can you explain Lenz's law in relation to diamagnetism?",
-    "What role does the induced current play in diamagnetism?"
+    "How is Gauss's law for magnetism different from Gauss's law for electrostatics?",
+    "Why are isolated magnetic poles not known to exist?",
+    "What are the simplest magnetic elements?",
+    "How can magnetic phenomena be explained?"
   ],
   "keywords": [
-    "diamagnetism",
-    "magnetic field",
-    "electrons",
-    "orbital magnetic moments",
-    "Lenz's law"
+    "magnetism",
+    "isolated magnetic poles",
+    "dipoles",
+    "current loops",
+    "Gauss's law (magnetism)"
   ],
   "global_chunk_index": 48
 }

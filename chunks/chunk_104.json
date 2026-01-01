@@ -1,0 +1,27 @@
+{
+  "content": "Such materials form permanent magnets to be used among other things as a compass needle.\n\nOn the other hand, there is a class of ferromagnetic materials in which the magnetisation disappears on removal of the external field.\n\nSoft iron is one such material.\n\nAppropriately enough, such materials are called soft ferromagnetic materials.\n\nThere are a number of elements, which are ferromagnetic: iron, cobalt, nickel, gadolinium, etc.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      417,
+      417
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 103,
+  "total_chunks_in_file": 129,
+  "summary": "Ferromagnetic materials, such as iron, cobalt, and nickel, form permanent magnets and are used in compass needles, but some materials only exhibit magnetic properties in the presence of an external magnetic field.",
+  "hypothetical_questions": [
+    "What are ferromagnetic materials?",
+    "What is the composition of such materials?",
+    "What are the typical uses of ferromagnetic materials?"
+  ],
+  "keywords": [
+    "ferromagnetic materials",
+    "permanent magnets",
+    "compass needles",
+    "external magnetic field",
+    "soft ferromagnetic materials"
+  ],
+  "global_chunk_index": 103
+}

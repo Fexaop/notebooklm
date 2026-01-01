@@ -1,26 +1,29 @@
 {
-  "content": "(For the special case of a straight wire, this force is zero.)\n(d) Yes.\n\nThe average of the charge in the system may be zero.\n\nYet, the mean of the magnetic moments due to various current loops may not be zero.\n\nWe will come across such examples in connection with paramagnetic material where atoms have net dipole moment through their net charge is zero.",
-  "header_path": "Example 5.4 > Solution",
+  "content": "(a) In which configuration the system is not in equilibrium?\n(b) In which configuration is the system in (i) stable, and (ii) unstable equilibrium?\n(c) Which configuration corresponds to the lowest potential energy among all the configurations shown?\n\n![img-6.jpeg](images/image_5_6.jpeg)\nFIGURE 5.4",
+  "header_path": "5.2.4 The electrostatic analog",
   "line_ranges": [
     [
-      279,
-      280
+      154,
+      156
+    ],
+    [
+      158,
+      159
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 37,
-  "total_chunks_in_file": 76,
-  "summary": "The average of the charge in the system may be zero. Yet, the mean of the magnetic moments due to various current loops may not be zero. We will come across such examples in connection with paramagnetic material where atoms have net dipole moment through their net charge is zero.",
+  "total_chunks_in_file": 129,
+  "summary": "This text introduces a hypothetical question about the magnetic assosciated with a particle accelerator and answers the question in relation to the electrostatic analogy for particle accelerator.",
   "hypothetical_questions": [
-    "<What are the possible reasons for the average of the charge in the system being non-zero?>",
-    "<Why is the mean of the magnetic moments due to various current loops not zero>"
+    "Building an intuituve picture about the magnetic field vectors associated with a particle accelerator."
   ],
   "keywords": [
-    "Current",
-    "Loops",
-    "Magnetic",
-    "Charge",
-    "Paramagnetic Material"
+    "Particle Accelerator",
+    "Magnetic Field",
+    "Trajectory",
+    "Orbital",
+    "Electrostatic Analogy"
   ],
   "global_chunk_index": 37
 }

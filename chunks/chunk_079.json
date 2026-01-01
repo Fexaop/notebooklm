@@ -1,0 +1,32 @@
+{
+  "content": "(d) The magnetising current  $I_{M}$  is the additional current that needs to be passed through the windings of the solenoid in the absence of the core which would give a  $B$  value as in the presence of the core. Thus  $B = \\mu_r n (I + I_M)$ . Using  $I = 2\\mathrm{A}$ ,  $B = 1\\mathrm{T}$ , we get  $I_{M} = 794\\mathrm{A}$ .\n\n# 5.5 MAGNETIC PROPERTIES OF MATERIALS",
+  "header_path": "Solution",
+  "line_ranges": [
+    [
+      363,
+      363
+    ],
+    [
+      365,
+      365
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 78,
+  "total_chunks_in_file": 129,
+  "summary": "In this solution, the magnetic properties of materials are discussed, and the magnetizing current (IM) is determined based on the given information.",
+  "hypothetical_questions": [
+    "Can you explain the significance of the magnetizing current in magnetic materials?",
+    "How does the magnetizing current differ from the normal current in a solenoid?",
+    "What is the relationship between the magnetizing current and the permeability of a magnetic material?",
+    "Can we calculate the magnetizing current in a solenoid attached to a ferromagnetic core using the given information?"
+  ],
+  "keywords": [
+    "magnetizing current",
+    "magnetic properties of materials",
+    "magnetic core",
+    "ferromagnetic material",
+    "calculation"
+  ],
+  "global_chunk_index": 78
+}

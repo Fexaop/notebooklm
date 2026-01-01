@@ -1,0 +1,28 @@
+{
+  "content": "The explanation of this cooperative effect requires quantum mechanics and is beyond the scope of this textbook.\n\nEach domain has a net magnetisation.\n\nTypical domain size is  $1\\mathrm{mm}$  and the domain contains about  $10^{11}$  atoms.\n\nIn the first instant, the magnetisation varies randomly from domain to domain and there is no bulk magnetisation.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      415,
+      415
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 97,
+  "total_chunks_in_file": 129,
+  "summary": "The explanation of ferromagnetism's cooperative effect requires quantum mechanics and the identification of domain sizes, domain-specific magnetization variability, and the number of atoms in a domain.",
+  "hypothetical_questions": [
+    "1. What are the key elements in quantum mechanics that explain ferromagnetism?",
+    "2. What is the typical domain size in ferromagnetism?",
+    "3. How do variations in magnetization within a domain contribute to ferromagnetism?",
+    "4. How many atoms are present in a typical ferromagnetic domain?"
+  ],
+  "keywords": [
+    "ferromagnetism",
+    "quantum mechanics",
+    "cooperative effect",
+    "domain size",
+    "magnetization"
+  ],
+  "global_chunk_index": 97
+}

@@ -1,31 +1,29 @@
 {
-  "content": "5.8(b) shows the situation when the domains have aligned and amalgamated to form a single 'giant' domain.\n\nThus, in a ferromagnetic material the field lines are highly concentrated.\n\nIn non-uniform magnetic field, the sample tends to move towards the region of high field.\n\nWe may wonder as to what happens when the external field is removed.",
-  "header_path": "5.5.3 Ferromagnetism",
+  "content": "(a) Magnetic field lines show the direction (at every point) along which a small magnetised needle aligns (at the point). Do the magnetic field lines also represent the lines of force on a moving charged particle at every point?\n\n(b) If magnetic monopoles existed, how would the Gauss's law of magnetism be modified?",
+  "header_path": "Example 5.4",
   "line_ranges": [
     [
-      415,
-      415
+      263,
+      263
     ],
     [
-      417,
-      417
+      265,
+      265
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 56,
-  "total_chunks_in_file": 76,
-  "summary": "In a ferromagnetic material, the domains with aligned and amalgamated magnetic poles form a single 'giant' domain when magnetic field lines are highly concentrated, resulting in movement towards the region of high field. Removal of external field can cause the sample to move towards the region of high field.",
+  "total_chunks_in_file": 129,
+  "summary": "This text discusses magnetic field lines, how they represent the direction along which a small magnetised needle aligns, and if they also represent the lines of force on a moving charged particle. It also questions the existence of magnetic monopoles and how the Gauss's law of magnetism would be modified if they existed.",
   "hypothetical_questions": [
-    "What happens to magnetic domains when an external field is removed?",
-    "how is ferromagnetism related to magnetic domains?",
-    "How does a material's response to an external magnetic field affect its movement?"
+    "1. Do Magnetic Field Lines Represent the Lines of Force on a Moving Charged Particle?"
   ],
   "keywords": [
-    "ferromagnetism",
-    "magnetic domains",
-    "giant domain",
-    "external field removal",
-    "high field"
+    "magnetic field lines",
+    "magnetised needle",
+    "moving charged particle",
+    "Gauss's law of magnetism",
+    "magnetic monopoles"
   ],
   "global_chunk_index": 56
 }

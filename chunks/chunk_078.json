@@ -1,0 +1,29 @@
+{
+  "content": "$$\n\\begin{array}{l} M = (B - \\mu_ {0} H) / \\mu_ {0} \\\\ = \\left(\\mu_ {r} \\mu_ {0} H - \\mu_ {0} H\\right) / \\mu_ {0} = \\left(\\mu_ {r} - 1\\right) H = 3 9 9 \\times H \\\\ \\cong 8 \\times 1 0 ^ {5} \\mathrm {A / m} \\\\ \\end{array}\n$$\n\n(d) The magnetising current  $I_{M}$  is the additional current that needs to be passed through the windings of the solenoid in the absence of the core which would give a  $B$  value as in the presence of the core. Thus  $B = \\mu_r n (I + I_M)$ . Using  $I = 2\\mathrm{A}$ ,  $B = 1\\mathrm{T}$ , we get  $I_{M} = 794\\mathrm{A}$ .",
+  "header_path": "Solution",
+  "line_ranges": [
+    [
+      359,
+      361
+    ],
+    [
+      363,
+      363
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 77,
+  "total_chunks_in_file": 129,
+  "summary": "A concise 1-sentence summary of the text. A concise 1-sentence summary of the text.",
+  "hypothetical_questions": [
+    "A list of 2-4 questions this text answers.",
+    "questions this text answers. A list of 2-4 questions this text answers.",
+    "2-4 questions this text answers.",
+    "this text answers."
+  ],
+  "keywords": [
+    "this text answers.",
+    "figur<|fim_suffix|>   "
+  ],
+  "global_chunk_index": 77
+}

@@ -1,43 +1,34 @@
 {
-  "content": "Here  $\\pmb{\\tau}$  is restoring torque and  $\\theta$  is the angle between  $\\mathbf{m}$  and  $\\mathbf{B}$ .\n\nAn expression for magnetic potential energy can be obtained on lines similar to electrostatic potential energy.\n\nThe magnetic potential energy  $U_{m}$  is given by\n\n$$\n\\begin{array}{l} U _ {m} = \\int \\tau (\\theta) d \\theta \\\\ = \\int m B \\sin \\theta d \\theta = - m B \\cos \\theta \\\\ = - \\mathbf {m}. \\mathbf {B} \\tag {5.3} \\\\ \\end{array}\n$$\n\nWe have emphasised in Chapter 2 that the zero of potential energy can be fixed at one's convenience. Taking the constant of integration to be zero means fixing the zero of potential energy at  $\\theta = 90^{\\circ}$ , i.e., when the needle is perpendicular to the field. Equation (5.3) shows that potential energy is minimum  $(= -m\\mathrm{B})$  at  $\\theta = 0^{\\circ}$  (most stable position) and maximum  $(= +m\\mathrm{B})$  at  $\\theta = 180^{\\circ}$  (most unstable position).",
-  "header_path": "5.2.2 Bar magnet as an equivalent solenoid > 5.2.3 The dipole in a uniform magnetic field",
+  "content": "The pattern of iron fillings permits us to plot the magnetic field lines*. This is shown both for the bar-magnet and the current-carrying solenoid in Fig. 5.2. For\n\ncomparison refer to the Chapter 1, Figure 1.14(d). Electric field lines of an electric dipole are also displayed in Fig. 5.2(c). The magnetic field lines are a visual and intuitive realisation of the magnetic field. Their properties are:\n\n(i) The magnetic field lines of a magnet (or a solenoid) form continuous closed loops. This is unlike the electric dipole where these field lines begin from a positive charge and end on the negative charge or escape to infinity.",
+  "header_path": "5.2.1 The magnetic field lines",
   "line_ranges": [
     [
-      90,
-      90
+      30,
+      30
     ],
     [
-      92,
-      92
+      32,
+      32
     ],
     [
-      94,
-      94
-    ],
-    [
-      96,
-      98
-    ],
-    [
-      100,
-      100
+      34,
+      34
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 8,
-  "total_chunks_in_file": 76,
-  "summary": "This chunk explains that the magnetic potential energy U_{m} can be obtained through an expression based on the 'restoring torque' and angle 'theta' between vectors 'm' and 'B'.\n  The potential energy is represented by the formula U_{m} = -mB*cos(theta), where U_{m} is the magnetic potential energy, 'm' is the magnetic moment, 'B' is magnetic field, and 'theta' is the angle between 'm' and 'B'.",
+  "total_chunks_in_file": 129,
+  "summary": "Magnetic field lines form continuous closed loops, unlike electric field lines which begin and end on charges or escape to infinity.",
   "hypothetical_questions": [
-    "What is the formula to calculate the magnetic potential energy?",
-    "Is there a fixed potential energy zero point?",
-    "What are the stable and unstable positions of a needle based on the potential energy?"
+    "What is the pattern of iron fillings used to plot magnetic field lines?",
+    "What is the difference in the pattern of magnetic and electric field lines?"
   ],
   "keywords": [
-    "magnetic potential energy",
-    "magnetic moment",
-    "magnetic field",
-    "restoring torque",
-    "angle between vectors 'm' and 'B'"
+    "magnetic field lines",
+    "closed loops",
+    "electric field lines",
+    "bar-magnet",
+    "current-carrying solenoid"
   ],
   "global_chunk_index": 8
 }

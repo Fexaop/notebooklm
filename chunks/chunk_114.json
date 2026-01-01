@@ -1,0 +1,29 @@
+{
+  "content": "6. For a linear material $\\mathbf{M} = \\chi \\mathbf{H}$. So that $\\mathbf{B} = \\mu \\mathbf{H}$ and $\\chi$ is called the magnetic susceptibility of the material. The three quantities, $\\chi$, the relative magnetic permeability $\\mu_r$, and the magnetic permeability $\\mu$ are related as follows:\n\n$$\n\\mu = \\mu_0 \\mu_r\n$$\n\n$$\n\\mu_r = 1 + \\chi\n$$",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      467,
+      467
+    ],
+    [
+      469,
+      471
+    ],
+    [
+      473,
+      475
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 113,
+  "total_chunks_in_file": 129,
+  "summary": "In a linear material, the magnetization $\\textbf{M}$ is directly proportional to the externally applied magnetic field $\\textbf{H}$, with the proportionality constant being the magnetic susceptibility $\\chi$. This leads to the relationship $\\textbf{B} = \\mu \\textbf{H}$, where $\\textbf{B}$ represents the magnetic field in the material, and $\\mu$ is the magnetic permeability. The magnetic susceptibility $\\chi$ can be expressed as $\\chi = \\mu_r - 1$, where $\\mu_r$ is the relative magnetic permeability.",
+  "hypothetical_questions": [],
+  "keywords": [
+    "Magnetic Permeability",
+    "Magnetic Susceptibility",
+    "Relative Magnetic Permeability"
+  ],
+  "global_chunk_index": 113
+}

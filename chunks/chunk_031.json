@@ -1,39 +1,28 @@
 {
-  "content": "(b) Wrong.\n\nMagnetic field lines (like electric field lines) can never cross each other, because otherwise the direction of field at the point of intersection is ambiguous.\n\nThere is further error in the figure.\n\nMagnetostatic field lines can never form closed loops around empty space.\n\nA closed loop of static magnetic field line must enclose a region across which a current is passing.\n\nBy contrast, electrostatic field lines can never form closed loops, neither in empty space, nor when the loop encloses charges.\n\n(c) Right. Magnetic lines are completely confined within a toroid. Nothing wrong here in field lines forming closed loops, since each loop encloses a region across which a current passes. Note, for clarity of figure, only a few field lines within the toroid have been shown. Actually, the entire region enclosed by the windings contains magnetic field.\n\n(d) Wrong. Field lines due to a solenoid at its ends and outside cannot be so completely straight and confined; such a thing violates Ampere's law. The lines should curve out at both ends, and meet eventually to form closed loops.\n\n(e) Right. These are field lines outside and inside a bar magnet. Note carefully the direction of field lines inside. Not all field lines emanate out of a north pole (or converge into a south pole). Around both the N-pole, and the S-pole, the net flux of the field is zero.\n\n(f) Wrong. These field lines cannot possibly represent a magnetic field. Look at the upper region. All the field lines seem to emanate out of the shaded plate. The net flux through a surface surrounding the shaded plate is not zero. This is impossible for a magnetic field. The given field lines, in fact, show the electrostatic field lines around a positively charged upper plate and a negatively charged lower plate. The difference between Fig. [5.6(e) and (f)] should be carefully grasped.",
+  "content": "In a bar magnet the intensity of the magnetic field is the strongest at the two ends (poles) and weakest at the central region.\n\nThis fact may be used to determine whether A or B is the magnet.\n\nIn this case, to see which one of the two bars is a magnet, pick up one, (say, A) and lower one of its ends; first on one of the ends of the other (say, B), and then on the middle of B.\n\nIf you notice that in the middle of B, A experiences no force, then B is magnetised.\n\nIf you do not notice any change from the end to the middle of B, then A is magnetised.",
   "header_path": "Solution",
   "line_ranges": [
     [
-      249,
-      249
-    ],
-    [
-      251,
-      251
-    ],
-    [
-      253,
-      253
-    ],
-    [
-      255,
-      255
-    ],
-    [
-      257,
-      257
+      116,
+      116
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 30,
-  "total_chunks_in_file": 76,
-  "summary": "Three regions are shown in the figure. Q1 and Q2 are positive point charges in region k. Which of the following statements is correct",
+  "total_chunks_in_file": 129,
+  "summary": "A bar magnet, with the different degrees of magnetic field measured at different regions.",
   "hypothetical_questions": [
-    "agree or disagree with our solution"
+    "How are the poles marked in the bar magnet?",
+    "What's the difference between a magnetised and unmagnetised bar?",
+    "What's the difference between poles A and B?",
+    "What will happen when I place a magnet over the other pole?"
   ],
   "keywords": [
-    "positive point charges",
-    "point charge",
-    "region"
+    "magnet",
+    "magnetic",
+    "field",
+    "different strengths",
+    "measured"
   ],
   "global_chunk_index": 30
 }

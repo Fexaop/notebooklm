@@ -1,26 +1,32 @@
 {
-  "content": "This existence of domains and their motion in  $\\mathbf{B}_0$  are not speculations.\n\nOne may observe this under a microscope after sprinkling a liquid suspension of powdered ferromagnetic substance of samples.\n\nThis motion of suspension can be observed.\n\nFig.\n\n5.8(b) shows the situation when the domains have aligned and amalgamated to form a single 'giant' domain.",
-  "header_path": "5.5.3 Ferromagnetism",
+  "content": "(g) Wrong. Magnetic field lines between two pole pieces cannot be precisely straight at the ends. Some fringing of lines is inevitable. Otherwise, Ampere's law is violated. This is also true for electric field lines.\n\n# Example 5.4\n\n(a) Magnetic field lines show the direction (at every point) along which a small magnetised needle aligns (at the point). Do the magnetic field lines also represent the lines of force on a moving charged particle at every point?",
+  "header_path": "Solution",
   "line_ranges": [
     [
-      415,
-      415
+      259,
+      259
+    ],
+    [
+      261,
+      261
+    ],
+    [
+      263,
+      263
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 55,
-  "total_chunks_in_file": 76,
-  "summary": "A liquid suspension of powdered ferromagnetic substance can exhibit domain motion, leading to the observation of this phenomenon under a microscope.",
+  "total_chunks_in_file": 129,
+  "summary": "Measures the direction of a small magnet.\nApplications:",
   "hypothetical_questions": [
-    "How does the existence of domains contribute to the observed motion in the suspension?",
-    "What effect does the magnetostatic field, $\textbf{B}_0$, have on the domain motion?"
+    "What are magnetic field lines?",
+    "What are some applications of magnetic fields?]"
   ],
   "keywords": [
-    "ferromagnetism",
-    "domain motion",
-    "liquid suspension",
-    "powdered ferromagnetic substance",
-    "liquid suspension"
+    "magnets",
+    "force on moving particle",
+    "field theory"
   ],
   "global_chunk_index": 55
 }

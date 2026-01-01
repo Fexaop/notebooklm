@@ -1,31 +1,36 @@
 {
-  "content": "(c) Must every magnetic configuration have a north pole and a south pole? What about the field due to a toroid?\n(d) Two identical looking iron bars A and B are given, one of which is definitely known to be magnetised. (We do not know which one.) How would one ascertain whether or not both are magnetised? If only one is magnetised, how does one ascertain which one? [Use nothing else but the bars A and B.]\n\n# Solution",
-  "header_path": "5.2.2 Bar magnet as an equivalent solenoid > Example 5.1",
+  "content": "![img-3.jpeg](images/image_2_3.jpeg)\n(c)\n\n![img-4.jpeg](images/image_2_4.jpeg)\nFIGURE 5.2 The field lines of (a) a bar magnet, (b) a current-carrying finite solenoid and (c) electric dipole. At large distances, the field lines are very similar. The curves labelled ① and ⑪ are closed Gaussian surfaces.\n\n![img-5.jpeg](images/image_2_5.jpeg)\nFIGURE 5.3 Calculation of (a) The axial field of a finite solenoid in order to demonstrate its similarity to that of a bar magnet. (b) A magnetic needle in a uniform magnetic field B. The arrangement may be used to determine either B or the magnetic moment m of the needle.",
+  "header_path": "5.2.1 The magnetic field lines",
   "line_ranges": [
     [
-      108,
-      109
+      46,
+      47
     ],
     [
-      111,
-      111
+      49,
+      50
+    ],
+    [
+      52,
+      53
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 11,
-  "total_chunks_in_file": 76,
-  "summary": "This section discusses whether every magnetic configuration has north and south poles, addresses a question about the field due to a toroid, and presents scenarios to determine if a pair of seemingly identical iron bars are magnetized or identify which one is magnetized.",
+  "total_chunks_in_file": 129,
+  "summary": "This text discusses the field lines of a bar magnet, a current-carrying finite solenoid, and an electric dipole. It presents a formula for calculating the axial field of a finite solenoid and explains how a magnetic needle in a uniform magnetic field can be used to determine B or m. The field lines resemble each other at large distances, and the diagram provides examples of various configurations of magnetic field lines.",
   "hypothetical_questions": [
-    "Does every magnetic configuration have a north pole and a south pole?",
-    "What about the field due to a toroid?",
-    "How can one distinguish between a magnetized and non-magnetized pair of seemingly identical iron bars?"
+    "What is the mathematical formula for calculating the axial field of a finite solenoid?",
+    "How can a magnetic needle in a uniform magnetic field be used to determine either B or the magnetic moment m?",
+    "How do the field lines of a bar magnet, a current-carrying finite solenoid, and an electric dipole relate at large distances?",
+    "What is the importance of understanding the field lines formed by different magnetic configurations?"
   ],
   "keywords": [
-    "magnetic configuration",
-    "north pole",
-    "south pole",
-    "toroid",
-    "magnetization"
+    "magnetic field",
+    "field lines",
+    "bar magnet",
+    "current-carrying finite solenoid",
+    "axial field"
   ],
   "global_chunk_index": 11
 }

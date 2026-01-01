@@ -1,32 +1,30 @@
 {
-  "content": "|   | Electrostatics | Magnetism  |\n| --- | --- | --- |\n|  Dipole moment | 1/ε0 | μ0  |\n|  Equatorial Field for a short dipole | p | m  |\n|  Axial Field for a short dipole | -p/4πε0r3 | -μ0m / 4πr3  |\n|  External Field: torque | 2p/4πε0r3 | μ02m / 4πr3  |\n|  External Field: Energy | p × E | m × B  |\n|   | -p·E | -m·B  |\n\nExample 5.2 Figure 5.4 shows a small magnetised needle P placed at a point O. The arrow shows the direction of its magnetic moment. The other arrows show different positions (and orientations of the magnetic moment) of another identical magnetised needle Q.",
-  "header_path": "5.2.4 The electrostatic analog",
+  "content": "One can test this analogy by moving a small compass needle in the neighbourhood of a bar magnet and a current-carrying finite solenoid and noting that the deflections of the needle are similar in both cases.\n\nTo make this analogy more firm we may calculate the axial field of a finite solenoid depicted in Fig. 5.3 (a). We can demonstrate that at large distances this axial field resembles that of a bar magnet.",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid",
   "line_ranges": [
     [
-      143,
-      150
+      66,
+      66
     ],
     [
-      152,
-      152
+      68,
+      68
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 17,
-  "total_chunks_in_file": 76,
-  "summary": "The provided JSON schema defines the structure of the ChunkMetadata object. Key metadata properties include 'summary' providing a concise 1-sentence summary of the text, 'hypothetical_questions' listing answers in the text, and 'keywords' containing key entities from the text.",
+  "total_chunks_in_file": 129,
+  "summary": "Bar magnet as an equivalent solenoid",
   "hypothetical_questions": [
-    "1. What is the relationship between electrostatics and magnetism?",
-    "2. Can you provide examples of equations from electrostatics and magnetism?",
-    "3. How do the formulas for dipole moments differ between electrostatics and magnetism?",
-    "4. What is the definition of a dipole moment in physics?"
+    "How do the deflections of a needle move when testing analogies with a bar magnet and a current-carrying finite solenoid?",
+    "How can we demonstrate that the axial field of a finite solenoid and a bar magnet are similar?"
   ],
   "keywords": [
-    "electrostatics",
-    "magnetism",
-    "dipole moment",
-    "equatorial field",
-    "axial field"
+    "evaluation",
+    "analogy",
+    "solenoid",
+    "equivalency",
+    "field"
   ],
   "global_chunk_index": 17
 }

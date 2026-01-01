@@ -1,28 +1,30 @@
 {
-  "content": "This is not so for a toroid or even for a straight infinite conductor.\n\n(d) Try to bring different ends of the bars closer.\n\nA repulsive force in some situation establishes that both are magnetised.\n\nIf it is always attractive, then one of them is not magnetised.\n\nIn a bar magnet the intensity of the magnetic field is the strongest at the two ends (poles) and weakest at the central region.\n\nThis fact may be used to determine whether A or B is the magnet.\n\nIn this case, to see which one of the two bars is a magnet, pick up one, (say, A) and lower one of its ends; first on one of the ends of the other (say, B), and then on the middle of B.\n\nIf you notice that in the middle of B, A experiences no force, then B is magnetised.\n\nIf you do not notice any change from the end to the middle of B, then A is magnetised.",
-  "header_path": "Solution",
+  "content": "In the previous chapter, we have explained how a current loop acts as a magnetic dipole (Section 4.9). We mentioned Ampere's hypothesis that all magnetic phenomena can be explained in terms of circulating currents.\n\nThe resemblance of magnetic field lines for a bar magnet and a solenoid suggest that a bar magnet may be thought of as a large number of circulating currents in analogy with a solenoid.",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid",
   "line_ranges": [
     [
-      115,
-      116
+      63,
+      63
+    ],
+    [
+      66,
+      66
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 14,
-  "total_chunks_in_file": 76,
-  "summary": "A ruling in physics dictates that a bar magnet has the strongest magnetic force at each end and the weakest at the central region.",
+  "total_chunks_in_file": 129,
+  "summary": "This chapter discusses the analogy between a bar magnetic and a solenoid, in which the magnetic field lines resemble those of a solenoid flowing rings very small and tending to aggregate, forming in them large loops whose distribution is symmetric from the point of view of the longitude around the polar axis. The resemblance of the magnetic field lines of a solenoid and a bar magnet allows us to think of a bar magnet as a large number of circulating currents in analogy with a solenoid.",
   "hypothetical_questions": [
-    "Can the magnetic field strength at a bar magnet be primarily observed at its ends?",
-    "Indeed, does increasing the magnetization of a bar magnet increase the magnetic field strength at its ends?",
-    "What would happen if a bar magnet's ends were demagnetised?",
-    "What causes the difference in magnetic field strength between the end and middle of a bar magnet?"
+    "How do bar magnets and solenoids relate in terms of magnetic field lines?",
+    "Can we think of a bar magnet as a large number of circulating currents like a solenoid?"
   ],
   "keywords": [
     "bar magnet",
-    "poles",
+    "solenoid",
     "magnetic field",
-    "repulsive force",
-    "magnetised"
+    "current loop",
+    "Ampere's hypothesis"
   ],
   "global_chunk_index": 14
 }

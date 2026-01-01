@@ -1,32 +1,32 @@
 {
-  "content": "There are a number of elements, which are ferromagnetic: iron, cobalt, nickel, gadolinium, etc.\n\nThe relative magnetic permeability is  $>1000$ !\n\nThe ferromagnetic property depends on temperature. At high enough temperature, a ferromagnet becomes a paramagnet. The domain structure disintegrates with temperature. This disappearance of magnetisation with temperature is gradual.",
-  "header_path": "5.5.3 Ferromagnetism",
+  "content": "(a) No. The magnetic force is always normal to $\\mathbf{B}$ (remember magnetic force $= q\\mathbf{v} \\quad \\mathbf{B}$). It is misleading to call magnetic field lines as lines of force.\n(b) Gauss's law of magnetism states that the flux of $\\mathbf{B}$ through any closed surface is always zero $\\int_{S} \\mathbf{B} \\cdot \\Delta \\mathbf{s} = 0$.\n\nIf monopoles existed, the right hand side would be equal to the monopole (magnetic charge) $q_{m}$ enclosed by S. [Analogous to Gauss's law of electrostatics, $\\int_{S} \\mathbf{B} \\cdot \\Delta \\mathbf{s} = \\mu_{0} q_{m}$ where $q_{m}$ is the (monopole) magnetic charge enclosed by S.]",
+  "header_path": "Example 5.4 > Solution",
   "line_ranges": [
     [
-      417,
-      417
+      274,
+      275
     ],
     [
-      419,
-      419
+      277,
+      277
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 59,
-  "total_chunks_in_file": 76,
-  "summary": "Ferromagnetism refers to the property of certain elements becoming magnetized when exposed to a magnetic field, and remaining magnetized even when removed from the magnetic field.",
+  "total_chunks_in_file": 129,
+  "summary": "Explains why the magnetic force is always normal to a magnetic field line and that Gauss's law of magnetism states that the flux of the magnetic field through any closed surface is always zero.",
   "hypothetical_questions": [
-    "What are some other elements besides iron, cobalt, and nickel that have ferromagnetic properties?",
-    "What is the range of relative magnetic permeability for ferromagnetic materials?",
-    "How does temperature affect the ferromagnetic properties of a material?",
-    "What causes the disappearance of magnetization at high temperatures in ferromagnetic materials?"
+    "Why is the magnetic force always perpendicular to the magnetic field line?",
+    "What is the reason behind the flux of the magnetic field being zero?",
+    "What is Gauss's law of magnetism?",
+    "What happens if monopoles existed?"
   ],
   "keywords": [
-    "ferromagnetism",
-    "magnetism",
-    "temperature",
-    "magnetic permeability",
-    "paramagnetism"
+    "magnetic force",
+    "magnetic field lines",
+    "Gauss's law of magnetism",
+    "flux",
+    "monopoles"
   ],
   "global_chunk_index": 59
 }

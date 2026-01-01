@@ -1,28 +1,31 @@
 {
-  "content": "The net force is attractive because the induced south pole (say) in the nail is closer to the north pole of magnet than induced north pole.\n\n(c) Not necessarily.\n\nTrue only if the source of the field has a net non-zero magnetic moment.\n\nThis is not so for a toroid or even for a straight infinite conductor.",
-  "header_path": "Solution",
+  "content": "One can plot the magnetic field lines in a variety of ways. One way is to place a small magnetic compass needle at various positions and note its orientation. This gives us an idea of the magnetic field direction at various points in space.\n\n# 5.2.2 Bar magnet as an equivalent solenoid\n\nIn the previous chapter, we have explained how a current loop acts as a magnetic dipole (Section 4.9). We mentioned Ampere's hypothesis that all magnetic phenomena can be explained in terms of circulating currents.",
+  "header_path": "5.2.1 The magnetic field lines",
   "line_ranges": [
     [
-      114,
-      115
+      59,
+      59
+    ],
+    [
+      61,
+      61
+    ],
+    [
+      63,
+      63
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 13,
-  "total_chunks_in_file": 76,
-  "summary": "A description about how ferromagnetic materials get magnetized",
+  "total_chunks_in_file": 129,
+  "summary": "A variety of ways to plot magnetic field lines are to place a small magnetic compass needle at various positions and note its orientation, or use computational models to compute the magnetic field an solenoid or loop.",
   "hypothetical_questions": [
-    "Can the magnetization of ferromagnetic materials be induced?",
-    "Are induced south and north poles of a magnet different?",
-    "Is a net force of attraction between a horseshoe magnet and a ferromagnetic soft iron rod expected?",
-    "Why is there net force of attraction between a magnet and a magnetized soft iron rod?"
+    "What are the practical tools for visualizing magnetic field lines?"
   ],
   "keywords": [
-    "ferromagnetic materials",
-    "net force",
-    "magnetization",
-    "magnetic moment",
-    "north pole"
+    "magnetic field lines",
+    "compass needle",
+    "Ampere's hypothesis"
   ],
   "global_chunk_index": 13
 }

@@ -1,36 +1,43 @@
 {
-  "content": "(b) If magnetic monopoles existed, how would the Gauss's law of magnetism be modified?\n\n(c) Does a bar magnet exert a torque on itself due to its own field? Does one element of a current-carrying wire exert a force on another element of the same wire?\n\n(d) Magnetic field arises due to charges in motion. Can a system have magnetic moments even though its net charge is zero?",
-  "header_path": "Example 5.4",
+  "content": "Likewise, the axial field  $(\\mathbf{B}_A)$  of a bar magnet for  $r >> l$  is:\n\n$$\n\\mathbf {B} _ {A} = \\frac {\\mu_ {0}}{4 \\pi} \\frac {2 \\mathbf {m}}{r ^ {3}} \\tag {5.5}\n$$\n\nEquation (5.5) is just Eq. (5.1) in the vector form. Table 5.1 summarises the analogy between electric and magnetic dipoles.\n\nTABLE 5.1 THE DIPOLE ANALOGY\n\n|   | Electrostatics | Magnetism  |\n| --- | --- | --- |\n|  Dipole moment | 1/ε0 | μ0  |\n|  Equatorial Field for a short dipole | p | m  |\n|  Axial Field for a short dipole | -p/4πε0r3 | -μ0m / 4πr3  |\n|  External Field: torque | 2p/4πε0r3 | μ02m / 4πr3  |\n|  External Field: Energy | p × E | m × B  |\n|   | -p·E | -m·B  |",
+  "header_path": "5.2.4 The electrostatic analog",
   "line_ranges": [
     [
-      265,
-      265
+      132,
+      132
     ],
     [
-      267,
-      267
+      134,
+      136
     ],
     [
-      270,
-      270
+      139,
+      139
+    ],
+    [
+      141,
+      141
+    ],
+    [
+      143,
+      150
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 34,
-  "total_chunks_in_file": 76,
-  "summary": "The question is about understanding the existence or non-existence of magnetic monopoles and how it would modify Gauss's law of magnetism, and whether a bar magnet or a current-carrying wire exerts a torque or force on itself.",
+  "total_chunks_in_file": 129,
+  "summary": "The axial field (B_A) of a bar magnet for r >> l is given by Eq. (5.5), which is just Eq. (5.1) in the vector form. Table 5.1 summarizes the analogy between electric and magnetic dipoles.",
   "hypothetical_questions": [
-    "If magnetic monopoles did not exist, would it still be possible to have net magnetic charge?",
-    "How would the law of conservation of magnetic charge be modified in the absence of magnetic monopoles?",
-    "Are magnetic field lines real or imaginary?",
-    "Is a magnetic monopole predicted by Maxwell's equations?"
+    "What is the axial field of a bar magnet?",
+    "How does the analogy between electric and magnetic dipoles help to summarize the two types of fields?",
+    "What is the Electric Analog problem discussed in this chapter?"
   ],
   "keywords": [
-    "magnetic monopole",
-    "Gauss's law of magnetism",
-    "torque",
-    "force",
-    "magnetic moment"
+    "bar magnet",
+    "vector form",
+    "Table 5.1",
+    "electric and magnetic dipoles",
+    "axial field"
   ],
   "global_chunk_index": 34
 }

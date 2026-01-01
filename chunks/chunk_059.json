@@ -1,25 +1,34 @@
 {
-  "content": "Such materials form permanent magnets to be used among other things as a compass needle.\n\nOn the other hand, there is a class of ferromagnetic materials in which the magnetisation disappears on removal of the external field.\n\nSoft iron is one such material.\n\nAppropriately enough, such materials are called soft ferromagnetic materials.\n\nThere are a number of elements, which are ferromagnetic: iron, cobalt, nickel, gadolinium, etc.",
-  "header_path": "5.5.3 Ferromagnetism",
+  "content": "(d) Magnetic field arises due to charges in motion. Can a system have magnetic moments even though its net charge is zero?\n\n## Solution\n\n(a) No. The magnetic force is always normal to $\\mathbf{B}$ (remember magnetic force $= q\\mathbf{v} \\quad \\mathbf{B}$). It is misleading to call magnetic field lines as lines of force.\n(b) Gauss's law of magnetism states that the flux of $\\mathbf{B}$ through any closed surface is always zero $\\int_{S} \\mathbf{B} \\cdot \\Delta \\mathbf{s} = 0$.",
+  "header_path": "Example 5.4",
   "line_ranges": [
     [
-      417,
-      417
+      270,
+      270
+    ],
+    [
+      272,
+      272
+    ],
+    [
+      274,
+      275
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 58,
-  "total_chunks_in_file": 76,
-  "summary": "Bottom of potential. Observation for permanent magnets.",
+  "total_chunks_in_file": 129,
+  "summary": "The magnetic force is always normal to the magnetic field (B) vector, and it is misleading to call magnetic field lines as lines of force.",
   "hypothetical_questions": [
-    "Would ferromagnetic materials withstand atmospheric forces?",
-    "What magnetic media would NOT be affected by atmospheric forces?"
+    "Can a system have a magnetic field with a net charge of zero?",
+    "Can a closed surface have non-zero magnetic flux in a magnetic field?"
   ],
   "keywords": [
-    "metadata",
-    "hypothetical",
-    "atmospheric forces",
-    "magnetic media"
+    "charges",
+    "motion",
+    "magnetic force",
+    "magnetic field",
+    "closed surface"
   ],
   "global_chunk_index": 58
 }

@@ -1,0 +1,32 @@
+{
+  "content": "There are a number of elements, which are ferromagnetic: iron, cobalt, nickel, gadolinium, etc.\n\nThe relative magnetic permeability is  $>1000$ !\n\nThe ferromagnetic property depends on temperature. At high enough temperature, a ferromagnet becomes a paramagnet. The domain structure disintegrates with temperature. This disappearance of magnetisation with temperature is gradual.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      417,
+      417
+    ],
+    [
+      419,
+      419
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 104,
+  "total_chunks_in_file": 129,
+  "summary": "The relative magnetic permeability of ferromagnetic elements is $>1000$",
+  "hypothetical_questions": [
+    "What are some elements that are ferromagnetic?",
+    "Why is the relative magnetic permeability of ferromagnetic elements so high?",
+    "How does the ferromagnetic property of elements vary with temperature?",
+    "What happens to the domain structure of a ferromagnet as temperature increases?"
+  ],
+  "keywords": [
+    "ferromagnetism",
+    "magnetic permeability",
+    "temperature",
+    "ferromagnetic elements",
+    "paramagnetism"
+  ],
+  "global_chunk_index": 104
+}

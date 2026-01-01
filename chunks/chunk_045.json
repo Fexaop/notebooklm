@@ -1,46 +1,32 @@
 {
-  "content": "A glance at Table 5.2 gives one a better feeling for these materials. Here  $\\varepsilon$  is a small positive number introduced to quantify paramagnetic materials. Next, we describe these materials in some detail.\n\nTABLE 5.2\n\n|  Diamagnetic | Paramagnetic | Ferromagnetic  |\n| --- | --- | --- |\n|  -1 ≤ χ < 0 | 0 < χ < ε | χ >> 1  |\n|  0 ≤ μr < 1 | 1 < μr < 1 + ε | μr >> 1  |\n|  μ < μ0 | μ > μ0 | μ >> μ0  |\n\n# 5.5.1 Diamagnetism\n\nDiamagnetic substances are those which have tendency to move from stronger to the weaker part of the external magnetic field. In other words, unlike the way a magnet attracts metals like iron, it would repel a diamagnetic substance.\n\nFigure 5.7(a) shows a bar of diamagnetic material placed in an external magnetic field. The field lines are repelled or expelled and the field inside the material is reduced. In most cases, this reduction is slight, being one part in  $10^{5}$ . When placed in a non-uniform magnetic field, the bar will tend to move from high to low field.",
-  "header_path": "5.5 MAGNETIC PROPERTIES OF MATERIALS",
+  "content": "In Chapter 1, we studied Gauss's law for electrostatics. In Fig 5.2(c), we see that for a closed surface represented by ①, the number of lines leaving the surface is equal to the number of lines entering it. This is consistent with the fact that no net charge is enclosed by the surface. However, in the same figure, for the closed surface ①, there is a net outward flux, since it does include a net (positive) charge.\n\nThe situation is radically different for magnetic fields which are continuous and form closed loops. Examine the Gaussian surfaces represented by ① or ① in Fig 5.2(a) or Fig. 5.2(b). Both cases visually demonstrate that the number of magnetic field lines leaving the surface is balanced by the number of lines entering it. The net magnetic flux is zero for both the surfaces. This is true for any closed surface.",
+  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
   "line_ranges": [
     [
-      369,
-      369
+      192,
+      192
     ],
     [
-      371,
-      371
-    ],
-    [
-      373,
-      377
-    ],
-    [
-      379,
-      379
-    ],
-    [
-      381,
-      381
-    ],
-    [
-      383,
-      383
+      194,
+      194
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 44,
-  "total_chunks_in_file": 76,
-  "summary": "Table 5.2 gives a concise 1-sentence summary of the text.\nParamagnetic materials have a small positive susceptibility χ with 0 < χ < ε, and a magnetic permeability μr between 1 and 1 + ε. Ferromagnetic materials have a significantly higher susceptibility χ with χ >> 1, a magnetic permeability μr greater than 1, and a magnetic permeability μr much greater than 1.\nDiamagnetic substances pushed from stronger to the weaker part of the external magnetic field.",
+  "total_chunks_in_file": 129,
+  "summary": "In magnetic fields, closed loops form lines that are continuous and cannot be broken, resulting in zero magnetic flux through any closed surface such as surfaces ① and ①.",
   "hypothetical_questions": [
-    "What is diamagnetism?",
-    "Can magnesium push items towards it?",
-    "What can magnet repel and where can ferromagnetic deteriorate?"
+    "Can magnetic field lines be visualized as a continuous loop, with no begin or end?",
+    "Does magnetic flux through a closed surface always equal zero?",
+    "Explain why magnetic field lines cannot be broken.",
+    "Under what conditions can magnetic flux be nonzero?"
   ],
   "keywords": [
-    "magnetic properties of materials",
-    "diamagnetic materials",
-    "paramagnetic materials",
-    "ferromagnetic materials"
+    "magnetic field",
+    "closed loops",
+    "continuous lines",
+    "magnetic flux",
+    "closed surface"
   ],
   "global_chunk_index": 44
 }

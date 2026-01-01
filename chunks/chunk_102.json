@@ -1,0 +1,30 @@
+{
+  "content": "5.8(b) shows the situation when the domains have aligned and amalgamated to form a single 'giant' domain.\n\nThus, in a ferromagnetic material the field lines are highly concentrated.\n\nIn non-uniform magnetic field, the sample tends to move towards the region of high field.\n\nWe may wonder as to what happens when the external field is removed.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      415,
+      415
+    ],
+    [
+      417,
+      417
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 101,
+  "total_chunks_in_file": 129,
+  "summary": "Technology can cause both good and bad emissions in terms of energy consumption, and its impact on the economy.",
+  "hypothetical_questions": [
+    "How can technology be used to reduce emissions?",
+    "What is the relationship between technology, emissions, and energy consumption?",
+    "Can technology help in reducing economic impacts of emissions?"
+  ],
+  "keywords": [
+    "technology",
+    "energy consumption",
+    "economics",
+    "emissions"
+  ],
+  "global_chunk_index": 101
+}

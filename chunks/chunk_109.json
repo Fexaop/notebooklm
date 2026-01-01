@@ -1,0 +1,31 @@
+{
+  "content": "(a) the force on it is zero,\n(b) the torque on it is $\\mathbf{m} \\times \\mathbf{B}$,\n(c) its potential energy is $-\\mathbf{m} \\cdot \\mathbf{B}$, where we choose the zero of energy at the orientation when $\\mathbf{m}$ is perpendicular to $\\mathbf{B}$.\n\n3. Consider a bar magnet of size $l$ and magnetic moment $\\mathbf{m}$, at a distance $r$ from its mid-point, where $r >> l$, the magnetic field $\\mathbf{B}$ due to this bar is,",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      439,
+      441
+    ],
+    [
+      443,
+      443
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 108,
+  "total_chunks_in_file": 129,
+  "summary": "Analyze the provided scientific text and extract the requested metadata.",
+  "hypothetical_questions": [
+    "When is the force on a magnet due to a magnetic field zero?",
+    "What is the torque on a magnet due to a magnetic field?",
+    "What is the magnetic field due to a bar magnet at a distance r?"
+  ],
+  "keywords": [
+    "force",
+    "torque",
+    "potential energy",
+    "bar magnet",
+    "magnetic moment"
+  ],
+  "global_chunk_index": 108
+}

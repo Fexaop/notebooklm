@@ -1,36 +1,31 @@
 {
-  "content": "The ferromagnetic property depends on temperature. At high enough temperature, a ferromagnet becomes a paramagnet. The domain structure disintegrates with temperature. This disappearance of magnetisation with temperature is gradual.\n\n# SUMMARY\n\n1. The science of magnetism is old. It has been known since ancient times that magnetic materials tend to point in the north-south direction; like",
-  "header_path": "5.5.3 Ferromagnetism",
+  "content": "If monopoles existed, the right hand side would be equal to the monopole (magnetic charge) $q_{m}$ enclosed by S. [Analogous to Gauss's law of electrostatics, $\\int_{S} \\mathbf{B} \\cdot \\Delta \\mathbf{s} = \\mu_{0} q_{m}$ where $q_{m}$ is the (monopole) magnetic charge enclosed by S.]\n\n(c) No.\n\nThere is no force or torque on an element due to the field produced by that element itself.\n\nBut there is a force (or torque) on an element of the same wire.\n\n(For the special case of a straight wire, this force is zero.)\n(d) Yes.",
+  "header_path": "Example 5.4 > Solution",
   "line_ranges": [
     [
-      419,
-      419
+      277,
+      277
     ],
     [
-      421,
-      421
-    ],
-    [
-      423,
-      423
+      279,
+      280
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 60,
-  "total_chunks_in_file": 76,
-  "summary": "The ferromagnetic property is temperature-dependent, with ferromagnets becoming paramagnetic at higher temperatures. Domain structures disintegrate with increasing temperature, leading to a gradual disappearance of magnetization.",
+  "total_chunks_in_file": 129,
+  "summary": "Discusses the implications of assuming the existence of monopoles on discrete scalar magnetic potentials in a plasma and explores the discrepancy in the conservation laws and the addition rule for magnetic moments.",
   "hypothetical_questions": [
-    "What happens to a ferromagnet's magnetic property when the temperature is raised?",
-    "How does temperature affect the domain structure of a ferromagnet?",
-    "Why does the domain structure disintegrate at higher temperatures?",
-    "What changes occur in a ferromagnet's magnetic behavior at high temperatures?"
+    "What would be the implications on magnetism if the conservation laws and addition rule for magnetic moments were incorrect?",
+    "How could the existence of monopoles potentially disrupt previously understood physical properties of magnets?",
+    "Why is the addition rule for magnetic moments not satisfied if a magnetic monopole is accounted for in discrete scalar magnetic potentials?"
   ],
   "keywords": [
-    "temperature dependence",
-    "ferromagnetism",
-    "paramagnetism",
-    "domain structure",
-    "magnetization"
+    "magnetic charge",
+    "gauss's law",
+    "electrostatics",
+    "conservation laws",
+    "addition rule"
   ],
   "global_chunk_index": 60
 }

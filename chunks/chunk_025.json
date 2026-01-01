@@ -1,30 +1,26 @@
 {
-  "content": "The situation is radically different for magnetic fields which are continuous and form closed loops. Examine the Gaussian surfaces represented by ① or ① in Fig 5.2(a) or Fig. 5.2(b). Both cases visually demonstrate that the number of magnetic field lines leaving the surface is balanced by the number of lines entering it. The net magnetic flux is zero for both the surfaces. This is true for any closed surface.\n\n![img-8.jpeg](images/image_6_8.jpeg)\nFIGURE 5.5",
-  "header_path": "5.3 MAGNETISM AND GAUSS'S LAW",
+  "content": "(a) What happens if a bar magnet is cut into two pieces: (i) transverse to its length, (ii) along its length?\n(b) A magnetised needle in a uniform magnetic field experiences a torque but no net force. An iron nail near a bar magnet, however, experiences a force of attraction in addition to a torque. Why?",
+  "header_path": "5.2.2 Bar magnet as an equivalent solenoid > Example 5.1",
   "line_ranges": [
     [
-      194,
-      194
-    ],
-    [
-      196,
-      197
+      104,
+      105
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 24,
-  "total_chunks_in_file": 76,
-  "summary": "The net magnetic flux through any closed surface is zero, meaning the number of magnetic field lines entering equals the number of lines leaving the surface.",
+  "total_chunks_in_file": 129,
+  "summary": "This text discusses the behavior of a bar magnet when cut into two pieces and the forces experienced by different objects near a magnet.",
   "hypothetical_questions": [
-    "Why is the net magnetic flux zero for a closed surface?",
-    "Explain the relationship between the number of magnetic field lines entering and leaving a closed surface."
+    "How are the magnetic properties affected when a bar magnet is cut into pieces?",
+    "Why does an iron nail near a bar magnet experience both a force and a torque while a magnetised needle near a magnet only experiences a torque?"
   ],
   "keywords": [
-    "magnetic fields",
-    "closed loop",
-    "Gaussian surfaces",
-    "Net magnetic flux",
-    "Magnetic field lines"
+    "bar magnet",
+    "solenoid",
+    "magnetism",
+    "force",
+    "torque"
   ],
   "global_chunk_index": 24
 }

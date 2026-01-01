@@ -1,0 +1,27 @@
+{
+  "content": "In the first instant, the magnetisation varies randomly from domain to domain and there is no bulk magnetisation.\n\nThis is shown in Fig.\n\n5.8(a).\n\nWhen we apply an external magnetic field  $\\mathbf{B}_0$ , the domains orient themselves in the direction of  $\\mathbf{B}_0$  and simultaneously the domain oriented in the direction of  $\\mathbf{B}_0$  grow in size.",
+  "header_path": "5.5.3 Ferromagnetism",
+  "line_ranges": [
+    [
+      415,
+      415
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 98,
+  "total_chunks_in_file": 129,
+  "summary": "In the initial stage, domains randomly form magnetization, and as an external magnetic field is applied, some domains align with the field, causing them to grow in size.",
+  "hypothetical_questions": [
+    "How does an external magnetic field affect the formation of domains in ferromagnetism?",
+    "What is the significance of applying an external magnetic field to ferromagnetic materials?",
+    "What happens to the size of domains when a ferromagnetic material is exposed to a magnetic field?"
+  ],
+  "keywords": [
+    "Ferromagnetism",
+    "magnetization",
+    "domains",
+    "external magnetic field",
+    "Hervé Pointing"
+  ],
+  "global_chunk_index": 98
+}

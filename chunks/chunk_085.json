@@ -1,0 +1,27 @@
+{
+  "content": "These orbiting electrons are equivalent to current-carrying loop and thus possess orbital magnetic moment.\n\nDiamagnetic substances are the ones in which resultant magnetic moment in an atom is zero.\n\nWhen magnetic field is applied, those electrons having orbital magnetic moment in the same direction slow down and those in the opposite direction speed up.",
+  "header_path": "5.5.1 Diamagnetism",
+  "line_ranges": [
+    [
+      396,
+      396
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 84,
+  "total_chunks_in_file": 129,
+  "summary": "In the context of a magnetic field, electrons in an orbiting state are equivalent to a current-carrying loop, possessing orbital magnetic moment. The resultant magnetic moment in an atom is zero in diamagnetic substances, which change their behavior differently based on the applied magnetic field.",
+  "hypothetical_questions": [
+    "What happens to the orbital magnetic moment of electrons when a magnetic field is applied?",
+    "Why is the magnetic moment in an atom zero in diamagnetic substances?",
+    "How do diamagnetic substances behave differently in the presence of a magnetic field?"
+  ],
+  "keywords": [
+    "Orbital magnetic moment",
+    "current-carrying loop",
+    "diamagnetic substances",
+    "magnetic field",
+    "Atmospheric Pressure"
+  ],
+  "global_chunk_index": 84
+}

@@ -1,0 +1,32 @@
+{
+  "content": "|  Physical quantity | Symbol | Nature | Dimensions | Units | Remarks  |\n| --- | --- | --- | --- | --- | --- |\n|  Permeability of free space | μ₀ | Scalar | [MLT⁻² A⁻²] | T m A⁻¹ | μ₀/4π = 10⁻⁷  |\n|  Magnetic field, Magnetic induction, Magnetic flux density | B | Vector | [MT⁻² A⁻¹] | T (tesla) | 10⁴ G (gauss) = 1 T  |\n|  Magnetic moment | m | Vector | [L⁻² A] | A m² |   |\n|  Magnetic flux | φ₁ | Scalar | [ML²T⁻² A⁻¹] | W (weber) | W = T m²  |\n|  Magnetisation | M | Vector | [L⁻¹ A] | A m⁻¹ | Magnetic moment\nVolume  |\n|  Magnetic intensity\nMagnetic field strength | H | Vector | [L⁻¹ A] | A m⁻¹ | B = μ₀ (H + M)  |\n|  Magnetic susceptibility | χ | Scalar | - | - | M = χH  |\n|  Relative magnetic permeability | μᵣ | Scalar | - | - | B = μ₀ μᵣ H  |\n|  Magnetic permeability | μ | Scalar | [MLT⁻² A⁻²] | T m A⁻¹\nN A⁻² | μ = μ₀ μᵣ\nB = μ H  |\n\n# POINTS TO PONDER",
+  "header_path": "SUMMARY",
+  "line_ranges": [
+    [
+      482,
+      496
+    ],
+    [
+      498,
+      498
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 116,
+  "total_chunks_in_file": 129,
+  "summary": "The text presents a comprehensive table listing various magnetic quantities along with their symbols, nature, dimensions, units, and remarks. The table includes properties such as Permeability of free space, Magnetic field, Magnetic induction, Magnetic flux density, Magnetic moment, Magnetic flux, Magnetisation, Magnetic intensity, Magnetic field strength, Magnetic susceptibility, Relative magnetic permeability, and Magnetic permeability.",
+  "hypothetical_questions": [
+    "What is the nature of magnetic susceptibility and how is it related to magnetic moment?",
+    "What is the formula for calculating the magnetic permeability of a material?",
+    "How does magnetic permeability relate to magnetic flux density?",
+    "What do the units T (tesla) and G (gauss) represent in the context of magnetic fields?"
+  ],
+  "keywords": [
+    "Physical quantity",
+    "Permeability of free space",
+    "Magnetic field",
+    "Magnetic flux",
+    "Magnetic moment"
+  ],
+  "global_chunk_index": 116
+}

@@ -1,51 +1,40 @@
 {
-  "content": "The field lines remain continuous, emerging from one face of the solenoid and entering into the other face.\n\nOne can test this analogy by moving a small compass needle in the neighbourhood of a bar magnet and a current-carrying finite solenoid and noting that the deflections of the needle are similar in both cases.\n\nTo make this analogy more firm we may calculate the axial field of a finite solenoid depicted in Fig. 5.3 (a). We can demonstrate that at large distances this axial field resembles that of a bar magnet.\n\nThe magnitude of the field at point  $\\mathrm{P}$  due to the solenoid is\n\n$$\nB = \\frac {\\mu_ {0}}{4 \\pi} \\frac {2 m}{r ^ {3}} \\tag {5.1}\n$$\n\nThis is also the far axial magnetic field of a bar magnet which one may obtain experimentally. Thus, a bar magnet and a solenoid produce similar magnetic fields. The magnetic moment of a bar magnet is thus equal to the magnetic moment of an equivalent solenoid that produces the same magnetic field.\n\n## 5.2.3 The dipole in a uniform magnetic field\n\nLet's place a small compass needle of known magnetic moment  $\\mathbf{m}$  allowing it to oscillate in the magnetic field. This arrangement is shown in Fig. 5.3(b).",
-  "header_path": "5.2.2 Bar magnet as an equivalent solenoid",
+  "content": "We begin with a description of a bar magnet and its behaviour in an external magnetic field. We describe Gauss's law of magnetism. We next describe how materials can be classified on the basis of their magnetic properties. We describe para-, dia-, and ferromagnetism.\n\n# 5.2 THE BAR MAGNET\n\nWe begin our study by examining iron filings sprinkled on a sheet of glass placed over a short bar magnet. The arrangement of iron filings is shown in Fig. 5.1.\n\nThe pattern of iron filings suggests that the magnet has two poles similar to the positive and negative charge of an electric dipole. As mentioned in the introductory section, one pole is designated the North pole and the other, the South pole. When suspended freely, these poles point approximately towards the geographic north and south poles, respectively. A similar pattern of iron filings is observed around a current carrying solenoid.",
+  "header_path": "5.1 INTRODUCTION",
   "line_ranges": [
     [
-      66,
-      66
+      20,
+      20
     ],
     [
-      68,
-      68
+      22,
+      22
     ],
     [
-      70,
-      70
+      24,
+      24
     ],
     [
-      72,
-      74
-    ],
-    [
-      76,
-      76
-    ],
-    [
-      78,
-      78
-    ],
-    [
-      80,
-      80
+      26,
+      26
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 6,
-  "total_chunks_in_file": 76,
-  "summary": "A small compass needle oscillating in the magnetic field, with the magnetic field lines emerging from one face of the solenoid and entering the other face.",
+  "total_chunks_in_file": 129,
+  "summary": "The paper provides a comprehensive summary of a bar magnet and its behavior in an external magnetic field, introduces Gauss's law of magnetism, and discusses the classification of materials based on their magnetic properties. The paper focuses on the three main classifications of magnetism: para-, dia-, and ferromagnetism.",
   "hypothetical_questions": [
-    "How does the field of a bar magnet compare to a current-carrying solenoid?",
-    "Can we calculate the axial field of a finite solenoid?",
-    "How does the axial field of a finite solenoid at large distances relate to that of a bar magnet?"
+    "What is the behavior of a bar magnet in an external magnetic field?",
+    "How is Gauss's law of magnetism described?",
+    "What are the three main classifications of magnetism, and how do they differ?",
+    "Describe the pattern observed when iron filings are sprinkled on a bar magnet."
   ],
   "keywords": [
-    "magnetic field",
-    "magnetic moment",
-    "solenoid",
-    "bar magnet",
-    "uniform magnetic field"
+    "Electromagnetism",
+    "Magnetic properties of materials",
+    "Bar magnet",
+    "Para-, Dia-, and Ferromagnetism",
+    "Gauss's law of magnetism"
   ],
   "global_chunk_index": 6
 }

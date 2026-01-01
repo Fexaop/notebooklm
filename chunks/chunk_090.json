@@ -1,0 +1,35 @@
+{
+  "content": "The phenomenon of perfect diamagnetism in superconductors is called the Meissner effect, after the name of its discoverer.\n\nSuperconducting magnets can be gainfully exploited in variety of situations, for example, for running magnetically levitated superfast trains.\n\n### 5.5.2 Paramagnetism\n\nParamagnetic substances are those which get weakly magnetised when placed in an external magnetic field. They have tendency to move from a region of weak magnetic field to strong magnetic field, i.e. they get weakly attracted to a magnet.",
+  "header_path": "5.5.1 Diamagnetism",
+  "line_ranges": [
+    [
+      400,
+      400
+    ],
+    [
+      402,
+      402
+    ],
+    [
+      404,
+      404
+    ]
+  ],
+  "source_file": "output/leph105/leph105.md",
+  "chunk_index": 89,
+  "total_chunks_in_file": 129,
+  "summary": "In the context of 'Paramagnetism', the text explains that paramagnetic substances become weakly magnetised when placed in an external magnetic field and have a tendency to move from an area of weaker to stronger magnetic field.",
+  "hypothetical_questions": [
+    "What are paramagnetic substances?",
+    "How do paramagnetic substances react in an external magnetic field?",
+    "In what way do paramagnetic substances move in a magnetic field?",
+    "What characteristic of paramagnetic substances is responsible for their weak magnetisation?"
+  ],
+  "keywords": [
+    "paramagnetism",
+    "paramagnetic substances",
+    "magnetic field",
+    "mechanism"
+  ],
+  "global_chunk_index": 89
+}

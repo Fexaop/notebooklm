@@ -17,19 +17,17 @@
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 1,
-  "total_chunks_in_file": 76,
-  "summary": "In the previous chapter, we learned that moving charges or electric currents produce magnetic fields. This discovery, which was made in the early part of the nineteenth century, is credited to Oersted, Ampere, Biot, and Savart, among others. In the present chapter, we explore magnetism as a subject in its own right.",
+  "total_chunks_in_file": 129,
+  "summary": "This chapter describes the discovery and early history of magnetism and its importance to alternating current theory. We will also learn about simple magnetic systems such as the magnetic dipole and that moving charges produce a magnetic field.",
   "hypothetical_questions": [
-    "What is the discovery related to moving charges and electric currents?",
-    "Who are the individuals credited with discovering a relationship between moving charges and electric currents?",
-    "What is explored in the present chapter?"
+    "What one known idea regarding magnetism? What one unknown idea?",
+    "How is magnetism commonly used in technology?"
   ],
   "keywords": [
-    "magnetic fields",
-    "Oersted",
-    "Ampere",
-    "Biot",
-    "Savart"
+    "magnetism",
+    "electric current",
+    "moving charges",
+    "magnetic fields"
   ],
   "global_chunk_index": 1
 }

@@ -1,38 +1,29 @@
 {
-  "content": "Superconducting magnets can be gainfully exploited in variety of situations, for example, for running magnetically levitated superfast trains.\n\n### 5.5.2 Paramagnetism\n\nParamagnetic substances are those which get weakly magnetised when placed in an external magnetic field. They have tendency to move from a region of weak magnetic field to strong magnetic field, i.e. they get weakly attracted to a magnet.\n\nThe individual atoms (or ions or molecules) of a paramagnetic material possess a permanent magnetic dipole moment of their own.\n\nOn account of the ceaseless random thermal motion of the atoms, no net magnetisation is seen.\n\nIn the presence of an external field B_{0}, which is strong enough, and at low temperatures, the individual atomic dipole moment can be made to align and point in the same direction as B_{0}.\n\nFigure 5.7(b) shows a bar of paramagnetic material placed in an external field.\n\nThe field lines gets concentrated inside the material, and the field inside is enhanced.",
-  "header_path": "5.5.1 Diamagnetism",
+  "content": "(a) Wrong. Magnetic field lines can never emanate from a point, as shown in figure. Over any closed surface, the net flux of B must always be zero, i.e., pictorially as many field lines should seem to enter the surface as the number of lines leaving it. The field lines shown, in fact, represent electric field of a long positively charged wire. The correct magnetic field lines are circling the straight conductor, as described in Chapter 4.\n\n(b) Wrong.",
+  "header_path": "Solution",
   "line_ranges": [
     [
-      400,
-      400
+      247,
+      247
     ],
     [
-      402,
-      402
-    ],
-    [
-      404,
-      404
-    ],
-    [
-      406,
-      406
+      249,
+      249
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 51,
-  "total_chunks_in_file": 76,
-  "summary": "Superconducting magnets can be used for running magnetically levitated superfast trains and paramagnetic substances are those which get weakly magnetised when placed in an external magnetic field and have tendency to move from a region of weak magnetic field to strong magnetic field.",
+  "total_chunks_in_file": 129,
+  "summary": "The statement is incorrect. Magnetic field lines can never emanate from a point, and both show the same field lines as an electric field of a long positively charged wire.",
   "hypothetical_questions": [
-    "What are superconducting magnets used for?",
-    "How do paramagnetic substances get magnetized?"
+    "Why do magnetic field lines not emanate from a point?",
+    "What is the correct representation of the magnetic field around a straight conductor?"
   ],
   "keywords": [
-    "superconducting magnets",
-    "superfast trains",
-    "paramagnetic substances",
-    "external magnetic field",
-    "magnetization"
+    "magnetic field lines",
+    "emanation from a point",
+    "electric field of a long positively charged wire",
+    "magnetic field around a straight conductor"
   ],
   "global_chunk_index": 51
 }

@@ -1,32 +1,38 @@
 {
-  "content": "(f) Wrong. These field lines cannot possibly represent a magnetic field. Look at the upper region. All the field lines seem to emanate out of the shaded plate. The net flux through a surface surrounding the shaded plate is not zero. This is impossible for a magnetic field. The given field lines, in fact, show the electrostatic field lines around a positively charged upper plate and a negatively charged lower plate. The difference between Fig. [5.6(e) and (f)] should be carefully grasped.\n\n(g) Wrong. Magnetic field lines between two pole pieces cannot be precisely straight at the ends. Some fringing of lines is inevitable. Otherwise, Ampere's law is violated. This is also true for electric field lines.",
+  "content": "If you do not notice any change from the end to the middle of B, then A is magnetised.\n\n# 5.2.4 The electrostatic analog\n\nComparison of Eqs. (5.1), (5.2) and (5.3) with the corresponding equations for electric dipole (Chapter 1), suggests that magnetic field at large distances due to a bar magnet of magnetic moment  $\\mathbf{m}$  can be obtained from the equation for electric field due to an electric dipole of dipole moment  $\\mathbf{p}$ , by making the following replacements:\n\n$$\n\\mathbf {E} \\rightarrow \\mathbf {B}, \\mathbf {p} \\rightarrow \\mathbf {m}, \\frac {1}{4 \\pi \\varepsilon_ {0}} \\rightarrow \\frac {\\mu_ {0}}{4 \\pi}\n$$",
   "header_path": "Solution",
   "line_ranges": [
     [
-      257,
-      257
+      116,
+      116
     ],
     [
-      259,
-      259
+      118,
+      118
+    ],
+    [
+      120,
+      120
+    ],
+    [
+      122,
+      124
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 31,
-  "total_chunks_in_file": 76,
-  "summary": "The explanation provided states that the given field lines (Fig. 5.6(f)) do not represent a magnetic field but instead depict the electrostatic field around a positively charged upper plate and a negatively charged lower plate. The explanation emphasizes that magnetic field lines can't emanate from or converge to a surface with a net flux and that an observer looking in perpendicular to the surface should observe the electric field in the mentioned configuration.",
+  "total_chunks_in_file": 129,
+  "summary": "The text discusses the analogy between the electric and magnetic fields and how magnetic field at large distances due to a bar magnet can be obtained from the equation for electric field due to an electric dipole by replacing E with B, p with m, and 1/(4πε₀) with μ₀/(4π).",
   "hypothetical_questions": [
-    "Why can't magnetic field lines originate from or converge to a surface with a net flux through it?",
-    "What causes the fringing of magnetic field lines between pole pieces and electric field lines?",
-    "How does one accurately represent the magnetic field between two pole pieces?",
-    "What can be a simplified representation of magnetic field lines between two poles?"
+    "What is the difference between the electric and magnetic fields?",
+    "Can you provide an example of a bar magnet?"
   ],
   "keywords": [
-    "magnetic field lines",
-    "electric field around charged plates",
-    "field lines representation",
-    "Ampere's law",
-    "fringing of lines"
+    "electric field",
+    "magnetic field",
+    "electric dipole",
+    "bar magnet",
+    "magnetic moment"
   ],
   "global_chunk_index": 31
 }

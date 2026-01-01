@@ -1,32 +1,32 @@
 {
-  "content": "We have emphasised in Chapter 2 that the zero of potential energy can be fixed at one's convenience. Taking the constant of integration to be zero means fixing the zero of potential energy at  $\\theta = 90^{\\circ}$ , i.e., when the needle is perpendicular to the field. Equation (5.3) shows that potential energy is minimum  $(= -m\\mathrm{B})$  at  $\\theta = 0^{\\circ}$  (most stable position) and maximum  $(= +m\\mathrm{B})$  at  $\\theta = 180^{\\circ}$  (most unstable position).\n\n## Example 5.1",
-  "header_path": "5.2.2 Bar magnet as an equivalent solenoid > 5.2.3 The dipole in a uniform magnetic field",
+  "content": "(i) The magnetic field lines of a magnet (or a solenoid) form continuous closed loops. This is unlike the electric dipole where these field lines begin from a positive charge and end on the negative charge or escape to infinity.\n\n![img-0.jpeg](images/image_1_0.jpeg)\nFIGURE 5.1 The arrangement of iron filings surrounding a bar magnet. The pattern mimics magnetic field lines. The pattern suggests that the bar magnet is a magnetic dipole.",
+  "header_path": "5.2.1 The magnetic field lines",
   "line_ranges": [
     [
-      100,
-      100
+      34,
+      34
     ],
     [
-      102,
-      102
+      36,
+      37
     ]
   ],
   "source_file": "output/leph105/leph105.md",
   "chunk_index": 9,
-  "total_chunks_in_file": 76,
-  "summary": "This text discusses the potential energy of a bar magnet in a uniform magnetic field, emphasizing that the zero of potential energy can be fixed at one's convenience. The potential energy is minimum when the needle is perpendicular to the field and maximum when the needle is parallel to the field.",
+  "total_chunks_in_file": 129,
+  "summary": "The magnetic field lines of a magnet (or a solenoid) form continuous closed loops because they are indistinguishable from other closed loop loop [1].",
   "hypothetical_questions": [
-    "What is the fixed reference point for the zero of potential energy in this situation?",
-    "How is potential energy calculated for a bar magnet in a uniform magnetic field?",
-    "What is the stability of the potential energy at 0 degrees and 180 degrees of rotation for the bar magnet?",
-    "What is the relationship between the orientation of the needle and field lines in this scenario?"
+    "What is the source of an electric charge?",
+    "How are electric field lines arranged?",
+    "What is the difference between magnetic and electric field lines?",
+    "How does the magnetic field of a magnet differ from that of electric dipole?"
   ],
   "keywords": [
-    "bar magnet",
-    "uniform magnetic field",
-    "potential energy",
-    "zero of potential energy",
-    "reference point"
+    "magnetic field lines",
+    "closed loop",
+    "magnet",
+    "solenoid",
+    "electric dipole"
   ],
   "global_chunk_index": 9
 }
